@@ -1,3 +1,9 @@
+.env 
+temp/
+documents.pkl
+qna-quickstart-template/app.py
+index.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
