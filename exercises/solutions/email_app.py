@@ -8,7 +8,7 @@ from tenacity import retry, wait_random_exponential, stop_after_attempt
 # Load environment variables
 load_dotenv()
 
-# Configure OpenAI API
+# Configure Azure OpenAI Service API
 openai.api_type = "azure"
 openai.api_version = "2022-12-01"
 openai.api_base = os.getenv('OPENAI_API_BASE')
