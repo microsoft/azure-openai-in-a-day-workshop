@@ -7,7 +7,7 @@ We'll be using the following technology:
 
 * Python
 * Streamlit library (web frontend)
-* OpenAI (summarization, answering)
+* Azure OpenAI Service (summarization, answering)
 
 ## Guided help
 
@@ -26,9 +26,9 @@ Once you have that running, create a new Python file called `email_app.py` and u
 2. Run the app via `streamlit run email_app.py`
 3. Add fake functionality that when somebody presses one of the buttons, that the UI prints something
 
-### Add OpenAI
+### Add Azure OpenAI Service
 
-Once your app UI is running, add OpenAI:
+Once your app UI is running, add Azure OpenAI Service:
 
-1. Add OpenAI to generate a summary
-2. Add OpenAI to generate an answer
+1. Add Azure OpenAI Service to generate a summary
+2. Add Azure OpenAI Service to generate an answer
