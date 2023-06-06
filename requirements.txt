@@ -9,7 +9,7 @@ plotly==5.12.0
 scipy==1.10.0
 scikit-learn==1.2.0
 tenacity
-tiktoken==0.3.0
+tiktoken
 llama-index==0.4.33
 langchain==0.0.129
-faiss==1.5.3
+faiss-cpu
