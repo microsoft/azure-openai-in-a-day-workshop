@@ -1,4 +1,4 @@
-﻿# azure-openai-in-a-day-workshop
+# azure-openai-in-a-day-workshop
 
 > *In this technical workshop, you will get a comprehensive introduction to Azure OpenAI Service and Azure OpenAI Studio. You will learn how to create and refine prompts for various scenarios using hands-on exercises. You will also discover how to leverage Azure OpenAI Service to access and analyze your company data. Moreover, you will explore existing solution accelerators and best practices for prototyping and deploying use cases end-to-end. The workshop will end with a Q&A session and a wrap-up.*
 
@@ -58,7 +58,7 @@ Choose one of the following options to set up your environment: Codespaces, Devc
 
 > 🌟 Highly recommended: *Best option if you already have a Github account. You can develop on local VSCode or in a browser window. *
 
-The following instructions will discribe how to setup Codespace on your browser This option does not required an software installation or preparation on your Computer
+The following instructions will discribe how to setup Codespace on your browser This option does not required any software installation or preparation on your Computer
 
 * Login to your Github account or create your own in 5 mins.
 * Go to Github repository and click on `Code` button then choose `Create Codespace on Main`.
@@ -66,8 +66,8 @@ The following instructions will discribe how to setup Codespace on your browser 
 * After Github finishs setting up the Codespace enviroment a new window will open, and in the terminal at the bottom of the window type  `pip install -r requirements.txt`, this will make sure that all requried python liberaries are installed and good to go.
 * At the left Explorer Panel create a new file named `.env`. Make sure you are in the base folder when you are creating the file.
 * Open the file and type Azure OpenAI Service endpoint and key as follows:
-  `OPENAI_API_KEY=xxxxxx`
-  `OPENAI_API_BASE=xxxxx`
+  - `OPENAI_API_KEY=xxxxxx`
+  - `OPENAI_API_BASE=xxxxx`
 * To test that everything is running, from the left Explorer panel open `excersizes\quickstart.ipynb`.
 * Press run on the first Notebook the Codespace will ask you to choose your python Enviroment, select `Python Enviroments` then select `Python 3.9.2`
 
@@ -76,17 +76,17 @@ The following instructions will discribe how to setup Codespace on your browser 
 > *Usually a good option if VSCode and Docker Desktop are already installed.*
 
 * Install [Docker](https://www.docker.com/products/docker-desktop)
-* Install [Visual Studio Code](https://code.visualstudio.com/)
+* Install [Visual Studio Code](https://code.visualstudio.com/) or you can install it from the Company Portal.
 * Install [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension
 * Clone this repository
-* Open the repository in Visual Studio Code
+* Open the repository in Visual Studio Code.
 * Click on the green button in the bottom left corner of the window
 * Select `Reopen in Container`
-* Wait for the container to be built and started
+* Wait for the container to be built and started.
 * create a new file named `.env`. Make sure you are in the base folder when you are creating the file.
 * Open the file and type Azure OpenAI Service endpoint and key as follows:
-  `OPENAI_API_KEY=xxxxxx`
-  `OPENAI_API_BASE=xxxxx`
+  - `OPENAI_API_KEY=xxxxxx`
+  - `OPENAI_API_BASE=xxxxx`
 * To test that everything is running open `excersizes\quickstart.ipynb`.
 * Press run on the first Notebook, choose your python Enviroment, select `Python Enviroments` then select `Python 3.9.2`.
 
