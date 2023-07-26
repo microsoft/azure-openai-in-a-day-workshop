@@ -1,0 +1,5457 @@
+[
+{
+"id": 0,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba kontaktnih podatkov",
+"level3a": "nan",
+"question": "Kako uredim spremembo imena/priimka?",
+"keywords": "ime, priimek, osebni podatek, kontakt, zahtevek, sprememba" 
+},
+{
+"id": 1,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba kontaktnih podatkov",
+"level3a": "nan",
+"question": "Kako uredim spremembo kontaktnega podatka?",
+"keywords": "osebni podatek, kontakt, zahtevek, sprememba" 
+},
+{
+"id": 2,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba kontaktnih podatkov",
+"level3a": "nan",
+"question": "Kako uredim spremembo telefonske številke?",
+"keywords": "telefonska številka, telefon, osebni podatek, kontakt, zahtevek, sprememba" 
+},
+{
+"id": 3,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba kontaktnih podatkov",
+"level3a": "nan",
+"question": "Kako uredim spremembo e-maila/e-poštnega naslova?",
+"keywords": "e-mail, e-pošta, e-naslov, kontakt, zahtevek, sprememba, vloga, itriglav" 
+},
+{
+"id": 4,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba kontaktnih podatkov",
+"level3a": "nan",
+"question": "Kako uredim spremembo osebnih podatkov?",
+"keywords": "naslov, pošta, sprememba, osebni podatki, zahtevek, sprememba, položnica, vloga, itriglav" 
+},
+{
+"id": 5,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba kontaktnih podatkov",
+"level3a": "nan",
+"question": "Kako uredim spremembo naslova za prejemanje pošte?",
+"keywords": "sprememba podatkov, sprememba, plačilo, zahtevek, naslov" 
+},
+{
+"id": 6,
+"level1": "Informacije",
+"level2": "Sprememba kontaktnih podatkov",
+"level3": "Sprememba načina plačila",
+"level3a": "nan",
+"question": "Kako uredim spremembo načina plačila?",
+"keywords": "UPN obrazec, trajnik, direktna obremenitev, račun položnica, plačilo, e-račun, sprememba" 
+},
+{
+"id": 7,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Stečaj - fizične osebe",
+"level3a": "nan",
+"question": "Preverjanje zavarovanj stranke",
+"keywords": "zavarovanja, stečaj, sodišče" 
+},
+{
+"id": 8,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Stečaj - fizične osebe",
+"level3a": "nan",
+"question": "Preverjanje dolgov za stranko",
+"keywords": "dolg, premoženje, stečaj, sodišče" 
+},
+{
+"id": 9,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Stečaj - fizične osebe",
+"level3a": "nan",
+"question": "Preverjanje premoženjskega stanja za stranko",
+"keywords": "premoženje, stanje na polici, stečaj, sodišče" 
+},
+{
+"id": 10,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Stečaj / likvidacija / prisilna poravnava podjetja",
+"level3a": "nan",
+"question": "Preverjanje premoženjskega stanja za podjetje",
+"keywords": "premoženje, likvidacija, poravnava, stečaj, sodišče" 
+},
+{
+"id": 11,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Stečaj / likvidacija / prisilna poravnava podjetja",
+"level3a": "nan",
+"question": "Preverjanje dolgov za podjetje",
+"keywords": "dolg, likvidacija, poravnava, stečaj, sodišče" 
+},
+{
+"id": 12,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Narok, sodna taksa, geslo",
+"level3a": "nan",
+"question": "Zanimanje za naroka",
+"keywords": "preklic, sprememba datuma naroka, plačilo sodne takse, geslo" 
+},
+{
+"id": 13,
+"level1": "Informacije",
+"level2": "Pravni postopki",
+"level3": "Podatki za KPK",
+"level3a": "nan",
+"question": "Zahteva za pregled pogodb sklenjenih pri Zavarovalnici Triglav",
+"keywords": "pregled pogodb, korupcija, Uradni list, podatki za KPK" 
+},
+{
+"id": 14,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Izvršba",
+"level3a": "nan",
+"question": "Prejem izvršbe",
+"keywords": "izvršba, sklep status, rubež, izvršba, opomin, kredit, premija" 
+},
+{
+"id": 15,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Izvršba",
+"level3a": "nan",
+"question": "Preverjanje dolgov",
+"keywords": "dolg, status, terjatev, zamudne obresti, opomin, kredit" 
+},
+{
+"id": 16,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Regresne terjatve / regresni dolg",
+"level3a": "nan",
+"question": "Blokiran račun, urejanje terjatev",
+"keywords": "blokiran račun, opomin, kredit, terjatev" 
+},
+{
+"id": 17,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Preplačilo storitev",
+"level3a": "nan",
+"question": "Preplačana premija",
+"keywords": "preplačilo, povračilo denarja, znesek, sklic, IBAN, premija" 
+},
+{
+"id": 18,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Dvojni odtrgljij premije",
+"level3a": "nan",
+"question": "Dvojni odtegljaj premije",
+"keywords": "dvojni odtegljaj, preplačilo, premija" 
+},
+{
+"id": 19,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Vračilo storitev",
+"level3a": "nan",
+"question": "Kako lahko prekinem polico?",
+"keywords": "prekinitev, dokumentacija, e-mail, stroški" 
+},
+{
+"id": 20,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Vračilo storitev",
+"level3a": "nan",
+"question": "Ali je polica prekinjena? (Ne)",
+"keywords": "prekinitev, dokumentacija, dokazila, polica" 
+},
+{
+"id": 21,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Vračilo storitev",
+"level3a": "nan",
+"question": "Ali je polica prekinjena? (Da)",
+"keywords": "prekinitev, datum nakazila, datum prekinitve, polica" 
+},
+{
+"id": 22,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Opomini",
+"level3a": "nan",
+"question": "Informacije o opominu",
+"keywords": "opomin, polica, premija, osebno zavarovanje, križanje polic, plačilo" 
+},
+{
+"id": 23,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Stanje dolga",
+"level3a": "nan",
+"question": "Kakšno je stanje dolga?",
+"keywords": "dolg, stanje, plačilo" 
+},
+{
+"id": 24,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Odpis dolga / obročno plačilo",
+"level3a": "nan",
+"question": "Kakšne so možnosti odplačila dolga?",
+"keywords": "dolg, plačilo, obroki, zamik, premija" 
+},
+{
+"id": 25,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Konto kartica/IOP",
+"level3a": "nan",
+"question": "Kakšno je stanje obrokov/plačil?",
+"keywords": "stanje obrokov, stanje plačil, konto kartica" 
+},
+{
+"id": 26,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Račun / plačila / vračila",
+"level3a": "nan",
+"question": "Ali je račun poravnan/ plačan?",
+"keywords": "informacije, zapisi na računu, razlog prejetja, poravnan račun" 
+},
+{
+"id": 27,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Dodatna vplačila (potrdilo / razlaga)",
+"level3a": "nan",
+"question": "Kakšne so možnosti dodatnih vplačil v zavarovanje?",
+"keywords": "investicijsko zavarovanje, naložbeno zavarovanje, potrdilo, razlaga, vplačilo, mesečna premija" 
+},
+{
+"id": 28,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Dodatna vplačila (potrdilo / razlaga)",
+"level3a": "nan",
+"question": "Kakšne so možnosti enkratnega vplačila v mešano življenjsko zavarovanje?",
+"keywords": "mešano življenjsko zavarovanje, enkratno vplačilo, mesečna premija, potrdilo, razlaga" 
+},
+{
+"id": 29,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Dodatna vplačila (potrdilo / razlaga)",
+"level3a": "nan",
+"question": "Kako znižam premijo z enkratnim vplačilom?",
+"keywords": "mešano življenjsko zavarovanje, enkratno vplačilo, mesečna premija, potrdilo, razlaga" 
+},
+{
+"id": 30,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Datum plačila / zapadlost premije",
+"level3a": "nan",
+"question": "Kakšen je rok za plačilo premije?",
+"keywords": "rok plačila, opomin, premija" 
+},
+{
+"id": 31,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Datum plačila / zapadlost premije",
+"level3a": "nan",
+"question": "Kakšne so posledice plačila po roku?",
+"keywords": "rok plačila, opomin, dolg, terjatev, izvršba" 
+},
+{
+"id": 32,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Popusti",
+"level3a": "nan",
+"question": "Kako lahko unovčim kupon?",
+"keywords": "spletni popust, kuponi" 
+},
+{
+"id": 33,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "KATEGORIZACIJA - NE MOREM SPREMENITI ",
+"question": "Kaj je Triglav komplet?",
+"keywords": "Triglav komplet, popust, 40%, " 
+},
+{
+"id": 34,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kaj pridobim z vključitvijo v Triglav komplet?",
+"keywords": "Triglav komplet, vključitev, pogoji" 
+},
+{
+"id": 35,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Katera zavarovanja lahko vključim v Triglav komplet?",
+"keywords": "Triglav komplet, popust, zavarovanja" 
+},
+{
+"id": 36,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "S koliko zavarovalnimi policami lahko sestavim svoj Triglav komplet? Kaj pa moj sin, ki bi se priključil kasneje?",
+"keywords": "Triglav komplet, vključitev, pogoji" 
+},
+{
+"id": 37,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kakšen je najvišji popust, ki ga lahko pridobim v Triglav kompletu?",
+"keywords": "nan" 
+},
+{
+"id": 38,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kako pa lahko zberem najvišji Triglav komplet popust?",
+"keywords": "nan" 
+},
+{
+"id": 39,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kdo je lahko nosilec Triglav kompleta?",
+"keywords": "Triglav komplet, nosilec, pogoji" 
+},
+{
+"id": 40,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Ali lahko Triglav komplet oblikujem tudi, če imam le varčevalni načrt odprt pri Triglav Skladih?",
+"keywords": "Triglav komplet, vključitev, pogoji, skladi" 
+},
+{
+"id": 41,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kako lahko oblikujem Triglav komplet popust?",
+"keywords": "Triglav komplet, oblikovanje kompleta, sestanek, identifikacijska številka" 
+},
+{
+"id": 42,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kakšna je višina Triglav komplet popusta?",
+"keywords": "Triglav komplet, višina popusta, premoženjska, življenjska, zdravstvena; odstotek, popust" 
+},
+{
+"id": 43,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kaj pomeni popust za zvestobo v Triglav kompletu?",
+"keywords": "nan" 
+},
+{
+"id": 44,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kaj šteje v kategorijo digitalno poslovanje?",
+"keywords": "nan" 
+},
+{
+"id": 45,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Ali lahko računam na Triglav komplet popust ne glede na višino premije?",
+"keywords": "nan" 
+},
+{
+"id": 46,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Avtomobil imam na lizing. Tudi zavarovanje imam urejeno preko lizing podjetja. Ali to zavarovanje lahko vključim v svoj Triglav komplet?",
+"keywords": "nan" 
+},
+{
+"id": 47,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Preko spleta smo sklenili letno zavarovanje potovanj v tujino, ki prične veljati šele čez teden dni. Ali zavarovanje lahko vključim v Triglav komplet?",
+"keywords": "nan" 
+},
+{
+"id": 48,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kakšna je višina minimalne premije na polici, da zavarovanje šteje v Triglav komplet?",
+"keywords": "nan" 
+},
+{
+"id": 49,
+"level1": "Informacije",
+"level2": "Terjatve / plačila",
+"level3": "Triglav komplet",
+"level3a": "nan",
+"question": "Kdo v družini je upravičen do Triglav komplet popusta?",
+"keywords": "Triglav komplet, višina popusta, družinski člani, upravičenci" 
+},
+{
+"id": 50,
+"level1": "Informacije",
+"level2": "Krediti",
+"level3": "Vinkulacija / devinkulacija",
+"level3a": "nan",
+"question": "Ali je vinkulacija urejena? (da)",
+"keywords": "potrdilo, potek, vinkulacija, devinkulacija, kredit" 
+},
+{
+"id": 51,
+"level1": "Informacije",
+"level2": "Krediti",
+"level3": "Vinkulacija / devinkulacija",
+"level3a": "nan",
+"question": "Ali je vinkulacija urejena? (ne)",
+"keywords": "potrdilo, potek, vinkulacija, devinkulacija, kredit" 
+},
+{
+"id": 52,
+"level1": "Informacije",
+"level2": "Krediti",
+"level3": "Vinkulacija / devinkulacija",
+"level3a": "nan",
+"question": "Ali je devinkulacija urejena? (da)",
+"keywords": "devinkulacija, izplačilo kredita" 
+},
+{
+"id": 53,
+"level1": "Informacije",
+"level2": "Krediti",
+"level3": "Vinkulacija / devinkulacija",
+"level3a": "nan",
+"question": "Ali je devinkulacija urejena? (ne)",
+"keywords": "devinkulacija, izplačilo kredita" 
+},
+{
+"id": 54,
+"level1": "Informacije",
+"level2": "Krediti",
+"level3": "Vprašanja / težave kreditojemalcev",
+"level3a": "nan",
+"question": "Kakšna je vloga zavarovalnice pri kreditu?",
+"keywords": "kredit, nakup, zavarovanje kredita, zavarovanje kreditojemalca" 
+},
+{
+"id": 55,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Informativna ponudba",
+"level3a": "nan",
+"question": "Kakšno ceno/premijo lahko pričakujem?",
+"keywords": "informativna ponudba, cena premije, višina premije, kritje, konkurenca, zastopnik, poslovalnica, spletno sklepanje" 
+},
+{
+"id": 56,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Informativna ponudba",
+"level3a": "nan",
+"question": "Kako lahko pridobim informativno ponudbo zavarovanja?",
+"keywords": "informativna ponudba, cena premije, zastopnik, poslovalnice" 
+},
+{
+"id": 57,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Individualno prostovoljno pokojninsko zavarovanje",
+"question": "Kje lahko dobim dodatne informacije o zavarovanju?",
+"keywords": "individualno pokojninsko zavarovanje, pogoji, cena premije, višina premije, kritje, izplačilo, olajšave, primerjava, brošura" 
+},
+{
+"id": 58,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Individualno prostovoljno pokojninsko zavarovanje",
+"question": "Kakšne so možnosti dodatnih vplačil v zavarovanje?",
+"keywords": "dodatno vplačilo, olajšava, vračilo dohodnine, pogoji, višina premije" 
+},
+{
+"id": 59,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Individualno prostovoljno dodatno pokojninsko zavarovanje",
+"question": "Kje lahko dobim dodatne informacije o zavarovanju?",
+"keywords": "individualno pokojninsko zavarovanje, pogoji, cena premije, višina premije, kritje, izplačilo, olajšave, primerjava, brošura" 
+},
+{
+"id": 60,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Individualno prostovoljno dodatno pokojninsko zavarovanje",
+"question": "Kakšne so možnosti dodatnih vplačil v zavarovanje?",
+"keywords": "dodatno vplačilo, članstvo, olajšave, vračilo dohodnine, pogoji, višina premije, maksimalna premija" 
+},
+{
+"id": 61,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Individualno prostovoljno dodatno pokojninsko zavarovanje",
+"question": "Kakšen je učinek davčne olajšave?",
+"keywords": "davčna olajšava, učinek, informativni izračun, višina povrnjene dohodnine, pokojnine" 
+},
+{
+"id": 62,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Prostovoljno dodatno pokojninsko zavarovanje prek spleta - I.PDPZ ",
+"question": "Kako lahko sklenem zavarovanje?",
+"keywords": "PDPZ, sklepanje zavarovanja, možnosti, splet, poslovalnica, pošta, pristopna izjava, obrazec" 
+},
+{
+"id": 63,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Kolektivno prostovoljno pokojninsko zavarovanje - PPZ",
+"question": "Kakšne so možnosti dodatnih vplačil v zavarovanje?",
+"keywords": "kolektivno, pokojninsko zavarovanja, dodatna vplačila, delodajalec, zaposleni" 
+},
+{
+"id": 64,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Kolektivno prostovoljno dodatno pokojninsko zavarovanje - PDPZ",
+"question": "Kje lahko dobim dodatne informacije o zavarovanju?",
+"keywords": "kolektivno, pokojninsko zavarovanje, brošura, splošne informacije, osnovne informacije" 
+},
+{
+"id": 65,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Kolektivno prostovoljno dodatno pokojninsko zavarovanje - PDPZ",
+"question": "Kako lahko prekinem polico? (sem zaposlen na ZT).",
+"keywords": "prekinitev police, zaposleni ZT, pokojninsko zavarovanje" 
+},
+{
+"id": 66,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pokojninska zavarovanja",
+"level3a": "Kolektivno prostovoljno dodatno pokojninsko zavarovanje - PDPZ",
+"question": "Kakšne so možnosti predčasnega izplačila?",
+"keywords": "predčasno izplačilo, zaposleni ZT, pokojninsko zavarovanje" 
+},
+{
+"id": 67,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Naložbeno življenjsko zavarovanje",
+"question": "Kako določiti zavarovalno dobo?",
+"keywords": "naložbeno, življenjsko zavarovanje, zavarovalna doba, trajanje, 10 let, izplačilo, donos, sklepanje" 
+},
+{
+"id": 68,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Naložbeno življenjsko zavarovanje",
+"question": "Kaj pomeni odprta zavarovalna doba?",
+"keywords": "odprta zavarovalna doba, naložbeno zavarovanje, fleks" 
+},
+{
+"id": 69,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Enkratno naložbeno zavarovanje",
+"question": "Kako lahko oddam vlogo za izplačilo?",
+"keywords": "vloga, izplačilo, delovni dan, pogoji" 
+},
+{
+"id": 70,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Abc življenjsko zavarovanje",
+"question": "Kdaj lahko vložim zahtevo za izplačilo?",
+"keywords": "izplačilo, 10 let, vloga" 
+},
+{
+"id": 71,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Naložbeno življenjsko zavarovanje ilirika dinamični NŽZ",
+"question": "Koliko časa traja zavarovalna doba?",
+"keywords": "zavarovalna doba, naložbeno zavarovanje" 
+},
+{
+"id": 72,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Investicijsko zavarovanje fleks",
+"question": "Kakšne so možnosti dodatnih vplačil v zavarovanje?",
+"keywords": "fleks zavarovanje, dodatno vplačilo, predhodna najava" 
+},
+{
+"id": 73,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Investicijsko zavarovanje fleks za mlade",
+"question": "Kdo je zavarovalec na polici?",
+"keywords": "zavarovalec, mladostnik, otrok, investicijsko zavarovanje" 
+},
+{
+"id": 74,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Investicijsko zavarovanje fleks za mlade",
+"question": "Kako uredim pooblastilo za urejanje sprememb na polici?",
+"keywords": "pooblaščenec, izpolnjeno pooblastilo, itriglav, spremembe na polici, izjava zakonitega zastopnika, fleks za mlade" 
+},
+{
+"id": 75,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Investicijsko zavarovanje fleks za odrasle ",
+"question": "Kaj storiti v primeru smrti zavarovanca?",
+"keywords": "smrt zavarovanca, postopek prijave, upravičenec, matična knjiga umrlih, obrazec" 
+},
+{
+"id": 76,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Investicijsko zavarovanje ilirika dinamični fleks",
+"question": "Koliko časa traja zavarovalna doba?",
+"keywords": "zavarovalna doba, investicijsko zavarovanje, ilirika, dinamični fleks" 
+},
+{
+"id": 77,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Investicijsko zavarovanje fleks prek spleta - i.fleks",
+"question": "Kako lahko sklenem zavarovanje?",
+"keywords": "fleks, spletno sklepanje zavarovanj, ifleks, itriglav" 
+},
+{
+"id": 78,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kako spremenim sklade?",
+"keywords": "sprememba, skladi, pisna zahteva, triglav skladi" 
+},
+{
+"id": 79,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kje lahko preverim podatke o izvedeni investiciji?",
+"keywords": "vpogled, vrednost, premoženje, skladi" 
+},
+{
+"id": 80,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kako lahko preverim vrednosti enot premoženja (VEP) skladov?",
+"keywords": "VEP, premoženje, naložbeno zavarovanje, skladi" 
+},
+{
+"id": 81,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kako preverim stanje na skladih?",
+"keywords": "VEP, premoženje, naložbeno zavarovanje, skladi, stanje" 
+},
+{
+"id": 82,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kje dobim več informacij o skladih?",
+"keywords": "triglav skladi, informacije, skladi" 
+},
+{
+"id": 83,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kaj je varčevalni načrt?",
+"keywords": "varčevalni načrt, skladi, Triglav skladi, informacije" 
+},
+{
+"id": 84,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Kakšne so prednosti varčevalnega načrta?",
+"keywords": "varčevalni načrt, skladi, Triglav skladi, prednosti" 
+},
+{
+"id": 85,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Naložbena in investicijska zavarovanja",
+"level3a": "Skladi",
+"question": "Med kakšnimi naložbenimi kombinacijami lahko izberem?",
+"keywords": "varčevalni načrt, skladi, Triglav skladi, izbira načrta, kombinacije" 
+},
+{
+"id": 86,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje mladi voznik",
+"question": "Na kaj je vezano zavarovanje mladi voznik?",
+"keywords": "mladi voznik, avtomobilsko zavarovanje, voznik, AO, vozilo" 
+},
+{
+"id": 87,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje pravne zaščite",
+"question": "Kaj mi nudi zavarovanje avtomobilske pravne zaščite?",
+"keywords": "pravna zaščita, povzročitelj, popravilo, avtomobilsko zavarovanje" 
+},
+{
+"id": 88,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Kasko zavarovanje",
+"question": "Kaj mi nudi delna kombinacija pri zavarovanju avta?",
+"keywords": "delni kasko, avtomobilsko zavarovanje, kombinacija" 
+},
+{
+"id": 89,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Kasko zavarovanje",
+"question": "Kaj so koristi kasko zavarovanja?",
+"keywords": "kasko zavarovanje, krtije, avtomobilsko zavarovanje" 
+},
+{
+"id": 90,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Kasko zavarovanje",
+"question": "Kako zavarovati starejše vozilo?",
+"keywords": "kasko zavarovanje, starost, avtomobilsko zavarovanje, delni kasko, starejša vozila" 
+},
+{
+"id": 91,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Kako prenesem bonus iz druge zavarovalnice?",
+"keywords": "bonifikacija, kasko zavarovanje, lastništvo, avtomobilsko zavarovanje, prenos" 
+},
+{
+"id": 92,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Kaj krije obvezno avtomobilsko zavarovanje?",
+"keywords": "AO, zavarovanje avtomobilske odgovornosti, obvezno zavarovanje, škoda, kasko zavarovanje" 
+},
+{
+"id": 93,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Mladi voznik samo za osebna vozila ali tudi do 3,5 t, ki so vozna z B kategorijo?",
+"keywords": "AO, polica, mladi voznik, osebni avto, tovorno vozilo" 
+},
+{
+"id": 94,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Je problem, če voznik ni zavarovanec? Kaj če je zavarovanec sopotnik, voznik pa nekdo drug? Je zavarovanec krit za telesne poškodbe po AO-ju? Pogoji namreč govorijo o zavarovancu, ne vozniku.",
+"keywords": "AO, polica, mladi voznik, telesne poškode, kritje" 
+},
+{
+"id": 95,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Polica mladi voznik pri pravnih osebah - je dovolj polica posameznika, ali bo moralo podjetje skleniti dodatno polico za mladega voznika?",
+"keywords": "AO, polica, mladi voznik" 
+},
+{
+"id": 96,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Upam da niste pri AOD preveč posplošili izključitve kritja pri "dirkah". Rally namreč na etapah med hitrostnimi preizkušnjami poteka v normalnem prometu, tako da dirkalnik potrebuje zavarovanje kot običajno osebno vozilo (?).",
+"keywords": "AO, polica, mladi voznik, uporaba vozila" 
+},
+{
+"id": 97,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ali so pri AO zavarovanju kriti tudi ožji družinski člani, ki bivajo na istem naslovu (partner, otroci, starši)?",
+"keywords": "nan" 
+},
+{
+"id": 98,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ali je uporaba varnostnega pasu pogojena z izplačilom odškodnine telesnih poškodb pri potnikih?",
+"keywords": "nan" 
+},
+{
+"id": 99,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Primer, da se avtomobilska prikolica do 750 kg, ki je odpeta od vozila, sama odpelje po nagnjenem terenu in povzroči škodo - kako je s kritjem?",
+"keywords": "nan" 
+},
+{
+"id": 100,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Za polico, ki jo sklepam 2022, se gleda razlika med 2021 in 2020? Vendar v tem primeru, ko sklepam to polico, vozilo še ni opravilo tehničnega pregleda in posledično v eMRLVju ni letošnjega stanja?",
+"keywords": "nan" 
+},
+{
+"id": 101,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Kako se obračuna popust na kilometre, če stranka najprej uredi zavarovanje, šele potem tehnični pregled?",
+"keywords": "nan" 
+},
+{
+"id": 102,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ali je potrebno obračunati doplačilo za mladega voznika pri avtošolah?",
+"keywords": "nan" 
+},
+{
+"id": 103,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Kaj pa popust na hibride in električna vozila (popust na vrsto goriva)?",
+"keywords": "nan" 
+},
+{
+"id": 104,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ali je možno kombajne zavarovati samo za sezonsko obdobje?",
+"keywords": "nan" 
+},
+{
+"id": 105,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Kaj pa doplačilo za nadomestno vozilo, ostaja še naprej, ker ni bilo omenjeno med doplačili?",
+"keywords": "nan" 
+},
+{
+"id": 106,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ali je diagnoza "udarec v glavo" utemeljitev, da ni uporabljal pasu in je temelj za znižanje za 25%?",
+"keywords": "nan" 
+},
+{
+"id": 107,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Popust glede na pogonsko gorivo - bencin -5%. To se mi zdi absurd oziroma diskriminacija lastnikov dizel vozil, kajti pogonska goriva sigurno ne vplivajo na varnost oziroma višino škode.",
+"keywords": "nan" 
+},
+{
+"id": 108,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Torej vozniki, kateri vozijo vozila z diesel motorji več kot 20 let brez nesreč, niso upravičene do tega popusta? Vozniki, kateri vozijo bencinska vozila z zelo visokimi kw in veliko km so pa opravičeni?",
+"keywords": "nan" 
+},
+{
+"id": 109,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Konkurenčna zavarovalnica Sava ima ceno mladi voznik AO, AO+, AKA 104 eur, pri nas pride s Triglav komplet popustom npr. 11% 142 eur. Ostaja cena ista ali bomo konkurenčni v prihodnosti?",
+"keywords": "nan" 
+},
+{
+"id": 110,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Kaj pa v primeru sedlastih vlačilcev, kateri delajo malo kilometrov?",
+"keywords": "nan" 
+},
+{
+"id": 111,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Hibridna in električna vozila – težave, ko se kw različni na homologaciji in prometni?",
+"keywords": "nan" 
+},
+{
+"id": 112,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ukinja se doplačila za nadomestna vozila – v primeru avto vleke, ki opravlja storitev avto vleke, rabi ali ne to storitev?",
+"keywords": "nan" 
+},
+{
+"id": 113,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Mladi voznik – npr. mati ima vozilo pisano na sebe kot fizična oseba, oče kot firma. Če otrok vozi vozilo matere potrebuje polico mladega voznika, če vozi vozilo očeta pa ne potrebuje te police, ker že ima plačano doplačilo po eni polici?",
+"keywords": "nan" 
+},
+{
+"id": 114,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Ste uredili tudi štirikolesnike, ki so homologirani kot traktor in ga zavarujemo po PS 04? V katalogu pri traktorjih jih ni in imamo težavo določit ceno. Najdeš pa jih v katalogu za motorna kolesa.",
+"keywords": "nan" 
+},
+{
+"id": 115,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje avtomobilske odgovornosti (obvezno avtomobilsko zavarovanje)",
+"question": "Glede na to, da se ukinja 20% doplačila za pravne osebe, ali bo ZT po obstoječih policah vračala premijo?",
+"keywords": "nan" 
+},
+{
+"id": 116,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja vozil",
+"level3a": "Zavarovanje mikro prevoznih sredstev",
+"question": "Kakšna je cena zavarovanja električnega kolesa?",
+"keywords": "električno kolo, cena premije, mikro prevozno sredstvo, zavarovanje, AvtoMobilno" 
+},
+{
+"id": 117,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje male živali",
+"level3a": "Zavarovanje hišni ljubljenčki",
+"question": "Kakšna so kritja zavarovanja psov?",
+"keywords": "zavarovanje psov, standard, standard+, nadstandard, kritje" 
+},
+{
+"id": 118,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kaj krije zavarovanje?",
+"keywords": "kmetijsko zavarovanje, splošno, kritje, kmečko zavarovanje, plodovi, posevki" 
+},
+{
+"id": 119,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "obseg, kmetijsko zavarovanje, pokriva, dodatno kritje, kmečko zavarovanje, plodovi, posevki" 
+},
+{
+"id": 120,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "kritje, kmetijsko zavarovanje, bolezni, izključuje, kmečko, plodovi, posevki" 
+},
+{
+"id": 121,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "kritje, omejeno, vrednost izdelka, zavarovalna vsota, kmetijsko zavarovanje, kmečko, plodovi, posevki, soudeležba, franšiza" 
+},
+{
+"id": 122,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "kmetijsko zavarovanje, plačilo, premija, način plačila, plodovi, posevki" 
+},
+{
+"id": 123,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "kmetijsko zavarovanje, trajanje, veljavnost, preneha, konec, obdobje zavarovanja, plodovi, posevki" 
+},
+{
+"id": 124,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "kmetijsko zavarovanje, območje, veljavnost, plodovi, posevki" 
+},
+{
+"id": 125,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje posevkov in plodov",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "kmetijsko zavarovanje, odpoved, odpovedni rok, konec pogodbe, odstop od pogodbe, plodovi, posevki, 3 meseci, 30 dni" 
+},
+{
+"id": 126,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Indeksno zavarovanje posevkov pred nevarnostjo suše",
+"question": "Splošne informacije",
+"keywords": "indeksno zavarovanje posevkov, suša, pomanjkanje padavin, splošne informacije, indeks, posevki" 
+},
+{
+"id": 127,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Indeksno zavarovanje posevkov pred nevarnostjo suše",
+"question": "Kaj krije zavarovanje?",
+"keywords": "indeksno zavarovanje posevkov, suša, nevarnost, kritje, indeks, posevki" 
+},
+{
+"id": 128,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Indeksno zavarovanje posevkov pred nevarnostjo suše",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "indeksno zavarovanje posevkov, suša, nevarnost, veljavnost, indeks, posevki" 
+},
+{
+"id": 129,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Indeksno zavarovanje posevkov pred nevarnostjo suše",
+"question": "Kakšni so pogoji sklepanja?",
+"keywords": "indeksno zavarovanje posevkov, suša, nevarnost, pogoji, sklepanje, indeks, posevki" 
+},
+{
+"id": 130,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kaj krije zavarovanje?",
+"keywords": "kmetijsko zavarovanje, splošno, kritje, kmečko zavarovanje, ozimni posevki" 
+},
+{
+"id": 131,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "obseg, kmetijsko zavarovanje, pokriva, dodatno zavaruje, kmečko zavarovanje, ozimni posevki" 
+},
+{
+"id": 132,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "kritje, kmetijsko zavarovanje, bolezni, izključuje, kmečko, ozimni posevki, omejitve" 
+},
+{
+"id": 133,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "kmetijsko zavarovanje, plačilo, premija, način plačila, ozimni posevki" 
+},
+{
+"id": 134,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "kmetijsko zavarovanje, trajanje, veljavnost, preneha, konec, obdobje zavarovanja, ozimni posevki, jamčenje" 
+},
+{
+"id": 135,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "obveznosti, kmetijsko zavarovanje, dolžnosti, ozimni posevki" 
+},
+{
+"id": 136,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "veljavnost, območje, področje, ozimni posevki" 
+},
+{
+"id": 137,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje ozimnih posevkov",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "kmetijsko zavarovanje, odpoved, odpovedni rok, konec pogodbe, odstop od pogodbe, ozimni posevki" 
+},
+{
+"id": 138,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kaj krije zavarovanje?",
+"keywords": "kmetijsko zavarovanje, živali, bolezni, zakol, kritje" 
+},
+{
+"id": 139,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "obseg, kmetijsko zavarovanje, pokriva, dodatno zavarovanje, živali, kmečko, zdravljenje" 
+},
+{
+"id": 140,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "kmetijsko zavarovanje, splošno, kritje, kmečko zavarovanje, živali" 
+},
+{
+"id": 141,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "omejeno, kritje, zdravljenje, kmetijsko zavarovanje, živali" 
+},
+{
+"id": 142,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "kmetijsko zavarovanje, plačilo, premija, način plačila, živali" 
+},
+{
+"id": 143,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "kmetijsko zavarovanje, trajanje, veljavnost, preneha, konec, obdobje zavarovanja, živali" 
+},
+{
+"id": 144,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "veljavnost, območje, področje, živali" 
+},
+{
+"id": 145,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "obveznosti, kmetijsko zavarovanje, dolžnosti, živali" 
+},
+{
+"id": 146,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Zavarovanje gospodarskih živali in konjev",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "kmetijsko zavarovanje, odpoved, odpovedni rok, konec pogodbe, odstop od pogodbe, živali" 
+},
+{
+"id": 147,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Nezgodno zavarovanje plemenskih krav",
+"question": "Kaj krije zavarovanje?",
+"keywords": "kmetijsko zavarovanje, nezgodno zavarovanje, plemenske krave, informacije" 
+},
+{
+"id": 148,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Kmetijska zavarovanja",
+"level3a": "Živinorejski paket",
+"question": "Kaj krije zavarovanje?",
+"keywords": "reja plemenskih krav, zavarovanje plemenskih krav, živinorejski paket" 
+},
+{
+"id": 149,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Splošne informacije",
+"keywords": "Individualno nezgodno zavarovanje, splošno, krije, ne krije, veljavnost, trajanje, tujina" 
+},
+{
+"id": 150,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "Individualno nezgodno zavarovanje, veljavnost, tujina" 
+},
+{
+"id": 151,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Od česa je odvisna višina zavarovalnine?",
+"keywords": "Individualno nezgodno zavarovanje, višina, zavarovalnina" 
+},
+{
+"id": 152,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "V čem se razlikujeta posamično in kolektivno nezgodno zavarovanje?",
+"keywords": "Individualno nezgodno zavarovanje, kolektivno nezgodno zavarovanje, razlika" 
+},
+{
+"id": 153,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Kako naredim informativni izračun?",
+"keywords": "informativni izračun, nezgodno zavarovanje, ponudba, zastopnik, spletno sklepanje" 
+},
+{
+"id": 154,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kaj krije zavarovanje?",
+"keywords": "nezgodno zavarovanje, otroci, mladina, kritje" 
+},
+{
+"id": 155,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "nezgodno zavarovanje, otroci, mladina, kritje, dodatno kritje, doplačilo" 
+},
+{
+"id": 156,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "nezgodno zavarovanje, otroci, mladina, kritje, ne vključuje, izključuje" 
+},
+{
+"id": 157,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "nezgodno zavarovanje, otroci, mladina, kritje, ne vključuje, izključuje" 
+},
+{
+"id": 158,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "plačilo premije, nezgodno zavarovanje, mladina, otroci, način plačila, možnosti plačila" 
+},
+{
+"id": 159,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "zavarovalno kritje, začetek kritja, veljavnost, začetek zavarovanja, prenehanje, zavarovalno leto, dopolnjena starost, konec zavarovanja, plačilo premije, nezgodno zavarovanje, otroci, mladina" 
+},
+{
+"id": 160,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "veljavnost, države, nezgodno zavarovanje, otroci, mladina, območje zavarovanja" 
+},
+{
+"id": 161,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "obveznosti, nezgodno zavarovanje, otroci, mladina, prijava nezgode" 
+},
+{
+"id": 162,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "odstop od pogodbe, prekinitev zavarovanja, nezgodno zavarovanje, otroci, mladina" 
+},
+{
+"id": 163,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kaj krije nezgodno zavarovanje v primeru škode?",
+"keywords": "poškodba, kritje, nezgodno zavarovanje mladih" 
+},
+{
+"id": 164,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšen je postopek pri poškodbi otroka ali mladostnika?",
+"keywords": "poškodba, ravnanje ob škodi, prijava škode, dokumentacija, obrazec" 
+},
+{
+"id": 165,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako prijaviti nezgodo?",
+"keywords": "prijava škode, prijava nezgode, obrazec, dokumentacija, dokazila" 
+},
+{
+"id": 166,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Ali lahko izvedem prijavo škode brez potrdila o sklenjenem zavarovanju oz. št. zavarovalne police?",
+"keywords": "prijava škode, potrdilo o zavarovanju, številka police, obrazec" 
+},
+{
+"id": 167,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kaj pomeni, da je nezgodno zavarovanje brez poteka?",
+"keywords": "brez poteka, permanentno, avtomatska obnova, sklepanje, nezgodno zavarovanje mladih" 
+},
+{
+"id": 168,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako skleniti zavarovanje?",
+"keywords": "sklepanje, nezgodno zavarovanje otrok, Pazi name" 
+},
+{
+"id": 169,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Ali lahko sklenem nezgodno zavarovanje mladih med letom?",
+"keywords": "sklepanje, nezgodno zavarovanje otrok, Pazi name" 
+},
+{
+"id": 170,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Ali nezgodno zavarovanje velja v tujini in med počitnicami?",
+"keywords": "tujina, počitnice, veljavnost zavarovanja, nezgodno zavarovanje otrok, pazi name" 
+},
+{
+"id": 171,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšno je kritje ob nezgodi pri osebah s statusom športnika?",
+"keywords": "status športnika, nezgoda, paket šport, nezgodno zavarovanje mladih, 66%" 
+},
+{
+"id": 172,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšni so pogoji akcijske ponudbe nezgodnih zavarovanj?",
+"keywords": "akcijska ponudba nezgodnih zavarovanj, pogoji" 
+},
+{
+"id": 173,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "obrazec, spletno sklepanje zavarovanja, nezgodno zavarovanje mladih, plačilo premije" 
+},
+{
+"id": 174,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Ali je pri spletnem sklepanju možno plačati na prodajnem mestu?",
+"keywords": "spletno sklepanje zavarovanja, nezgodno zavarovanje mladih, premija, UPN obrazec, plačilo" 
+},
+{
+"id": 175,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšen je status prijave nezgode?",
+"keywords": "prijava nezgode, status škode, nezgodno zavarovanje mladih" 
+},
+{
+"id": 176,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kje dobim potrdilo o sklenjenem zavarovanju?",
+"keywords": "sklenitev, številka police, potrdilo, nezgodno zavarovanje mladih" 
+},
+{
+"id": 177,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kaj vsebuje nezgoda komplet?",
+"keywords": "nezgoda komplet, sklepanje, poslovalnica, Triglav komplet, popust" 
+},
+{
+"id": 178,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako lahko sklenem Nezgoda komplet?",
+"keywords": "nezgoda komplet, sklepanje, poslovalnica, zastopnik, nezgodno zavarovanje mladih" 
+},
+{
+"id": 179,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšna je višina popusta za veliko družino pri nezgodnem zavarovanju mladih?",
+"keywords": "velika družina, otroci, popust, 20 %, nezgodno zavarovanje mladih, račun, akcijsko zavarovanje" 
+},
+{
+"id": 180,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kolikšno je dnevno nadomestilo?",
+"keywords": "dnevno nadomestilo, izplačilo, dokumenti, dokazila, diagnoza, zdravniški pregled, progresija, nezgodno zavarovanje" 
+},
+{
+"id": 181,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kje so navedene višine izplačil pri poškodbi?",
+"keywords": "izplačilo, 100%, težja poškodba, tabela, klavzula, polica, splošni pogoji, nezgodno zavarovanje mladih" 
+},
+{
+"id": 182,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšno je kritje v primeru invalidnosti?",
+"keywords": "invalidnost, težje poškodbe, tabela, odstotki, nezgodno zavarovanje mladih" 
+},
+{
+"id": 183,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Zakaj sem prejel/a dokumente za obnovo zavarovanja?",
+"keywords": "dokumenti, obnova zavarovanja, obračun, račun, UPN, nezgodno zavarovanje mladih, permanentna" 
+},
+{
+"id": 184,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako je urejeno zavarovanje otroka, ko je dopolnil 26 let?",
+"keywords": "prenehanje, 26 let, nezgodno zavarovanje mladih" 
+},
+{
+"id": 185,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako prekinem nezgodno zavarovanje mladih?",
+"keywords": "prekinitev, odstop od pogodbe, polica, nezgodno zavarovanje mladih" 
+},
+{
+"id": 186,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako spremenim paket ali dodam novo kritje?",
+"keywords": "prekinitev, novo kritje, polica, nezgodno zavarovanje mladih" 
+},
+{
+"id": 187,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kako dodam kritje rizika športa k obstoječi polici?",
+"keywords": "priključitev kritja, razširitev, riziko športa, obstoječa polica, sprememba police" 
+},
+{
+"id": 188,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Lahko nezgodna zavarovanja vključim v triglav komplet?",
+"keywords": "Triglav komplet, popust, akcijska zavarovanja, paket A, B, C, D, ŠPORT, nezgodna zavarovanja mladih, redna ponudba" 
+},
+{
+"id": 189,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Zakaj sem prejel obvestilo o spremembi premije, ker je otrok dopolnil 14. leto starosti?",
+"keywords": "sprememba premije, nezgoda smrti, nezgodno zavarovanje mladih, kritje" 
+},
+{
+"id": 190,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Zakaj ne morem skleniti nezgodnega zavarovanja mladih na spletu?",
+"keywords": "sklenitev preko spleta, online, permanentno zavarovanje, avtomatska obnova, nezgodno zavarovanje mladih" 
+},
+{
+"id": 191,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšne so možnosti zavarovanja po prenehanju nezgodnega zavarovanja mladih?",
+"keywords": "prenehanje, nezgodno zavarovanje mladih, 26 let" 
+},
+{
+"id": 192,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kakšna je višina popusta pri obnovi zavarovanja?",
+"keywords": "sklenitev, obnova, popust, Triglav komplet, nezgodno zavarovanje mladih" 
+},
+{
+"id": 193,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kje najdem kodo za 20% popusta pri spletni sklenitvi akcijskega zavarovanja?",
+"keywords": "promocijske kode, popust, 20 %, akcijsko zavarovanje, nezgodno zavarovanje mladih" 
+},
+{
+"id": 194,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Kje najdem ponudbo nezgodnih zavarovanj za mlade?",
+"keywords": "ponudba zavarovanja, nezgodno zavarovanje mladih" 
+},
+{
+"id": 195,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje Pazi name",
+"question": "Komu je namenjeno nezgodno zavarovanje mladih?",
+"keywords": "študenti, starost, nezgodno zavarovanje mladih, 26 let" 
+},
+{
+"id": 196,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje športnikov",
+"question": "Kako lahko zavarujemo osebe, ki se ukvarjajo z rizičnimi športi?",
+"keywords": "rizični šport, športniki, nezgodno zavarovanje, ekstremni športi" 
+},
+{
+"id": 197,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje športnikov",
+"question": "Kaj krije zavarovanje?",
+"keywords": "nezgodno zavarovanje amaterskih športnikov, poklicni športniki" 
+},
+{
+"id": 198,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje športnikov",
+"question": "Kako zavarovati osebe pri uporabi najetih rekreacijskih sredstev?",
+"keywords": "rekreacijska sredstva, nezgodno zavarovanje" 
+},
+{
+"id": 199,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje športnikov",
+"question": "Kakšna je višina zavarovalnine?",
+"keywords": "zavarovalnina, nezgodno zavarovanje, dokumentacija" 
+},
+{
+"id": 200,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje komitentov bank in finančnih družb ter imetnikov osebnih računov",
+"question": "Splošne informacije",
+"keywords": "nezgodno zavarovanje komitentov bank, finančnih družb, imetnikov osebnih računov, sklepanje, informacije" 
+},
+{
+"id": 201,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje komitentov bank in finančnih družb ter imetnikov osebnih računov",
+"question": "Kaj krije zavarovanje?",
+"keywords": "nezgodno zavarovanje komitentov bank, finančnih družb, imetnikov osebnih računov, kritje, nevarnosti" 
+},
+{
+"id": 202,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje komitentov bank in finančnih družb ter imetnikov osebnih računov",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "nezgodno zavarovanje komitentov bank, finančnih družb, imetnikov osebnih računov, jamstvo, veljavnosti" 
+},
+{
+"id": 203,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje komitentov bank in finančnih družb ter imetnikov osebnih računov",
+"question": "Kakšna je višina zavarovalnine?",
+"keywords": "nezgodno zavarovanje komitentov bank, finančnih družb, imetnikov osebnih računov, dokumentacija, zavarovalnina" 
+},
+{
+"id": 204,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje komitentov bank in finančnih družb ter imetnikov osebnih računov",
+"question": "Kako izvem ali sem zavarovan tudi po plačilni – bančni kartici?",
+"keywords": "kritje, nezgodno zavarovanje komitentov bank, finančnih družb, bančna kartica" 
+},
+{
+"id": 205,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje komitentov bank in finančnih družb ter imetnikov osebnih računov",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "kritje, nezgodno zavarovanje komitentov bank, finančnih družb, veljavnost" 
+},
+{
+"id": 206,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Zavarovanje osebne zaščite",
+"question": "Splošne informacije",
+"keywords": "zavarovanje, osebna zaščita, kritje, paketi" 
+},
+{
+"id": 207,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Zavarovanje osebne zaščite",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zavarovanje, osebna zaščita, kritje, paketi" 
+},
+{
+"id": 208,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Zavarovanje osebne zaščite",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "zavarovanje, osebna zaščita, veljavnost" 
+},
+{
+"id": 209,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco - Turistično zavarovanje",
+"question": "Kaj krije zavarovanje?",
+"keywords": "turistično zavarovanje, kaj krije, kritje, sklepanje zavarovanja, zdravstvena asistenca" 
+},
+{
+"id": 210,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco - Turistično zavarovanje",
+"question": "Kartice za Turistično zavarovanje nisem prejel oziroma kartico za Turistično zavarovanje sem izgubil, ali lahko prejmem novo kartico?",
+"keywords": "turistično zavarovanje, zdravstvena asistenca, kartica, izguba kartic" 
+},
+{
+"id": 211,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco - Turistično zavarovanje",
+"question": "Ali zavarovanje krije stroške zdravljenja zaradi Covid-19?",
+"keywords": "turistično zavarovanje, zdravstvena asistenca, korona, covid 19, kovid, kritje, karantena, stroški, zdravljenje" 
+},
+{
+"id": 212,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco - Turistično zavarovanje",
+"question": "Ali zavarovanje krije stroške zaradi karantene?",
+"keywords": "turistično zavarovanje, zdravstvena asistenca, korona, covid 19, kovid, kritje, karantena, stroški" 
+},
+{
+"id": 213,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zavarovanje v tujini, zdravstvena asistenca, kritje, zdravniška oskrba, stroški , tujina" 
+},
+{
+"id": 214,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "dodatno kritje, zavarovanje v tujini, zdravstvena asistenca, šport, tekmovanje, športne priprave, tujina" 
+},
+{
+"id": 215,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "ni pokrito, ni zavarovano, zavarovanje v tujini, izključuje" 
+},
+{
+"id": 216,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "omejeno kritje, zavarovanje v tujini, zavarovalna vsota" 
+},
+{
+"id": 217,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "zavarovanje v tujini, plačilo, način plačila" 
+},
+{
+"id": 218,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "obdobje, zavarovanje v tujini, začetek zavarovanja, konec zavarovanja, neha veljati, začne veljati" 
+},
+{
+"id": 219,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "kje veljavno, področje, območje, države, zavarovanje v tujini" 
+},
+{
+"id": 220,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco - Turistično zavarovanje",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "odstop od pogodbe, prekinitev police, turistično zavarovanje, potrebni podatki" 
+},
+{
+"id": 221,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco ",
+"question": "Kako naredim informativni izračun?",
+"keywords": "zavarovanje v tujini, informativni izračun, zastopnik, poslovalnica, spletno sklepanje" 
+},
+{
+"id": 222,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "Zavarovanje v tujini, zdravstvena asistenca, obveznosti, plačevanje, prijava, dokumentacija" 
+},
+{
+"id": 223,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje v tujini z zdravstveno asistenco",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "Zavarovanje v tujini, zdravstvena asistenca, odstop od pogodbe, prekinitev pogodbe, prekinitev zavarovanja" 
+},
+{
+"id": 224,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Ali zavarovanje krije stroške odpovedi, v primeru, da zbolimo s Covid-19?",
+"keywords": "zavarovanje odpovedi turističnega potovanja, Covid 19, bolezen, korona, kritje, odpoved, stroški" 
+},
+{
+"id": 225,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Ali zavarovanje krije stroške v primeru, da država, v katero potujemo, zapre meje zaradi epidemije?",
+"keywords": "zavarovanje odpovedi turističnega potovanja, covid 19, epidemija, zaprte meje, zaprta država, kritje, stroški" 
+},
+{
+"id": 226,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Kaj krije zavarovanje?",
+"keywords": "Zavarovanje odpovedi turističnega potovanja, paket, kritje, vrste paketov, kombinacije, paket A, paket B" 
+},
+{
+"id": 227,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Kaj krije zavarovanje?",
+"keywords": "Zavarovanje odpovedi turističnega potovanja, obseg, turistične storitve, kritje" 
+},
+{
+"id": 228,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Kakšna je cena/premija zavarovanja?",
+"keywords": "Zavarovanje odpovedi turističnega potovanja, cena, premija, izračun, višina zavarovalne premije" 
+},
+{
+"id": 229,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Kako se obračunava premija?",
+"keywords": "Zavarovanje odpovedi turističnega potovanja, cena, premija, izračun, višina zavarovalne premije" 
+},
+{
+"id": 230,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Do kdaj lahko sklenem zavarovanje odpovedi turističnega zavarovanja?",
+"keywords": "Zavarovanje odpovedi turističnega potovanja, sklepanje, zavarovanja, rok" 
+},
+{
+"id": 231,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanja na potovanjih",
+"level3a": "Zavarovanje odpovedi turističnega potovanja ",
+"question": "Kako lahko sklenem zavarovanje?",
+"keywords": "Zavarovanje odpovedi turističnega potovanja, sklepanje, spletna stran, poslovalnica, zastopniki" 
+},
+{
+"id": 232,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Prevrednotenje življenjskih zavarovanj",
+"question": "Kako lahko zavrnem prevrednotenje?",
+"keywords": "nan" 
+},
+{
+"id": 233,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje za primer smrti",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "dodatno zavarovanje, življenjsko zavarovanje, smrt, za primer smrti" 
+},
+{
+"id": 234,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje za primer smrti",
+"question": "Kaj so koristi življenjskega zavarovanja za primer smrti?",
+"keywords": "življenjsko zavarovanje za primer smrti, zavarovalna vsota, namen, izplačilo" 
+},
+{
+"id": 235,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje za primer smrti",
+"question": "Kaj pomeni zavarovanje brez varčevanja?",
+"keywords": "brez varčevanja, življenjsko zavarovanje za primer smrti" 
+},
+{
+"id": 236,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Mešano življenjsko zavarovanje",
+"question": "Splošne informacije",
+"keywords": "mešano življenjsko zavarovanje, naložbeno življenjsko zavarovanje, fleks" 
+},
+{
+"id": 237,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Rizično življenjsko zavarovanje ",
+"question": "Kolikšen znesek izplačila prejmem po poteku?",
+"keywords": "rizično življenjsko zavarovanje, zavarovanje za primer smrti, življenjsko zavarovanje, izplačilo, brez izplačila ob poteku zavarovanja, konec zavarovanja, iztek" 
+},
+{
+"id": 238,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "i.rizično življenjsko zavarovanje (zavarovanje za primer smrti)",
+"question": "Splošne informacije",
+"keywords": "irizično, Rizično življenjsko zavarovanje, izplačilo, brez izplačila ob poteku zavarovanja, konec zavarovanja, iztek, digitalni certifikat, splet, življenjsko zavarovanje" 
+},
+{
+"id": 239,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje 50 plus",
+"question": "Splošne informacije",
+"keywords": "življenjsko zavarovanje 50 plus, življenjsko zavarovanje, splošne informacije, Jesen življenja" 
+},
+{
+"id": 240,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje 50 plus",
+"question": "Kakšen znesek je na polici?",
+"keywords": "življenjsko zavarovanje 50 plus, znesek, polica, življenjsko zavarovanje" 
+},
+{
+"id": 241,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje 50 plus",
+"question": "Zakaj še vedno dobimo položnice, če je zavarovanec umrl?",
+"keywords": "življenjsko zavarovanje 50 plus, izplačilo, položnice, življenjsko zavarovanje, smrt zavarovanca" 
+},
+{
+"id": 242,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Življenjsko zavarovanje kreditojemalcev",
+"question": "Splošne informacije",
+"keywords": "življenjsko zavarovanje kreditojemalcev, življenjsko zavarovanje, kredit" 
+},
+{
+"id": 243,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Rentno zavarovanje",
+"question": "Splošne informacije",
+"keywords": "rentno zavarovanje, sklepanje, pogoji, mesečna renta, zavarovalna premija, enkratni znesek, življenjsko zavarovanje" 
+},
+{
+"id": 244,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Življenjska zavarovanja",
+"level3a": "Štipendijsko zavarovanje",
+"question": "Splošne informacije",
+"keywords": "življenjsko zavarovanje, štipendijsko, osnovno, renta, splošne informacije, fleks, naložbeno življenjsko zavarovanje fleks za otroke" 
+},
+{
+"id": 245,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Prevrednotenje",
+"question": "Kaj pomeni prevrednotenje (revalorizacija)?",
+"keywords": "nan" 
+},
+{
+"id": 246,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Paketno zavarovanje hiše/stanovanja",
+"question": "Kaj so koristi sklenitve zavarovanja v paketu?",
+"keywords": "paketno zavarovanje, hiša, stanovanje, dom, premoženje, koristi" 
+},
+{
+"id": 247,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Posamična zavarovanja za dom",
+"question": "Kako lahko prekinem polico?",
+"keywords": "veljavnost police, prekinitev, zavarovanje dom, odpoved" 
+},
+{
+"id": 248,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Posamična zavarovanja za dom",
+"question": "Ali je račun poravnan / plačan?",
+"keywords": "plačilo, premija, opomin, poravnan, zavarovanje doma" 
+},
+{
+"id": 249,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Posamična zavarovanja za dom",
+"question": "Kako lahko prijavim škodo po polici?",
+"keywords": "prijava škode, prijava nezgode, zavarovanje dom" 
+},
+{
+"id": 250,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Posamična zavarovanja za dom",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "domska asistenca, zavarovanje dom, kritje, dodatno zavarovanje, odgovornosti, novi dom" 
+},
+{
+"id": 251,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Posamična zavarovanja za dom",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "zavarovanje dom, kritje, ne vključuje, ni zavarovano, polica" 
+},
+{
+"id": 252,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zavarovanje dom, zavarovanje doma do 2021, paket, zavarovano, premoženjsko zavarovanje, kritje, polica" 
+},
+{
+"id": 253,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "Dom, dodatno zavarovanje, dodatno kritje, potres, strojelom, paket, mehanski lom, strela" 
+},
+{
+"id": 254,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "zavarovanje dom do 2021, kritje, ne vključuje, ni zavarovano, dom" 
+},
+{
+"id": 255,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "zavarovanje dom do 2021, kritje omejeno, zavarovalna vsota, kritje škode, zavarovalna pogodba" 
+},
+{
+"id": 256,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "zavarovanje dom do 2021, način plačila, plačilo, UPN, enkratna premija" 
+},
+{
+"id": 257,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kdaj zavarovanje začne in kdaj preneha veljati?",
+"keywords": "zavarovanje dom do 2021, veljavnost, trajanje, začetek, konec veljavnosti, pogodba" 
+},
+{
+"id": 258,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "zavarovanje dom do 2021, področje, območje, veljavnost, Evropa, Slovenija" 
+},
+{
+"id": 259,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom DO 2021",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "zavarovanje dom do 2021, odstop od pogodbe, prekinitev, pred potekom, odpovedni rok" 
+},
+{
+"id": 260,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zavarovanje dom od 2021, zavarovano, vsebuje, obseg, kritje" 
+},
+{
+"id": 261,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "dodatno, zavarovanje dom od 2021, dodatno zavaruje, dodatno kritje, paket" 
+},
+{
+"id": 262,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "ni zavarovano, zavarovanje dom od 2021, kritje, omejitev" 
+},
+{
+"id": 263,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "omejeno, zavarovanje dom od 2021, zavarovalna vsota, zavarovalna pogodba, kritje, omejitev" 
+},
+{
+"id": 264,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "način plačila, zavarovanje dom od 2021, premija, prvi obrok" 
+},
+{
+"id": 265,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "konec, zavarovanje dom od 2021, veljavnost, trajanje" 
+},
+{
+"id": 266,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "področje, zavarovanje dom od 2021, območje, država, veljavnost" 
+},
+{
+"id": 267,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "zavarovanje dom od 2021, obveznosti, dolžnosti, prijava, pogoji" 
+},
+{
+"id": 268,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje dom",
+"level3a": "Zavarovanje dom OD 2021",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "zavarovanje dom od 2021, odstop od pogodbe, prekinitev, pogoji prenehanja, odstopna izjava" 
+},
+{
+"id": 269,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Splošne informacije",
+"keywords": "Individualno nezgodno zavarovanje, splošne informacije, zavarovalnina, kritje, tujina, veljavnost" 
+},
+{
+"id": 270,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Kako se določi višina zavarovalnine?",
+"keywords": "zavarovalnina, izplačilo, individualno nezgodno zavarovanje" 
+},
+{
+"id": 271,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Kako se razlikujeta posamično in kolektivno zavarovanje?",
+"keywords": "individualno nezgodno zavarovanje, posamično zavarovanje, kolektivno zavarovanje, razlika" 
+},
+{
+"id": 272,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Ali velja nezgodno zavarovanje tudi v tujini?",
+"keywords": "kritje, individualno nezgodno zavarovanje, tujina" 
+},
+{
+"id": 273,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Individualno nezgodno zavarovanje",
+"question": "Kako naredim informativni izračun?",
+"keywords": "Individualno nezgodno zavarovanje, splošni, informativni izračun, zastopnik, poslovalnica, spletno sklepanje" 
+},
+{
+"id": 274,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Splošne informacije",
+"keywords": "Individualno nezgodno zavarovanje mladih, nezgodno zavarovanje mladih, splošno, osnovne informacije, kritje, , kdaj sklene" 
+},
+{
+"id": 275,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Ali lahko sklenem zavarovanje tudi kadarkoli med letom?",
+"keywords": "sklepanje, nezgodno zavarovanje otrok in mladine, akcijska ponudba" 
+},
+{
+"id": 276,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kaj moram narediti, če želim spremeniti višino zavarovalnih vsot oziroma dodati novo kritje?",
+"keywords": "kritje, vsota, nezgodno zavarovanje otrok in mladine, sprememba, polica" 
+},
+{
+"id": 277,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kako zavarovati otroke ali mladostnike, ki so aktivni športniki?",
+"keywords": "nezgodno zavarovanje otrok in mladine, status športnika, nezgoda, kritje, aktivni športniki, rizična dejavnost, poškodba" 
+},
+{
+"id": 278,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kdaj začne veljati nezgodno zavarovanje otrok in mladih?",
+"keywords": "nezgodno zavarovanje otrok in mladine, začetek, trajanje, veljavnost" 
+},
+{
+"id": 279,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Ali nezgodno zavarovanje velja tudi v tujini in med počitnicami?",
+"keywords": "tujina, počitnice, veljavnost zavarovanja, nezgodno zavarovanje otrok in mladine" 
+},
+{
+"id": 280,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kakšno je kritje ob nezgodi pri osebah s statusom športnika?",
+"keywords": "nezgodno zavarovanje otrok in mladine, status športnika, kritje, nezgoda, rizične dejavnosti" 
+},
+{
+"id": 281,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kako dodam kritje rizika športa k obstoječi polici?",
+"keywords": "priključitev kritja, razširitev, riziko športa, obstoječa polica, sprememba police" 
+},
+{
+"id": 282,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Do katerega leta se lahko zavarujejo študenti?",
+"keywords": "študenti, starost, nezgodno zavarovanje mladih, 26 let" 
+},
+{
+"id": 283,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Kaj pomeni, da je nezgodno zavarovanje otrok in mladine brez poteka?",
+"keywords": "brez poteka, permanentno, avtomatska obnova, sklepanje, nezgodno zavarovanje otrok in mladine" 
+},
+{
+"id": 284,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Nezgodna zavarovanja",
+"level3a": "Nezgodno zavarovanje otrok in mladine",
+"question": "Zakaj je premija po 14. letu višja?",
+"keywords": "Individualno nezgodno zavarovanje mladih, nezgodno zavarovanje mladih, splošno, osnovne informacije, višina premije" 
+},
+{
+"id": 285,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Dodatno zavarovanje za primer smrti zaradi nezgode",
+"question": "Splošne informacije",
+"keywords": "nezgoda, zdravje, smrt, dodatno zavarovanje za primer smrti" 
+},
+{
+"id": 286,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zavarovanje rehabilitacije po nesreči v  prometu",
+"question": "Splošne informacije",
+"keywords": "zdravje, nezgoda, zdravilišče, rehabilitacija, promet, dodatno zavarovanje" 
+},
+{
+"id": 287,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zavarovanje rehabilitacije po nesreči v  prometu",
+"question": "Za katera prevozna sredstva velja?",
+"keywords": "zdravje, nezgoda, prometna nesreča, rehabilitacija, kritje, vozilo, rolka, skiro, vozilo, rolerji, invalidski voziček" 
+},
+{
+"id": 288,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zavarovanje nadomestil",
+"question": "Splošne informacije",
+"keywords": "zdravje, nadomestila, zavarovanje nadomestil, Triglav Zdravje" 
+},
+{
+"id": 289,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zdravje, nasvet, zdravstvene težave" 
+},
+{
+"id": 290,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kaj lahko dodatno zavarujem?",
+"keywords": "specialisti, specialisti +, zdravje, nasvet, kritje" 
+},
+{
+"id": 291,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "zdravje, nasvet, ni zavarovano, kritje, izključuje" 
+},
+{
+"id": 292,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "zdravje, omejeno kritje, omejitve, nasvet" 
+},
+{
+"id": 293,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "zdravje, nasvet, plačilo, rok plačila, način plačila" 
+},
+{
+"id": 294,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "zdravje, konec, pričetek, veljavnost, prenehanje, nasvet, trajanje, avtomatična obnova" 
+},
+{
+"id": 295,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "območje, področje veljavnost, države, Evropska unija" 
+},
+{
+"id": 296,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "zdravje, obveznosti, dolžnosti, nasvet, zdravstvena točka, 0802664" 
+},
+{
+"id": 297,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zdravstveni nasvet",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "zdravje, prekinitev pogodbe, odstop od pogodbe, nasvet" 
+},
+{
+"id": 298,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zdravje, specialisti, nezgoda, kritje" 
+},
+{
+"id": 299,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "zdravje, specialisti, nezgoda, kritje, obseg, izključuje" 
+},
+{
+"id": 300,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "zdravje, specialisti, nezgoda, pokriva, omejeno kritje, pokriva, višina zavarovalne vsote" 
+},
+{
+"id": 301,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kdaj in kako lahko plačam prvi znesek premije?",
+"keywords": "zdravje, specialisti, nezgoda, rok plačila, način plačila" 
+},
+{
+"id": 302,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "zdravje, specialisti, nezgoda, začne veljati, neha veljati, trajanje, veljavnost" 
+},
+{
+"id": 303,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "zdravje, specialisti, nezgoda, kje velja, države, območje, področje" 
+},
+{
+"id": 304,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "zdravje, specialisti, nezgoda, obveznosti, dolžnosti" 
+},
+{
+"id": 305,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti Nezgoda",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "zdravje, specialisti, nezgoda, prekinitev pogodbe, odstop od pogodbe" 
+},
+{
+"id": 306,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zavarovanje Operacije",
+"question": "Katere operacije so krite?",
+"keywords": "zdravje, operacije, višina, kritje" 
+},
+{
+"id": 307,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Dopolnilno zdravstveno zavarovanje",
+"question": "Kaj krije zavarovanje?",
+"keywords": "stroški, kritje, dopolnilno, zdravstveno zavarovanje, dodatno" 
+},
+{
+"id": 308,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Dopolnilno zdravstveno zavarovanje",
+"question": "Ali morajo prejemniki socialne pomoči plačati premijo?",
+"keywords": "socialno ogroženi, oproščeni, dopolnilno zdravstveno zavarovanje" 
+},
+{
+"id": 309,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zobje, kritje, zdravstveno zavarovanje, nadomestilo, dodatno" 
+},
+{
+"id": 310,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "zobje, kritje, zdravstveno zavarovanje, omejitve, izključitve" 
+},
+{
+"id": 311,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "zobje, kritje, zdravstveno zavarovanje, omejeno, nadomestilo, zavarovalna vsota, višina kritja" 
+},
+{
+"id": 312,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kdaj in kako plačam?",
+"keywords": "zobje, zdravstveno zavarovanje, način plačila, rok plačila, kako plača, kdaj plača" 
+},
+{
+"id": 313,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "zobje, zdravstveno zavarovanje, veljavnost, začne veljati, preneha veljati, konec, začetek, trajanje" 
+},
+{
+"id": 314,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "zobje, krtije, zdravstveno zavarovanje, veljavnost, kje je veljavno, država, območje, področje" 
+},
+{
+"id": 315,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "zobje, zdravstveno zavarovanje, obveznost, dolžnost" 
+},
+{
+"id": 316,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "zobje, zdravstveno zavarovanje, prekinitev zavarovanja, odstop od pogodbe" 
+},
+{
+"id": 317,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kaj krije zavarovanje?",
+"keywords": "zobje +, kritje, zdravstveno zavarovanje, obveznost, dolžnost, nadstandard" 
+},
+{
+"id": 318,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "zobje +, zdravstveno zavarovanje, omejitev, kritje" 
+},
+{
+"id": 319,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "zobje +, zdravstveno zavarovanje, omejitev, kritje, omejitev, 14 let" 
+},
+{
+"id": 320,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kdaj in kako plačam?",
+"keywords": "zobje +, zdravstveno zavarovanje, plačevanje, način plačevanja" 
+},
+{
+"id": 321,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "zobje +, zdravstveno zavarovanje, stopi v veljavo, začetek, veljavnost, trajanje, potek, prenehanje" 
+},
+{
+"id": 322,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "zobje +, zdravstveno zavarovanje, država, področje, veljavnost, območje" 
+},
+{
+"id": 323,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "zobje +, zdravstveno zavarovanje, obveznost, dolžnost" 
+},
+{
+"id": 324,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje+",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "zobje +, zdravstveno zavarovanje, prekinitev, odstop, pogodba" 
+},
+{
+"id": 325,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zobje",
+"question": "Kako lahko sklenem zavarovanje Zobje, Zobje+?",
+"keywords": "zobje, sklepanje, zdravstveno zavarovanje, zobje +" 
+},
+{
+"id": 326,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kaj krije zavarovanje?",
+"keywords": "specialisti, kritje, zdravstveno zavarovanje" 
+},
+{
+"id": 327,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "specialisti, krije, zdravstveno zavarovanje, omejitev" 
+},
+{
+"id": 328,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "specialisti, omejeno kritje, zdravstveno zavarovanje, stroški" 
+},
+{
+"id": 329,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kdaj in kako plačam?",
+"keywords": "specialisti, zdravstveno zavarovanje, plačilo" 
+},
+{
+"id": 330,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "specialisti, kritje, zdravstveno zavarovanje, pričetek, prenehanje, veljavnost" 
+},
+{
+"id": 331,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "specialisti, kritje, zdravstveno zavarovanje, področje, območje, država, kje veljavno" 
+},
+{
+"id": 332,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "specialisti, obveznosti, zdravstveno zavarovanje, dolžnosti" 
+},
+{
+"id": 333,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "specialisti, zdravstveno zavarovanje, odstop od pogodbe, prekinitev zavarovanja, prekinitev" 
+},
+{
+"id": 334,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kaj krije zavarovanje?",
+"keywords": "specialisti+, kritje, zdravstveno zavarovanje, kritje" 
+},
+{
+"id": 335,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "specialisti+, kritje, zdravstveno zavarovanje, kritje" 
+},
+{
+"id": 336,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "specialisti+, omejeno kritje, zdravstveno zavarovanje, pokriva, višina kritja, zavarovalna vsota" 
+},
+{
+"id": 337,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kdaj in kako plačam?",
+"keywords": "specialisti+, zdravstveno zavarovanje, način plačila, rok plačila, zapadlost" 
+},
+{
+"id": 338,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "specialisti+, zdravstveno zavarovanje, veljavnost, začne veljati, potek, prekinitev" 
+},
+{
+"id": 339,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "specialisti+, zdravstveno zavarovanje, veljavnost, država, območje, področje" 
+},
+{
+"id": 340,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "specialisti+, zdravstveno zavarovanje, obveznosti, dolžnosti" 
+},
+{
+"id": 341,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Specialisti+",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "specialisti+, zdravstveno zavarovanje, odstop od pogodbe, prekinitev zavarovanja" 
+},
+{
+"id": 342,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kaj krije zavarovanje?",
+"keywords": "operacije, zdravstveno zavarovanje, kritje, izplačilo" 
+},
+{
+"id": 343,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Česa zavarovanje ne krije?",
+"keywords": "operacije, zdravstveno zavarovanje, krije, obseg" 
+},
+{
+"id": 344,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kakšne so omejitve kritja?",
+"keywords": "operacije, zdravstveno zavarovanje, omejeno, zavarovalna vsota, višina izplačila, izplačilo" 
+},
+{
+"id": 345,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kdaj in kako plačam?",
+"keywords": "operacije, zdravstveno zavarovanje, rok plačila, način plačila" 
+},
+{
+"id": 346,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kdaj zavarovanje začne in kdaj neha veljati?",
+"keywords": "operacije, zdravstveno zavarovanje, veljavnost, začetek trajanje, prekinitev" 
+},
+{
+"id": 347,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kje je zavarovanje veljavno?",
+"keywords": "operacije, zdravstveno zavarovanje, država, območje, veljavnost" 
+},
+{
+"id": 348,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kakšne so moje obveznosti?",
+"keywords": "operacije, zdravstveno zavarovanje, obveznosti, dolžnosti" 
+},
+{
+"id": 349,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Operacije",
+"question": "Kako lahko odstopim od pogodbe?",
+"keywords": "operacije, zdravstveno zavarovanje, prekinitev pogodbe, odstop od pogodbe, odstop" 
+},
+{
+"id": 350,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Zavarovanje športnih aktivnosti ",
+"question": "Splošne informacije",
+"keywords": "zdravje, šport, kritje, veljavnost, pogoji, trajanje, splošne informacije" 
+},
+{
+"id": 351,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zdravje",
+"level3a": "Nezgodno zavarovanje športnikov",
+"question": "Kako lahko sklenem zavarovaje?",
+"keywords": "zdravje, šport, sklepanje, pogoji" 
+},
+{
+"id": 352,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Pregled sklenjenih zavarovanj",
+"level3a": "nan",
+"question": "Kaj krije zavarovanje?",
+"keywords": "pregled polic, sklenjena zavarovanja" 
+},
+{
+"id": 353,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Višina /obseg kritja ",
+"level3a": "nan",
+"question": "Kakšen je obseg kritja? Kolikšna bi bila višina izlačila?",
+"keywords": "višina kritja, obseg kritja" 
+},
+{
+"id": 354,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Uveljavljanje kritij",
+"level3a": "nan",
+"question": "Kako lahko dvignem denar s police?",
+"keywords": "uveljavljanje kritij, dvig sredstev, izplačilo" 
+},
+{
+"id": 355,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Višina nadomestila ",
+"level3a": "nan",
+"question": "Ali sem upravičen do nadomestila?",
+"keywords": "višina nadomestila, dnevno nadomestilo, nezgodno zavarovanje" 
+},
+{
+"id": 356,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Stanje na polici",
+"level3a": "nan",
+"question": "Kakšno je stanje na polici?",
+"keywords": "stanje na polici, vrednost, znesek" 
+},
+{
+"id": 357,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Obnova zavarovanja",
+"level3a": "nan",
+"question": "Kako lahko obnovim zavarovanje?",
+"keywords": "obnova, dolg, plačilo, življenjsko zavarovanje" 
+},
+{
+"id": 358,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Prekinitev zavarovanja",
+"level3a": "nan",
+"question": "Kako prekinem zavarovanje?",
+"keywords": "prekinitev zavarovanja, izplačilo, mirovanje, rok, zahtevek za prekinitev" 
+},
+{
+"id": 359,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Prekinitev zavarovanja",
+"level3a": "nan",
+"question": "Kdaj prenehajo jamstva po polici?",
+"keywords": "jamstvo, prekinitev, prenehanje, plačilo premije" 
+},
+{
+"id": 360,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Odstop, odpoved zavarovanja",
+"level3a": "nan",
+"question": "Kaj se zgodi, če odstopim od pogodbe?",
+"keywords": "odstop, zavarovalna pogodba, vloga o odstopu" 
+},
+{
+"id": 361,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Odstop, odpoved zavarovanja",
+"level3a": "nan",
+"question": "Kako prekinem dopolnilno zdravstveno zavarovanje?",
+"keywords": "odpoved, zdravstveno zavarovanje, odpovedni rok" 
+},
+{
+"id": 362,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Odstop, odpoved zavarovanja",
+"level3a": "nan",
+"question": "Kdaj je možna odpoved zavarovanja?",
+"keywords": "odpoved, odpovedni rok, trimesečni" 
+},
+{
+"id": 363,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Mirovanje zavarovanja",
+"level3a": "nan",
+"question": "Kako uredim mirovanje zavarovanja?",
+"keywords": "mirovanje, zahtevek, vplačevanje" 
+},
+{
+"id": 364,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Predujem zavarovanja",
+"level3a": "nan",
+"question": "Kako zahtevam izplačilo predujma ali izplačilo odkupne vrednosti?",
+"keywords": "predujem, izplačilo, obrazci, dokazila" 
+},
+{
+"id": 365,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Predujem zavarovanja",
+"level3a": "nan",
+"question": "Kdaj se obračuna predujem?",
+"keywords": "predujem, izplačilo, obračun" 
+},
+{
+"id": 366,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Predujem zavarovanja",
+"level3a": "nan",
+"question": "Kaj pomeni obračunski dan?",
+"keywords": "obračun, obračunski dan, predujm, odkup" 
+},
+{
+"id": 367,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Avtomatska obnova zavarovanja",
+"level3a": "nan",
+"question": "Zakaj sem prejel položnico, če zavarovanja nisem podaljšal?",
+"keywords": "avtomatska obnova, zavarovanje dom, zavarovanje hišnih ljubljenčkov, zavarovanje psi, turistično zavarovanje, permanentno zavarovanje" 
+},
+{
+"id": 368,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Zavarovanje brez poteka",
+"level3a": "nan",
+"question": "Kaj pomeni zavarovanje brez poteka?",
+"keywords": "zavarovanje brez poteka, avtomatska obnova, permanentno, sklepanje" 
+},
+{
+"id": 369,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Spremembe na polici",
+"level3a": "nan",
+"question": "Kdo je lahko plačnik premije?",
+"keywords": "upravičenec, plačnik, zavarovalna vsota" 
+},
+{
+"id": 370,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Spremembe na polici",
+"level3a": "nan",
+"question": "Kako lahko spremenim upravičenca na polici?",
+"keywords": "upravičenec, plačnik, zavarovanec, zavarovalec, sprememba upravičenca" 
+},
+{
+"id": 371,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Spremembe na polici",
+"level3a": "nan",
+"question": "Kako lahko razširim kritje?",
+"keywords": "razširitev kritja, polica, dodatna kritja" 
+},
+{
+"id": 372,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Spremembe na polici",
+"level3a": "nan",
+"question": "Kako lahko spremenim zavarovalca na polici?",
+"keywords": "sprememba, zavarovalec, obrazec, zavarovalna polica" 
+},
+{
+"id": 373,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Bonus",
+"level3a": "nan",
+"question": "Kakšna je vrednost bonusa?",
+"keywords": "višina, uveljavljanje, prenos, potrdilo, bonus, potrdilo o bonusu, avtomobilsko zavarovanje" 
+},
+{
+"id": 374,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Bonus",
+"level3a": "nan",
+"question": "Kje lahko pridobim potrdilo o bonusu?",
+"keywords": "višina, uveljavljanje, prenos, potrdilo, bonus, potrdilo o bonusu, avtomobilsko zavarovanje" 
+},
+{
+"id": 375,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Odbitna franšiza",
+"level3a": "nan",
+"question": "Kaj je odbitna franšiza?",
+"keywords": "odbitna franšiza, višina franšize, soudeležba" 
+},
+{
+"id": 376,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Odbitna franšiza",
+"level3a": "nan",
+"question": "Koliko znaša odbitna franšiza na novo nabavno vrednost?",
+"keywords": "odbitna franšiza, višina franšize, nova nabavna vrednost" 
+},
+{
+"id": 377,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Odbitna franšiza",
+"level3a": "nan",
+"question": "Kolikšna je soudeležba pri poškodbi?",
+"keywords": "odbitna franšiza, višina franšize, udeležba pri poškodbi" 
+},
+{
+"id": 378,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Posredovanje dokumentacije stranki",
+"level3a": "nan",
+"question": "Kako prejmem zavarovalno dokumentacijo?",
+"keywords": "zavarovalna dokumentacija, potrdilo, posredovanje" 
+},
+{
+"id": 379,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Posredovanje dokumentacije stranki",
+"level3a": "nan",
+"question": "Kako prejmem dvojnika police?",
+"keywords": "dvojnik police, zavarovalna, dokumentacija, potrdilo, posredovanje" 
+},
+{
+"id": 380,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Posredovanje dokumentacije stranki",
+"level3a": "nan",
+"question": "Kako pridobim dokazilo o premijskem razredu?",
+"keywords": "premijski razred, zavarovalna dokumentacija, potrdilo, dokazilo" 
+},
+{
+"id": 381,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Posredovanje dokumentacije stranki",
+"level3a": "nan",
+"question": "Kako pridobim potrdilo o bonusu?",
+"keywords": "bonus, zavarovalna dokumentacija, potrdilo" 
+},
+{
+"id": 382,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - izplačilo premije",
+"level3a": "nan",
+"question": "Kakšen je postopek izplačila premije?",
+"keywords": "informacije, obrazci, višina, prenos sredstev, izplačilo, postopek" 
+},
+{
+"id": 383,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - izplačilo premije",
+"level3a": "nan",
+"question": "Kakšen je postopek izplačila zavarovalne vsote za primer smrti zavarovane osebe?",
+"keywords": "izplačilo, življenjsko zavarovanje, smrt, zavarovalna vsota" 
+},
+{
+"id": 384,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - izplačilo premije",
+"level3a": "nan",
+"question": "Kakšna je razlika med odkupno vrednostjo in vrednostjo na naložbenem računu?",
+"keywords": "odkup, izplačilo, odkupna vrednost, naložbeni račun, vrednost premoženja" 
+},
+{
+"id": 385,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - izplačilo premije",
+"level3a": "nan",
+"question": "Na kakšen način se obračuna odkup?",
+"keywords": "odkup, višina, izplačilo, prejem dokumentacije, izračun, obračunski dan" 
+},
+{
+"id": 386,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - potek police, doživetje",
+"level3a": "nan",
+"question": "Kakšen je postopek ob poteku police oz. doživetju police?",
+"keywords": "obrazci, nova polica, doživetje, avtomatska obnova, prijava doživetja, politična izpostavljenost, davčno rezidentstvo" 
+},
+{
+"id": 387,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - potek police, doživetje",
+"level3a": "nan",
+"question": "Ali je dovoljena vožnja z vozilom ob poteku zavarovanja?",
+"keywords": "potek zavarovanja, AO, avtomobilsko zavarovanje" 
+},
+{
+"id": 388,
+"level1": "Informacije",
+"level2": "Zavarovalne police",
+"level3": "Skadenca - potek police, doživetje",
+"level3a": "nan",
+"question": "Kaj narediti ob prekinitvi študentskega statusa in poteku zdravstvenega zavarovanja?",
+"keywords": "potek zavarovanja, potek statusa, študenti, zdravstveno zavarovanje" 
+},
+{
+"id": 389,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Prijava škode - obrazec",
+"level3a": "nan",
+"question": "Kako prijaviti škodo?",
+"keywords": "prijava škode, obrazec, nezgoda" 
+},
+{
+"id": 390,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Prijava škode - obrazec",
+"level3a": "nan",
+"question": "Kje najdem obrazec za prijavo škode?",
+"keywords": "dodatni dokumenti, slike, potrdila, dokazila, izjave" 
+},
+{
+"id": 391,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Postopek ravnanja ob škodi",
+"level3a": "nan",
+"question": "V katerih primerih moram obvestiti policijo?",
+"keywords": "cenitev škode, postopek cenitve, kasko zavarovanje, obveščenost policije, cenilec, dokazila" 
+},
+{
+"id": 392,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Postopek ravnanja ob škodi",
+"level3a": "nan",
+"question": "Kako ravnati ob škodnem dogodku?",
+"keywords": "škodni dogodek, prijava škode, dokazila, cenitev, ravnati" 
+},
+{
+"id": 393,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Cenitev škode",
+"level3a": "nan",
+"question": "Kakšen je postopek cenitve škode?",
+"keywords": "ocena, termin, lokacija, cenitev škode na daljavo, Skplus servis, SK+, popravilo, cenilec, dokazila" 
+},
+{
+"id": 394,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Status škode in izplačilo",
+"level3a": "nan",
+"question": "Kakšen je postopek reševanja škode?",
+"keywords": "Skplus servis, SK+, popravilo, reševanje škode" 
+},
+{
+"id": 395,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Status škode in izplačilo",
+"level3a": "nan",
+"question": "Kdaj bo škoda izplačana?",
+"keywords": "status cenitve, datum izplačila, izplačilo, cenitev, škoda" 
+},
+{
+"id": 396,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Status škode in izplačilo",
+"level3a": "nan",
+"question": "Kakšen je status moje škode?",
+"keywords": "status cenitve, datum izplačila, izplačilo, cenitev, škoda" 
+},
+{
+"id": 397,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Čas za prijavo škode / nezgode",
+"level3a": "nan",
+"question": "Kdaj je rok za prijavo škode?",
+"keywords": "prijava škode, škodni dogodek, rok za prijavo škode" 
+},
+{
+"id": 398,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Čas za prijavo škode / nezgode",
+"level3a": "nan",
+"question": "Kaj storiti v primeru zamujenega roka za prijavo škode?",
+"keywords": "rok za prijavo škode, 3-dnevni rok, škodni dogodek" 
+},
+{
+"id": 399,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Mednarodne škode",
+"level3a": "nan",
+"question": "Kakšen je statusa moje mednarodne škode?",
+"keywords": "mednarodna škoda" 
+},
+{
+"id": 400,
+"level1": "Informacije",
+"level2": "Škode ",
+"level3": "Spletna prijava škode ",
+"level3a": "nan",
+"question": "Kako prijaviti škodo preko spleta?",
+"keywords": "spletna prijava škode, vrsta škode, itriglav, prijava škode, obrazec" 
+},
+{
+"id": 401,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Odpiralni časi, kontakti",
+"level3a": "nan",
+"question": "Kje najdem kontakt zastopnika?",
+"keywords": "zastopnik, kontakt, naroči zastopnika" 
+},
+{
+"id": 402,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Odpiralni časi, kontakti",
+"level3a": "nan",
+"question": "Kje preverim delovni čas poslovalnice?",
+"keywords": "poslovalnica, delovni čas, odpiralni čas" 
+},
+{
+"id": 403,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Donacije, sponzorstva",
+"level3a": "nan",
+"question": "Kakšne so opcije sponzorstva oziroma donacij?",
+"keywords": "društvo, sponzorstvo, donacija" 
+},
+{
+"id": 404,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Ugodnosti",
+"level3a": "nan",
+"question": "Kakšne so ugodnosti za mlade voznike?",
+"keywords": "ugodnosti, mladi vozniki, akcija" 
+},
+{
+"id": 405,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Zaposlitev, CVs",
+"level3a": "nan",
+"question": "Kakšne so možnosti zaposlitve v ZT?",
+"keywords": "zaposlitev, kadrovska služba, CV, življenjepis" 
+},
+{
+"id": 406,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "B2B ponudba",
+"level3a": "nan",
+"question": "Kam lahko posredujem B2B ponudbo storitve?",
+"keywords": "mailing, darila, seminarji, voščila" 
+},
+{
+"id": 407,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Informacije glede obiska agenta/zastopnika",
+"level3a": "nan",
+"question": "Ali me je kontaktiral vaš zastopnik?",
+"keywords": "obisk agenta, zastopnika, obisk svetovalca, triglav svetovanje, tris" 
+},
+{
+"id": 408,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Informacije glede obiska agenta/zastopnika",
+"level3a": "nan",
+"question": "Kako lahko prekličem dogovorjen termin s svetovalcem/zastopnikom?",
+"keywords": "obisk agenta, zastopnika, obisk svetovalca, triglav svetovanje" 
+},
+{
+"id": 409,
+"level1": "Informacije",
+"level2": "Splošne informacije ",
+"level3": "Naročilo zastopnika",
+"level3a": "nan",
+"question": "Kje lahko najdem kontakt za sklepanje zavarovanja",
+"keywords": "naroči zastopnika, spletna stran, spletno sklepanje" 
+},
+{
+"id": 410,
+"level1": "Informacije",
+"level2": "GDPR",
+"level3": "Preklic in privolitev",
+"level3a": "nan",
+"question": "Kako prekličem potrditev za neposredno trženje?",
+"keywords": "GDPR, preklic, trženje" 
+},
+{
+"id": 411,
+"level1": "Informacije",
+"level2": "GDPR",
+"level3": "Preklic in privolitev",
+"level3a": "nan",
+"question": "Kaj storiti v primeru prejete tuje dokumentacije?",
+"keywords": "napačni podatki, popravek na polici, tuja dokumentacija, napačna oseba, prejemnik" 
+},
+{
+"id": 412,
+"level1": "Informacije",
+"level2": "GDPR",
+"level3": "Preklic in privolitev",
+"level3a": "nan",
+"question": "Kako prekličem dovoljeno zbiranja osebnih podatkov?",
+"keywords": "GDPR, varstvo podatkov, kršitve, osebni podatki, občutljivi podatki, preklic zbiranja podatkov" 
+},
+{
+"id": 413,
+"level1": "Informacije",
+"level2": "GDPR",
+"level3": "Preklic in privolitev",
+"level3a": "nan",
+"question": "Kako oddam zahtevek za izbris zbranih podatkov?",
+"keywords": "GDPR, varstvo podatkov, kršitve, osebni podatki, občutljivi podatki, izbris podatkov" 
+},
+{
+"id": 414,
+"level1": "Informacije",
+"level2": "GDPR",
+"level3": "Preklic in privolitev",
+"level3a": "nan",
+"question": "Kako oddam zahtevek za izbris zbranih osebnih podatkov?",
+"keywords": "GDPR, varstvo podatkov, kršitve, osebni podatki, občutljivi podatki, izpis podatkov" 
+},
+{
+"id": 415,
+"level1": "Informacije",
+"level2": "GDPR",
+"level3": "Preklic in privolitev",
+"level3a": "nan",
+"question": "Kako uredim prenos osebnih podatkov na drugo zavarovalnico?",
+"keywords": "GDPR, varstvo podatkov, kršitve, osebni podatki, občutljivi podatki, prenos podatkov" 
+},
+{
+"id": 416,
+"level1": "Informacije",
+"level2": "Help desk - interna javnost",
+"level3": "Vsebinska podpora",
+"level3a": "nan",
+"question": "Vsebinska podpora zaposlenim",
+"keywords": "okrožnica, drajv koda, help desk" 
+},
+{
+"id": 417,
+"level1": "Informacije",
+"level2": "Help desk - interna javnost",
+"level3": "Tehnična podpora",
+"level3a": "nan",
+"question": "Tehnična podpora zaposlenim",
+"keywords": "okrožnica, drajv koda, help desk" 
+},
+{
+"id": 418,
+"level1": "Informacije",
+"level2": "Help desk - interna javnost",
+"level3": "Drugo",
+"level3a": "nan",
+"question": "Podpora zaposlenim",
+"keywords": "zanima, status škode, zahtevek, help desk, geslo, e-sodstvo" 
+},
+{
+"id": 419,
+"level1": "Informacije",
+"level2": "Banke",
+"level3": "Vsebinska podpora",
+"level3a": "nan",
+"question": "Kakšen je obseg kritja?",
+"keywords": "banka, kritje, naložba, kartica" 
+},
+{
+"id": 420,
+"level1": "Informacije",
+"level2": "Banke",
+"level3": "Tehnična podpora",
+"level3a": "nan",
+"question": "Kaj lahko naredim v primeru, ko mi aplikacija javlja napako?",
+"keywords": "napaka v aplikaciji, tehnična podpora, tehnična težava" 
+},
+{
+"id": 421,
+"level1": "Informacije",
+"level2": "Marketinške akcije ",
+"level3": "Motoristi ",
+"level3a": "nan",
+"question": "Kakšna je višina popusta ob ne vračilu premije?",
+"keywords": "popust, bonus, motoristi, predčasna prekinitev zavarovanja, dogovor o nevračilu neizkoriščenega dela premije" 
+},
+{
+"id": 422,
+"level1": "Informacije",
+"level2": "Marketinške akcije ",
+"level3": "Rutka za prvošolce",
+"level3a": "nan",
+"question": "Kako dobim rutko za prvošolca?",
+"keywords": "rutke za prvošolce, Kuža pazi, rutka" 
+},
+{
+"id": 423,
+"level1": "Informacije",
+"level2": "Marketinške akcije ",
+"level3": "Planica ",
+"level3a": "nan",
+"question": "Kako lahko spremljam skoke v planici na daljavo?",
+"keywords": "ogled na daljavo, Planica" 
+},
+{
+"id": 424,
+"level1": "Informacije",
+"level2": "Marketinške akcije ",
+"level3": "Planica ",
+"level3a": "nan",
+"question": "Kdaj bodo objavljeni nagrajenci Planice?",
+"keywords": "nagradna igra, Planica, nagrajenci" 
+},
+{
+"id": 425,
+"level1": "Informacije",
+"level2": "Marketinške akcije ",
+"level3": "Planica ",
+"level3a": "nan",
+"question": "Kako si zagotovim vstopnico za ogled Planice na daljavo?",
+"keywords": "karta, prenosljivost karte, nagrajenci, koda za ogled na daljavo" 
+},
+{
+"id": 426,
+"level1": "Informacije",
+"level2": "Pohvala",
+"level3": "Pohvala - splošna, vsebinska",
+"level3a": "nan",
+"question": "Posredovanje pohvale",
+"keywords": "pohvala, posredovanje" 
+},
+{
+"id": 427,
+"level1": "Informacije",
+"level2": "Pritožba",
+"level3": "Pritožba - splošna, vsebinska",
+"level3a": "nan",
+"question": "Pritožba na izvedbo storitve",
+"keywords": "pritožba, pritožbeni postopek, storitev" 
+},
+{
+"id": 428,
+"level1": "Informacije",
+"level2": "Pritožba",
+"level3": "Pritožba - splošna, vsebinska",
+"level3a": "nan",
+"question": "Pritožba na odnos zaposlenega",
+"keywords": "pritožba, pritožbeni postopek, odnos cenilca, odnos zaposlenega" 
+},
+{
+"id": 429,
+"level1": "Informacije",
+"level2": "Pritožba",
+"level3": "Pritožba - splošna, vsebinska",
+"level3a": "nan",
+"question": "Pritožba na cenitev",
+"keywords": "pritožba, pritožbeni postopek, cenitev, škoda" 
+},
+{
+"id": 430,
+"level1": "Informacije",
+"level2": "Pritožba",
+"level3": "Pritožba - splošna, vsebinska",
+"level3a": "nan",
+"question": "Pritožba na odpovedni rok",
+"keywords": "pritožba, pritožbeni postopek, odpovedni rok, zavarovalni pogoji" 
+},
+{
+"id": 431,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Informativni izračun",
+"level3a": "nan",
+"question": "Kako naredim informativni izračun na spletu?",
+"keywords": "informativni izračun, spletno sklepanje, zastopnik, sklepanje" 
+},
+{
+"id": 432,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Sklenitev zavarovanja",
+"level3a": "nan",
+"question": "Kaj pomeni prag aktiviranja?",
+"keywords": "prag aktiviranja, zavarovalni pogoji" 
+},
+{
+"id": 433,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Sklenitev zavarovanja",
+"level3a": "nan",
+"question": "Kaj je pomen letnega agregata?",
+"keywords": "letni agregat, spletna stran, dokumentacija" 
+},
+{
+"id": 434,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Sklenitev zavarovanja",
+"level3a": "nan",
+"question": "Kako izračunam višino soudeležbe?",
+"keywords": "soudeležba, odbitna franšiza, pogoji, pogodba" 
+},
+{
+"id": 435,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Informacije",
+"level3a": "nan",
+"question": "Kje lahko dostopam do obrazcev in dokumentov?",
+"keywords": "splošno, obrazci, pogoji, kontakti, spletna stran, dokumenti" 
+},
+{
+"id": 436,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Informacije",
+"level3a": "nan",
+"question": "Kakšne so možnosti spletnega sklepanja zavarovanj?",
+"keywords": "splet, sklepanje, na daljavo, online" 
+},
+{
+"id": 437,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Težave z delovanjem",
+"level3a": "nan",
+"question": "Stran za sklepanje ne deluje, kaj lahko naredim?",
+"keywords": "ne dela spletna stran, ne dela informativni izračun, interaktivni obrazci" 
+},
+{
+"id": 438,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Težave z delovanjem",
+"level3a": "nan",
+"question": "Kaj lahko storim v primeru napake pri sklepanju online?",
+"keywords": "napaka pri vnosu, spletno sklepanje zavarovanja" 
+},
+{
+"id": 439,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Težave z delovanjem",
+"level3a": "nan",
+"question": "Kaj lahko storim v primeru nedelovanja interaktivnih obrazcev?",
+"keywords": "interaktivni obrazci, spletno sklepanje zavarovanja" 
+},
+{
+"id": 440,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Težave z delovanjem",
+"level3a": "nan",
+"question": "Zakaj dobim opozorilo o vnosu napačnega podatka?",
+"keywords": "opozorilo, vnos napačnega podatka, spletno sklepanje zavarovanja" 
+},
+{
+"id": 441,
+"level1": "Informacije",
+"level2": "Spletna stran",
+"level3": "Video identifikacija",
+"level3a": "nan",
+"question": "Kako odpravim težave z video identifikacijo?",
+"keywords": "video identifikacija, težave z identifikacijo, brskalnik, spletna kamera" 
+},
+{
+"id": 442,
+"level1": "Informacije",
+"level2": "Sklepanje na daljavo ",
+"level3": "e-pero napake/napačni podatki na polici",
+"level3a": "nan",
+"question": "Kako lahko odpravim napake na polici?",
+"keywords": "napake na polici, sklepanje na spletu, e-pero, sprememba podatka" 
+},
+{
+"id": 443,
+"level1": "Informacije",
+"level2": "Sklepanje na daljavo ",
+"level3": "Dokumentacija",
+"level3a": "nan",
+"question": "Kako vam lahko posredujem podpisane dokumente?",
+"keywords": "posredovanje dokumentov, e-pero, podpis" 
+},
+{
+"id": 444,
+"level1": "Informacije",
+"level2": "Sklepanje na daljavo ",
+"level3": "Dokumentacija",
+"level3a": "nan",
+"question": "Kako odprem prejeto dokumentacijo?",
+"keywords": "dokumentacija, geslo, zaklenjena dokumentacija, koda, podpis" 
+},
+{
+"id": 445,
+"level1": "Informacije",
+"level2": "Sklepanje na daljavo ",
+"level3": "Dokumentacija",
+"level3a": "nan",
+"question": "Kakšno je geslo za odpiranje prejete dokumentacije?",
+"keywords": "odpiranje dokumentacije, vpis podatkov, 24-urna veljavnost, 24-urna varovalka" 
+},
+{
+"id": 446,
+"level1": "Informacije",
+"level2": "Sklepanje na daljavo ",
+"level3": "Dokumentacija",
+"level3a": "nan",
+"question": "Zakaj nisem prejel police elektronski naslov?",
+"keywords": "prejetje police, itriglav, polica, dokumentacija" 
+},
+{
+"id": 447,
+"level1": "Informacije",
+"level2": "Sklepanje na daljavo ",
+"level3": "plačilo premije",
+"level3a": "nan",
+"question": "Kakšne so možnosti plačila na daljavo?",
+"keywords": "plačilo premije, UPN, trajnik, e-račun, NLB Klik, Mastercard, Visa, Activa Maestro, VALÚ" 
+},
+{
+"id": 448,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Pregled polic",
+"level3a": "nan",
+"question": "Kje lahko preverim stanje na polici?",
+"keywords": "pregled polic v itriglav, stanje na polici, graf, sredstva" 
+},
+{
+"id": 449,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Pregled polic",
+"level3a": "nan",
+"question": "Zakaj v digitalni poslovalnici ne vidim svoje zavarovalane police?",
+"keywords": "profil, polica, vpogled, itriglav" 
+},
+{
+"id": 450,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Status škode",
+"level3a": "nan",
+"question": "Kje lahko spremljam status škode/škodnega zahtevka?",
+"keywords": "stanje škodnega zahtevka, škoda, škodni spis, status, itriglav" 
+},
+{
+"id": 451,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Prijava škode",
+"level3a": "nan",
+"question": "Kakšen je postopek oddaje prijave škode v aplikaciji?",
+"keywords": "prijava škode v itriglav, oddaja vloge v itriglav" 
+},
+{
+"id": 452,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Poslovalnica i.triglav",
+"level3a": "nan",
+"question": "Kaj je digitalna poslovalnica i.triglav?",
+"keywords": "itriglav, pregled polic, registracija, portfelj, naložbe, investicije" 
+},
+{
+"id": 453,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Poslovalnica i.triglav",
+"level3a": "nan",
+"question": "Kaj mi omogoča poslovalnica i.triglav?",
+"keywords": "storitve, digitalna poslovalnica, itriglav, delovanje" 
+},
+{
+"id": 454,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Registracija",
+"level3a": "nan",
+"question": "Kako se lahko registriram?",
+"keywords": "registracija, itriglav, prijava, itriglav, spletna poslovalnica" 
+},
+{
+"id": 455,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Registracija",
+"level3a": "nan",
+"question": "Kako aktiviram i.triglav uporabniški račun?",
+"keywords": "uporabniški račun, itriglav, avtentikacija, aktivacija" 
+},
+{
+"id": 456,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Registracija",
+"level3a": "nan",
+"question": "Katero digitalno potrdilo lahko uporabim za identifikacijo v i.triglav aplikaciji?",
+"keywords": "digitalno potrdilo, identifikacija, aktivacija, itriglav, AC NLB, Halcom, SIGEN" 
+},
+{
+"id": 457,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Registracija",
+"level3a": "nan",
+"question": "Kaj je pomen enkratne registracijske kode?",
+"keywords": "enkratna, registracijska koda, itriglav" 
+},
+{
+"id": 458,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Registracija",
+"level3a": "nan",
+"question": "Kako pridobim enkratno registracijsko kodo?",
+"keywords": "enkratna, registracijska koda, itriglav" 
+},
+{
+"id": 459,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Dostop",
+"level3a": "nan",
+"question": "Kako lahko dostopam do i.triglava?",
+"keywords": "uporabniško ime, dostop, digitalno potrdilo, osebna številka, enkratna registracijska koda, itriglav" 
+},
+{
+"id": 460,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Sprememba podatkov",
+"level3a": "nan",
+"question": "Kako lahko spremenim podatke v i.triglavu?",
+"keywords": "generalna sprememba, sprememba podatkov v itriglav" 
+},
+{
+"id": 461,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Tehnične težave",
+"level3a": "nan",
+"question": "Kaj naredim, če je uporabnik s to davčno št. že registriran?",
+"keywords": "ni vidna polica, napačna polica, status police, ne deluje aplikacija, potrditveni e-mail, prikaz stanja sredstev, tehnične težave" 
+},
+{
+"id": 462,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Tehnične težave",
+"level3a": "nan",
+"question": "Napake v postopku registracije",
+"keywords": "napaka, registracija, itriglav" 
+},
+{
+"id": 463,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Tehnične težave",
+"level3a": "nan",
+"question": "Zakaj ne prejmem potrditvenega e-maila za i.triglav?",
+"keywords": "potrditveni e-mail, itriglav" 
+},
+{
+"id": 464,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Tehnične težave",
+"level3a": "nan",
+"question": "Zakaj v i.triglavu ne vidim svoje zavarovalne police?",
+"keywords": "profil, polica, itriglav, vpogled" 
+},
+{
+"id": 465,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Tehnične težave",
+"level3a": "nan",
+"question": "Potrebujem pomoč za i.triglav",
+"keywords": "pomoč, itriglav, aplikacija" 
+},
+{
+"id": 466,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Geslo",
+"level3a": "nan",
+"question": "Kako izbrati primerno geslo?",
+"keywords": "itriglav, geslo, splošno" 
+},
+{
+"id": 467,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Pozabljeno geslo ",
+"level3a": "nan",
+"question": "Kaj storiti, če pozabim geslo?",
+"keywords": "sprememba gesla, novo geslo, pozabljeno" 
+},
+{
+"id": 468,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Popust za soglasje",
+"level3a": "nan",
+"question": "Kako podam posamezno soglasje?",
+"keywords": "pupoust, soglasje, itriglav, aktivacija" 
+},
+{
+"id": 469,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Popust za digitalno poslovanje",
+"level3a": "nan",
+"question": "Ali je popust iz naslova digitalnega poslovanja v Triglav kompletu?",
+"keywords": "itriglav, popust, skupni popust, triglav komplet" 
+},
+{
+"id": 470,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Popust za digitalno poslovanje",
+"level3a": "nan",
+"question": "Kako aktiviram popust za digitalno poslovanje?",
+"keywords": "popust, itriglav, aktivacija, registracija, soglasje " 
+},
+{
+"id": 471,
+"level1": "Informacije",
+"level2": "i.triglav ",
+"level3": "Pozabljeno geslo ",
+"level3a": "nan",
+"question": "Kaj naredim, če pozabim geslo?",
+"keywords": "uporabniško ime, geslo, itriglav, napačno geslo" 
+},
+{
+"id": 472,
+"level1": "Informacije",
+"level2": "Triglav zdravje aplikacija",
+"level3": "prijava škode",
+"level3a": "nan",
+"question": "Kako vložim zahtevek za povračilo stroškov?",
+"keywords": "Triglav, Zdravstvena zavarovalnica, povračilo stroškov, zahtevek" 
+},
+{
+"id": 473,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "tehnične težave",
+"level3a": "nan",
+"question": "Kako odpravim težave s sinhronizacijo vožnje?",
+"keywords": "Drajv, sinhronizacija, vožnja" 
+},
+{
+"id": 474,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "tehnične težave",
+"level3a": "nan",
+"question": "Kaj naredim v primeru, da gumb start ne deluje?",
+"keywords": "start, Drajv, gumb, začetek snemanja" 
+},
+{
+"id": 475,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "tehnične težave",
+"level3a": "nan",
+"question": "Zakaj se aplikacija ugaša med vožnjo?",
+"keywords": "vožnja, ugasne aplikacija, Drajv" 
+},
+{
+"id": 476,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Tehnične težave",
+"level3a": "nan",
+"question": "Zakaj aplikacija drajv ne deluje pravilno?",
+"keywords": "GPS, mobilni podatki, ne deluje, posodobitev, aplikacija" 
+},
+{
+"id": 477,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kakšen je pomen aplikacije Drajv?",
+"keywords": "drajv, aplikacija, telematika, vožnja, popust, 25 %" 
+},
+{
+"id": 478,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kako deluje aplikacija Drajv?",
+"keywords": "aplikacija, snemanje, vožnja, omejitev hitrosti, sile, toleranca" 
+},
+{
+"id": 479,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kaj pomeni telematika?",
+"keywords": "drajv, telematika, tehnologija, premija" 
+},
+{
+"id": 480,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kakšne so funkcionalnosti prenovljene aplikacije Drajv?",
+"keywords": "aplikacija, drajv, prenovljena, funkcionalnosti" 
+},
+{
+"id": 481,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Koliko prostora na pomnilniku telefona zavzame aplikacija?",
+"keywords": "pomnilnik, prostor, aplikacija, drajv" 
+},
+{
+"id": 482,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Koliko baterije porabi aplikacija?",
+"keywords": "poraba, baterija, aplikacija, drajv" 
+},
+{
+"id": 483,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kdo lahko uporablja Drajv?",
+"keywords": "drajv, uporaba, pametni telefon, uporabniki" 
+},
+{
+"id": 484,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kako se vožnje ocenjujejo?",
+"keywords": "ocena, vožnja, drajv" 
+},
+{
+"id": 485,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Zakaj je potreben vklop GPS oz. omogočanje dostopa do lokacijskih storitev?",
+"keywords": "GPS, dostop do lokacijskih storitev, lokacija, snemanje, aplikacija, drajv" 
+},
+{
+"id": 486,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Kaj pomeni Dashcam – avto kamera?",
+"keywords": "dashcam, avtokamera, snemanje, vožnja, drajv" 
+},
+{
+"id": 487,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Koliko stane aplikacija Drajv?",
+"keywords": "plačljiva, cena, drajv, aplikacija, brezplačna" 
+},
+{
+"id": 488,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Koliko prenosov podatkov porabi aplikacija?",
+"keywords": "prenos podatkov, podatki, aplikacija, drajv" 
+},
+{
+"id": 489,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Splošne značilnosti aplikacije",
+"question": "Katere naprave podpirajo aplikacijo Drajv?",
+"keywords": "mobilna naprava, drajv, ios, iphone, android, google play, huawei" 
+},
+{
+"id": 490,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Postopek snemanja vožnje in namestitev telefona",
+"question": "Kako moram namestiti telefon za pravilno delovanje?",
+"keywords": "namestitev, telefon, aplikacija, drajv" 
+},
+{
+"id": 491,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Postopek snemanja vožnje in namestitev telefona",
+"question": "Ali je dovoljeno premikanje telefona med vožnjo?",
+"keywords": "premik, telefon, ocena, vožnja, drajv" 
+},
+{
+"id": 492,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Postopek snemanja vožnje in namestitev telefona",
+"question": "Zakaj ne morem začeti snemati vožnje med možnjo?",
+"keywords": "vključitev aplikacije, snemanje vožnje, drajv" 
+},
+{
+"id": 493,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Postopek snemanja vožnje in namestitev telefona",
+"question": "Kakšen je postopek snemanja vožnje?",
+"keywords": "snemanje vožnje, zaključek, vožnja, stop, drajv" 
+},
+{
+"id": 494,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Postopek snemanja vožnje in namestitev telefona",
+"question": "Ali je dovoljena uporaba telefona med snemanjem vožnje?",
+"keywords": "uporaba telefona, vožnja, snemanje, drajv" 
+},
+{
+"id": 495,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Postopek snemanja vožnje in namestitev telefona",
+"question": "Kakšne so prednosti avtomatičnega snemanja voženj?",
+"keywords": "snemanje, avtomatično, drajv" 
+},
+{
+"id": 496,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Posodobitev",
+"question": "Kako posodobim aplikacijo Drajv?",
+"keywords": "posodobitev, aplikacija, sinhronizacija" 
+},
+{
+"id": 497,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Uporaba in delovanje aplikacije",
+"level3a": "Posodobitev",
+"question": "Zakaj aplikacija zahteva posodobitev Android WebView aplikacije, čeprav je že posodobljena?",
+"keywords": "posodobitev, Android Web, težava, drajv" 
+},
+{
+"id": 498,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "prijava napake v aplikaciji",
+"level3a": "nan",
+"question": "Zakaj aplikacija Drajv prikazuje napačno oceno vožnje?",
+"keywords": "omejitev hitrosti, prometni znaki" 
+},
+{
+"id": 499,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "prijava napake v aplikaciji",
+"level3a": "nan",
+"question": "Zakaj aplikacija Drajv ne beleži pravo število prevoženih kilometrov?",
+"keywords": "kilometri, km, število prevoženih kilometrov, posodobitev" 
+},
+{
+"id": 500,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "prijava napake v aplikaciji",
+"level3a": "nan",
+"question": "Zakaj ne morem prijaviti napake?",
+"keywords": "prijava, napaka, Drajv" 
+},
+{
+"id": 501,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "prijava napake v aplikaciji",
+"level3a": "nan",
+"question": "Kako prijavim merjenje napačnih sil oz. premik telefona?",
+"keywords": "sile, vožnja, aplikacija, Drajv" 
+},
+{
+"id": 502,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Registracija",
+"level3a": "namestitev",
+"question": "Kako namestim aplikacijo Drajv?",
+"keywords": "prijava, Drajv, trgovina, namestitev" 
+},
+{
+"id": 503,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Registracija",
+"level3a": "namestitev",
+"question": "Zakaj aplikacije Drajv ne najdem v trgovini?",
+"keywords": "Google, Play, trgovina, aplikacija, drajv" 
+},
+{
+"id": 504,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Popust",
+"level3a": "dostop do računa",
+"question": "Lahko prenesem Drajv račun na drugo osebo?",
+"keywords": "prenos, račun, druga oseba" 
+},
+{
+"id": 505,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Dostop",
+"level3a": "dostop do računa",
+"question": "Kako prenesem podatke aplikacije Drajv na drug telefon?",
+"keywords": "prijava, Drajv, nova mobilna naprava" 
+},
+{
+"id": 506,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Registracija",
+"level3a": "registracija",
+"question": "Kako opravim postopek registracije/prijave v Drajv",
+"keywords": "registracija, prijava, podatki, drajv" 
+},
+{
+"id": 507,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Geslo",
+"level3a": "nan",
+"question": "Kako nastavim geslo v aplikaciji Drajv?",
+"keywords": "geslo, registracija, prijava, drajv" 
+},
+{
+"id": 508,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Pozabljeno geslo ",
+"level3a": "Pozabljeno geslo Drajv",
+"question": "Kaj storiti v primeru pozabljenega gesla?",
+"keywords": "pozabljeno geslo, Drajv, ponastavitev gesla" 
+},
+{
+"id": 509,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Sprememba jezika",
+"level3a": "sprememba podatka v aplikaciji",
+"question": "Kako spremenim jezik v aplikaciji Drajv?",
+"keywords": "jezik, aplikacija, nastavitve, drajv" 
+},
+{
+"id": 510,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Sprememba podatka v aplikaciji",
+"level3a": "sprememba podatka v aplikaciji",
+"question": "Kako spremenim podatek v aplikaciji Drajv?",
+"keywords": "e-mail, kontakt, napačni podatek, sprememba podatkov, kontaktni podatek, e-mail, davčna številka, aplikacija" 
+},
+{
+"id": 511,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kakšne so ugodnosti aplikacije Drajv?",
+"keywords": "ugodnosti, popust, 25 %, drajv" 
+},
+{
+"id": 512,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kakšni so pogoji za prejem Drajv popusta?",
+"keywords": "km, kilometri, ocena, drajv, popust, 300 km" 
+},
+{
+"id": 513,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kako pridobim kodo za popust?",
+"keywords": "koda, popust, zbiranje popusta, 25 %, zahtevaj kodo, drajv" 
+},
+{
+"id": 514,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Zakaj ne morem zahtevati kode za popust?",
+"keywords": "koda, Drajv, popust, težava" 
+},
+{
+"id": 515,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Lahko izgubim že pridobljeni Drajv popust?",
+"keywords": "popust, drajv, pridobljen" 
+},
+{
+"id": 516,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kako lahko preverim trenutni Drajv popust?",
+"keywords": "koda, popust, mesečni napredek, drajv" 
+},
+{
+"id": 517,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kakšne so omejitve popusta Drajv?",
+"keywords": "koda, popust, Drajv, omejitve" 
+},
+{
+"id": 518,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kakšen je možen najvišji Drajv popust?",
+"keywords": "popust, drajv, maksimalen, najvišji, 25 %" 
+},
+{
+"id": 519,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Zakaj ne morem uporabiti kode za popust?",
+"keywords": "koda, Drajv, popust" 
+},
+{
+"id": 520,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kje najdem podrobnosti o Drajv nagradah?",
+"keywords": "ugodnosti, drajv, nagrade" 
+},
+{
+"id": 521,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kje najdem seznam nagrajencev?",
+"keywords": "drajv, nagrajenci, sodelovanje v nagradni igri, žrebanje, izzivi" 
+},
+{
+"id": 522,
+"level1": "Informacije",
+"level2": "Drajv",
+"level3": "Nagrade/Popusti drajv",
+"level3a": "nan",
+"question": "Kakšen je postopek sodelovanja v nagradni igri?",
+"keywords": "nagradna igra, drajv, sodelovanje" 
+},
+{
+"id": 523,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Vleka ali prevoz vozila",
+"level3a": "nan",
+"question": "Ugašanje avta, avtovleka",
+"keywords": "ugasnil med vožnjo, asistenca, vleka" 
+},
+{
+"id": 524,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Vleka ali prevoz vozila",
+"level3a": "nan",
+"question": "Avto brez moči, avtovleka",
+"keywords": "brez moči, vozilo, asistenca, vleka" 
+},
+{
+"id": 525,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Vleka ali prevoz vozila",
+"level3a": "nan",
+"question": "Počena vzmet",
+"keywords": "vzmet, pok, asistenca, vleka" 
+},
+{
+"id": 526,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Vleka ali prevoz vozila",
+"level3a": "nan",
+"question": "Okvara menjalnika",
+"keywords": "menjalnik, asistenca, vleka" 
+},
+{
+"id": 527,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Vleka ali prevoz vozila",
+"level3a": "nan",
+"question": "Okvara sklopke",
+"keywords": "sklopka, asistenca, vleka" 
+},
+{
+"id": 528,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Vleka ali prevoz vozila",
+"level3a": "nan",
+"question": "Okvara motorja (opozorilne lučke, kadi iz motorja)",
+"keywords": "kadi iz motorja, lučke za motor, asistenca, vleka" 
+},
+{
+"id": 529,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "Prometna nesreča",
+"keywords": "prometna nesreča, trčenje, avtomobilska odgovornost, asistenca, vleka, servis, policija" 
+},
+{
+"id": 530,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "Povoženje divjadi",
+"keywords": "divjad, prometna nesreča, asistenca, servis, policija" 
+},
+{
+"id": 531,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "Trčenje z vozilom",
+"keywords": "trčenje, prometna nesreča, asistenca" 
+},
+{
+"id": 532,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "Zdrs s ceste",
+"keywords": "zdrs, prometna nesreča, asistenca, servis" 
+},
+{
+"id": 533,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "V katerih primerih moram obvestiti policijo?",
+"keywords": "prometna nesreča, policija" 
+},
+{
+"id": 534,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "Kako ravnati v primeru prometne nesreče?",
+"keywords": "prometna nesreča, škoda, policija, polica, 3 dni" 
+},
+{
+"id": 535,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prometna nesreča",
+"level3a": "nan",
+"question": "Zakaj je potrebno izpolniti evropsko poročilo o prometni nesreči?",
+"keywords": "evropsko poročilo, prometna nesreča, materialna škoda, prijava škode, policija" 
+},
+{
+"id": 536,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Vozilo ne vžge",
+"keywords": "vozilo ne vžge, akumulator, asistenca, pomoč na cesti, SPI" 
+},
+{
+"id": 537,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Spraznjen akumulator",
+"keywords": "akumulator, prazen, asistenca, pomoč na cesti, SPI" 
+},
+{
+"id": 538,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Spuščena pnevmatika /guma",
+"keywords": "pnevmatika, guma, spustila, asistenca, pomoč na cesti, SPI" 
+},
+{
+"id": 539,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Menjava luči",
+"keywords": "menjava luči, asistenca, pomoč na cesti, SPI" 
+},
+{
+"id": 540,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Nadomestno vozilo",
+"level3a": "nan",
+"question": "Urejanje nadomestnega vozila",
+"keywords": "nadomestno vozilo, asistenca, plus, comfort, servis, prometna nesreča, RAC" 
+},
+{
+"id": 541,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Nadomestno vozilo",
+"level3a": "nan",
+"question": "Želim podaljšati najem nadomestnega vozila",
+"keywords": "podaljšanje najema, nadomestno vozilo, asistenca, plus, comfort, pogoji najema, opomnik" 
+},
+{
+"id": 542,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Nadomestno vozilo",
+"level3a": "nan",
+"question": "Vračilo nadomestnega vozila",
+"keywords": "nadomestno vozilo, asistenca, plus, comfort, pogoji najema, opomnik" 
+},
+{
+"id": 543,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Reševanje vozila pri izletu/ zdrsu s ceste",
+"level3a": "nan",
+"question": "Obtičanje z vozilom v blatu, snegu, jarku",
+"keywords": "blato, sneg, jarek, obtičal, asistenca, reševanje vozila" 
+},
+{
+"id": 544,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Odprava posledic točenja napačnega goriva ",
+"level3a": "nan",
+"question": "Točenje napačnega goriva",
+"keywords": "napačno gorivo, praznjenje in čiščenje rezervoarja, čistilec za gorivo, stroški" 
+},
+{
+"id": 545,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč pri težavah s ključi vozila",
+"level3a": "nan",
+"question": "Zaklenjeni ključi v vozilu",
+"keywords": "ključi zaklenjeni, rezervni ključi, asistenca" 
+},
+{
+"id": 546,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč pri težavah s ključi vozila",
+"level3a": "nan",
+"question": "Zaklenjena oseba v vozilu",
+"keywords": "rezervni ključi, asistenca" 
+},
+{
+"id": 547,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč pri težavah s ključi vozila",
+"level3a": "nan",
+"question": "Izgubljeni, ukradeni ključi",
+"keywords": "izgubljeni ključi, ukradeni ključi, asistenca, policija" 
+},
+{
+"id": 548,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč pri težavah s ključi vozila",
+"level3a": "nan",
+"question": "Poškodovani ključi, kartica za odklepanje",
+"keywords": "poškodovani ključi, rezervni ključi, kartica za odklepanje, rezervni ključi, baterija, asistenca" 
+},
+{
+"id": 549,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Tatvina (delov) voznega sredstva",
+"level3a": "nan",
+"question": "Ukradeno vozilo, del vozila",
+"keywords": "tatvina, vozilo, asistenca" 
+},
+{
+"id": 550,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Dostava goriva za vozilo",
+"level3a": "nan",
+"question": "Zmanjkanje goriva",
+"keywords": "zmanjkalo goriva, bencin, dizel, stroški goriva, asistenca, dostava goriva, vozilo" 
+},
+{
+"id": 551,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Dostava nadomestnih delov v tujino",
+"level3a": "nan",
+"question": "Dostava nadomestnega dela v tujino",
+"keywords": "nadomestni deli, tujina, popravilo, plačilo, asistenca" 
+},
+{
+"id": 552,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Carinjenje in prevoz na odpad/razgradnja ali odstop poškodovanega vozila tuji državi",
+"level3a": "nan",
+"question": "Carinjenje vozila",
+"keywords": "prevoz na odpad, razgradnja, odstop vozila" 
+},
+{
+"id": 553,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Carinjenje in prevoz na odpad/razgradnja ali odstop poškodovanega vozila tuji državi",
+"level3a": "nan",
+"question": "Prevoz poškodovanega vozila na odpad v tujini",
+"keywords": "carinjenje, odpad, odstop, asistenca" 
+},
+{
+"id": 554,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Prevoz oseb/vseh zavarovancev",
+"level3a": "nan",
+"question": "Prevoz do servisa/doma/hotela",
+"keywords": "prevoz, taksi, javno prevozno sredstvo, izvajalec vleke" 
+},
+{
+"id": 555,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Založitev denarnih sredstev",
+"level3a": "nan",
+"question": "Pogrešana denarna sredstva, založitev sredstev",
+"keywords": "tatvina, denarna sredstva, denarnica, denar, nezmožnost plačila, založitev sredstev, asistenca" 
+},
+{
+"id": 556,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Nadomestni voznik v tujini",
+"level3a": "nan",
+"question": "Nadomestni voznik",
+"keywords": "nadomestni voznik, poškodba, nesposobnost za vožnjo, mnenje zdravnika" 
+},
+{
+"id": 557,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Pomoč v primeru smrti v tujini",
+"level3a": "nan",
+"question": "Organizacija prevoza pokojnika iz tujine",
+"keywords": "pomoč svojcem, prometna nesreča, prevoz umrle osebe" 
+},
+{
+"id": 558,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Obisk svojcev poškodovanega zavarovanca v tujini",
+"level3a": "nan",
+"question": "Obisk svojca, ki se zdravi v tujini",
+"keywords": "obisk, svojci, poškodba, tujina, bolnišnica, povratna vozovnica, javni prevoz" 
+},
+{
+"id": 559,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Spremstvo mladoletnih zavarovancev",
+"level3a": "nan",
+"question": "Organizacija prevoza do doma za mladoletne osebe",
+"keywords": "prometna nesreča, bolnišnica, smrt, stroški prevoza, javni prevoz" 
+},
+{
+"id": 560,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Splošne Informacije AA",
+"level3a": "nan",
+"question": "Kakšni so pogoji koriščenja avtomobilske asistence?",
+"keywords": "avtomobilska asistenca, asistenčni center, asistenčni primer, comfort, plus, odpravljanje posledic" 
+},
+{
+"id": 561,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Splošne Informacije AA",
+"level3a": "nan",
+"question": "Zakaj so linije zasedene?",
+"keywords": "avtomobilska asistenca, asistenčni center, asistenčni primer, oglasi, operater" 
+},
+{
+"id": 562,
+"level1": "Asistenca",
+"level2": "Avtomobilska",
+"level3": "Splošne Informacije AA",
+"level3a": "nan",
+"question": "Ali lahk pokličem na asistenco, če nisem vaš zavarovanec?",
+"keywords": "klic, 080 28 64, stranka, asistenčna storitev, asistenca" 
+},
+{
+"id": 563,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Obrtniška storitev - Okvara vodovoda ali kanalizacije",
+"level3a": "nan",
+"question": "Zamakanje iz cevi",
+"keywords": "voda, vodovod, inštalater, domska asistenca" 
+},
+{
+"id": 564,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Obrtniška storitev - Okvara vodovoda ali kanalizacije",
+"level3a": "nan",
+"question": "Poplava, puščanje vode",
+"keywords": "poplava, vodovod, inštalater, domska asistenca" 
+},
+{
+"id": 565,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Obrtniška storitev - Okvara vodovoda ali kanalizacije",
+"level3a": "nan",
+"question": "Zamašen odtok",
+"keywords": "odtok, vodovod, inštalater, domska asistenca" 
+},
+{
+"id": 566,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Obrtniška storitev - Okvara električne napeljave",
+"level3a": "nan",
+"question": "Nedelovanje elektrike",
+"keywords": "elektrika, električna napeljava, elektroinštalater, domska asistenca" 
+},
+{
+"id": 567,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Obrtniška storitev - Okvara ogrevalnega sistema",
+"level3a": "nan",
+"question": "Težave z gorilcem, radiatorji",
+"keywords": "radiator, inštalater pri okvarah ogrevalnega sistema," 
+},
+{
+"id": 568,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Obrtniška storitev - 
+Poškodbe strehe ali ostrešja",
+"level3a": "nan",
+"question": "Poškodovanje strehe",
+"keywords": "streha, krovec, domska asistenca" 
+},
+{
+"id": 569,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Varovanje doma",
+"level3a": "nan",
+"question": "Varovanje doma",
+"keywords": "varovanje doma, odsotnost, vlom, domska asistenca" 
+},
+{
+"id": 570,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Prevoz  in začasna namestitev v hotelu",
+"level3a": "nan",
+"question": "Začasna namestitev v hotelu",
+"keywords": "prevoz, domska asistenca" 
+},
+{
+"id": 571,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Prevoz  in začasna namestitev v hotelu",
+"level3a": "nan",
+"question": "Prevoz",
+"keywords": "namestitev v hotelu, pogoji, stroški, domska asistenca" 
+},
+{
+"id": 572,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Odpiranje vhodnih vrat",
+"level3a": "nan",
+"question": "Težave z odpiranjem vhodnih vrat",
+"keywords": "vhodna vrata, odpiranje vrat, ključavnica, ključavničar, domska asistenca" 
+},
+{
+"id": 573,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Splošne informacije DA",
+"level3a": "nan",
+"question": "Informacija o veterinarskih storitvah",
+"keywords": "informacije, veterina, domače živali, domska asistenca" 
+},
+{
+"id": 574,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Splošne informacije DA",
+"level3a": "nan",
+"question": "Izvajalec za popravilo hladilnika",
+"keywords": "informacije, izvajalec, popravilo, hladilnik, domska asistenca" 
+},
+{
+"id": 575,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Splošne informacije DA",
+"level3a": "nan",
+"question": "Izvajalec za popravilo pralnega/pomivalnega/sušilnega stroja",
+"keywords": "informacije, izvajalec, popravilo, pralni stroj, pomivalni stroj, sušilni stroj, domska asistenca" 
+},
+{
+"id": 576,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Splošne informacije DA",
+"level3a": "nan",
+"question": "Izvajalec za popravilo zamrzovalnika",
+"keywords": "informacije, izvajalec, popravilo, zamrzovalnik, domska asistenca" 
+},
+{
+"id": 577,
+"level1": "Asistenca",
+"level2": "Domska",
+"level3": "Splošne informacije DA",
+"level3a": "nan",
+"question": "Izvajalec za popravilo televizorja",
+"keywords": "informacije, izvajalec, popravilo, televizor, domska asistenca" 
+},
+{
+"id": 578,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Pomoč v primeru vdora v računalnik/profil",
+"level3a": "nan",
+"question": "Vdor v računalnik/profil",
+"keywords": "vdor, profil, socialno omrežje, Facebook, Instagram, Gmail, Snapchat, Twitter, računalniška asistenca" 
+},
+{
+"id": 579,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Pomoč pri ponovni vzpostavitvi računalnika/profila",
+"level3a": "nan",
+"question": "Težave z vpisom v računalniški profil",
+"keywords": "vpis, Gmail, Outlook, profil, računalniška asistenca" 
+},
+{
+"id": 580,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Pomoč pri ponovni vzpostavitvi računalnika/profila",
+"level3a": "nan",
+"question": "Težave z zvokom na računalniku",
+"keywords": "zvok, nastavitve, računalniška asistenca" 
+},
+{
+"id": 581,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Pomoč pri ponovni vzpostavitvi računalnika/profila",
+"level3a": "nan",
+"question": "Težave s sliko na računalniku",
+"keywords": "slika, nastavitve, zaslon, računalniška asistenca" 
+},
+{
+"id": 582,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Pomoč pri ponovni vzpostavitvi računalnika/profila",
+"level3a": "nan",
+"question": "Težave s tiskalnikom",
+"keywords": "tiskalnik, nastavitve, računalniška asistenca" 
+},
+{
+"id": 583,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Diagnostika in čiščenje računalnika",
+"level3a": "nan",
+"question": "Čiščenje računalnika zaradi virusa",
+"keywords": "diagnostika, čišče nje, virus, računalniška asistenca" 
+},
+{
+"id": 584,
+"level1": "Asistenca",
+"level2": "Računalniška",
+"level3": "Namestitev v antivirusnega programa",
+"level3a": "nan",
+"question": "Nameščanje antivirusnega programa",
+"keywords": "antivirusni program, požarni zid, zaščita, virus, računalniška asistenca" 
+},
+{
+"id": 585,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Zmanjkanje baterije na električnem skiroju",
+"keywords": "baterija, električni skiro, asistenca, pomoč na cesti" 
+},
+{
+"id": 586,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Predrta pnevmatika",
+"keywords": "predrta pnevmatika, kolo, asistenca, pomoč na cesti" 
+},
+{
+"id": 587,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Predrta zračnica",
+"keywords": "predrta zračnika, kolo, asistenca, pomoč na cesti" 
+},
+{
+"id": 588,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Odlomljen menjalnik",
+"keywords": "menjalnik, kolo, asistenca, pomoč na cesti" 
+},
+{
+"id": 589,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Pomoč na mestu dogodka (SPI)",
+"level3a": "nan",
+"question": "Počena veriga na kolesu",
+"keywords": "veriga, rezervni deli, kolo, asistenca, pomoč na cesti" 
+},
+{
+"id": 590,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Prevoz mikro prevoznega sredstva",
+"level3a": "nan",
+"question": "Prevoz kolesa do servisa",
+"keywords": "prevoz, servis, pooblaščeni servis, asistenca" 
+},
+{
+"id": 591,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Prevoz  oseb/zavarovancev",
+"level3a": "nan",
+"question": "Prevoz do servisa/hotela/doma",
+"keywords": "prevoz, bivališče, hotel, izvajalec, javni prevoz, taksi, asistenca" 
+},
+{
+"id": 592,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Namestitev v hotelu",
+"level3a": "nan",
+"question": "Namestitev v hotelu",
+"keywords": "hotel, namestitev, pogoji, nočitev, 150 km, asistenca" 
+},
+{
+"id": 593,
+"level1": "Asistenca",
+"level2": "Mikro prevozna sredstva ",
+"level3": "Splošne informacije AMPS",
+"level3a": "nan",
+"question": "Informacije o asistenci za mikro prevozno sredstvo",
+"keywords": "asistenca, mikro prevozno sredstvo, asistenčni primer" 
+},
+{
+"id": 594,
+"level1": "Asistenca",
+"level2": "Po poškodbi ",
+"level3": "Specialistični pregled/obravnava",
+"level3a": "nan",
+"question": "Specialistični pregled/obravnava",
+"keywords": "zdravstvena točka, TZZ, specialistični pregled, asistenca, po poškodbi, 080 26 64" 
+},
+{
+"id": 595,
+"level1": "Asistenca",
+"level2": "Po poškodbi ",
+"level3": "Diagnostična preiskava",
+"level3a": "nan",
+"question": "Diagnostična preiskava",
+"keywords": "zdravstvena točka, TZZ, diagnostična preiskava, asistenca, po poškodbi, 080 26 64" 
+},
+{
+"id": 596,
+"level1": "Asistenca",
+"level2": "Po poškodbi ",
+"level3": "Ambulantna rehabilitacija, terapije",
+"level3a": "nan",
+"question": "Ambulantna rehabilitacija, terapije",
+"keywords": "ambulantna rehabilitacija, terapije, zdravstvena točka, TZZ, asistenca, po poškodbi, 080 26 64" 
+},
+{
+"id": 597,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Vleka plovila",
+"level3a": "nan",
+"question": "Vleka plovila",
+"keywords": "vodno plovilo, asistenca, vleka" 
+},
+{
+"id": 598,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Dostava rezervnih delov za plovilo",
+"level3a": "nan",
+"question": "Dostava rezervnih delov za plovilo",
+"keywords": "rezervni deli, plovilo, asistenca, dostava" 
+},
+{
+"id": 599,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Dostava goriva za plovilo",
+"level3a": "nan",
+"question": "Dostava goriva za plovilo",
+"keywords": "plovilo, dostava goriva, asistenca" 
+},
+{
+"id": 600,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Pomoč pri zagonu motorja",
+"level3a": "nan",
+"question": "Pomoč pri zagonu motorja",
+"keywords": "asistenca, zagon motorja, pomoč" 
+},
+{
+"id": 601,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Pomoč pri reševanju lažje nasedlega plovila",
+"level3a": "nan",
+"question": "Pomoč pri reševanju lažje nasedlega plovila",
+"keywords": "nasedlo plovilo, reševanje, asistenca" 
+},
+{
+"id": 602,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Pomoč v primeru zapletene v vrvi v propeler ",
+"level3a": "nan",
+"question": "Pomoč v primeru zapletene v vrvi v propeler",
+"keywords": "vrv, propeler, asistenca, pomoč" 
+},
+{
+"id": 603,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Prevoz zavarovancev po morju",
+"level3a": "nan",
+"question": "Prevoz zavarovancev po morju",
+"keywords": "prevoz, asistenca, zavarovanci, Sea Help" 
+},
+{
+"id": 604,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Informacije o meteoroloških razmerah na območju plovbe",
+"level3a": "nan",
+"question": "Informacije o meteoroloških razmerah na območju plovbe",
+"keywords": "asistenca, vodno plovilo, splošne informacije, Sea Help, ,+385 919 112 112" 
+},
+{
+"id": 605,
+"level1": "Asistenca",
+"level2": "Vodna plovila",
+"level3": "Splošne informacije o asistenci za vodna plovila",
+"level3a": "nan",
+"question": "Informacije o asistenci za vodna plovila",
+"keywords": "asistenca, vodno plovilo, splošne informacije, Sea Help, ,+385 919 112 112" 
+}
+]

@@ -1,0 +1,5456 @@
+[
+{
+"id": 0,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of contact details",
+"level3a": null,
+"question": "How do I arrange a name/surname change?",
+"keywords": ["name", "surname", "personal data", "contact", "request", "change"]
+},
+{
+"id": 1,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of contact details",
+"level3a": null,
+"question": "How do I arrange a change of contact details?",
+"keywords": ["personal data", "contact", "request", "change"]
+},
+{
+"id": 2,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of contact details",
+"level3a": null,
+"question": "How do I arrange a phone number change?",
+"keywords": ["phone number", "phone", "personal data", "contact", "request", "change"]
+},
+{
+"id": 3,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of contact details",
+"level3a": null,
+"question": "How do I arrange a change of e-mail/email address?",
+"keywords": ["e-mail", "email", "e-address", "contact", "request", "change", "application", "itriglav"]
+},
+{
+"id": 4,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of contact details",
+"level3a": null,
+"question": "How do I arrange a change of personal data?",
+"keywords": ["address", "mail", "change", "personal data", "request", "invoice", "application", "itriglav"]
+},
+{
+"id": 5,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of contact details",
+"level3a": null,
+"question": "How do I arrange a change of address for receiving mail?",
+"keywords": ["change of data", "change", "payment", "request", "address"]
+},
+{
+"id": 6,
+"level1": "Information",
+"level2": "Change of contact details",
+"level3": "Change of payment method",
+"level3a": null,
+"question": "How do I arrange a change of payment method?",
+"keywords": ["UPN form", "standing order", "direct debit", "invoice payment", "payment", "e-invoice", "change"]
+},
+{
+"id": 7,
+"level1": "Information",
+"level2": "Legal procedures",
+"level3": "Bankruptcy - individuals",
+"level3a": null,
+"question": "Checking customer's insurance",
+"keywords": ["insurance", "bankruptcy", "court"]
+},
+{
+"id": 8,
+"level1": "Information",
+"level2": "Legal procedures",
+"level3": "Bankruptcy - individuals",
+"level3a": null,
+"question": "Checking debts for the client",
+"keywords": ["debt", "assets", "bankruptcy", "court"]
+},
+{
+"id": 9,
+"level1": "Information",
+"level2": "Legal procedures",
+"level3": "Bankruptcy - individuals",
+"level3a": null,
+"question": "Checking the financial situation of the client",
+"keywords": ["property", "policy status", "bankruptcy", "court"]
+},
+{
+"id": 10,
+"level1": "Information",
+"level2": "Legal proceedings",
+"level3": "Bankruptcy / liquidation / forced settlement of a company",
+"level3a": null,
+"question": "Checking the financial status for a company",
+"keywords": ["assets", "liquidation", "settlement", "bankruptcy", "court"]
+},
+{
+"id": 11,
+"level1": "Information",
+"level2": "Legal procedures",
+"level3": "Bankruptcy / liquidation / compulsory settlement of a company",
+"level3a": null,
+"question": "Checking debts for a company",
+"keywords": ["debt", "liquidation", "settlement", "bankruptcy", "court"]
+},
+{
+"id": 12,
+"level1": "Information",
+"level2": "Legal procedures",
+"level3": "Hearing, court fee, password",
+"level3a": null,
+"question": "Interest in the hearing",
+"keywords": ["cancellation", "change of hearing date", "payment of court fee", "password"]
+},
+{
+"id": 13,
+"level1": "Information",
+"level2": "Legal Procedures",
+"level3": "Data for KPK",
+"level3a": null,
+"question": "Request for review of contracts concluded with Triglav Insurance",
+"keywords": ["review of contracts", "corruption", "Official Gazette", "data for KPK"]
+},
+{
+"id": 14,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Execution",
+"level3a": null,
+"question": "Receiving an execution",
+"keywords": ["execution", "decree status", "seizure", "execution", "reminder", "credit", "premium"]
+},
+{
+"id": 15,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Enforcement",
+"level3a": null,
+"question": "Checking debts",
+"keywords": ["debt", "status", "claim", "default interest", "reminder", "credit"]
+},
+{
+"id": 16,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Regress Claims / Regress Debt",
+"level3a": null,
+"question": "Blocked account, handling of claims",
+"keywords": ["blocked account", "reminder", "credit", "claim"]
+},
+{
+"id": 17,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Overpayment of services",
+"level3a": null,
+"question": "Overpaid premium",
+"keywords": ["overpayment", "refund", "amount", "reference", "IBAN", "premium"]
+},
+{
+"id": 18,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Double premium deduction",
+"level3a": null,
+"question": "Double premium deduction",
+"keywords": ["double deduction", "overpayment", "premium"]
+},
+{
+"id": 19,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Refund of services",
+"level3a": null,
+"question": "How can I cancel my policy?",
+"keywords": ["cancellation", "documentation", "e-mail", "costs"]
+},
+{
+"id": 20,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Refund of services",
+"level3a": null,
+"question": "Is the policy terminated? (No)",
+"keywords": ["termination", "documentation", "proof", "policy"]
+},
+{
+"id": 21,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Refund of services",
+"level3a": null,
+"question": "Is the policy terminated? (Yes)",
+"keywords": ["termination", "payment date", "termination date", "policy"]
+},
+{
+"id": 22,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Reminders",
+"level3a": null,
+"question": "Information about the reminder",
+"keywords": ["reminder", "policy", "premium", "personal insurance", "policy crossing", "payment"]
+},
+{
+"id": 23,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Debt status",
+"level3a": null,
+"question": "What is the debt status?",
+"keywords": ["debt", "status", "payment"]
+},
+{
+"id": 24,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Debt write-off / installment payment",
+"level3a": null,
+"question": "What are the options for repaying the debt?",
+"keywords": ["debt", "payment", "installments", "delay", "premium"]
+},
+{
+"id": 25,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Account card/IOP",
+"level3a": null,
+"question": "What is the status of installments/payments?",
+"keywords": ["instalment status", "payment status", "account card"]
+},
+{
+"id": 26,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Invoice / Payments / Refunds",
+"level3a": null,
+"question": "Is the invoice settled/ paid?",
+"keywords": ["information", "account records", "reason for receipt", "settled invoice"]
+},
+{
+"id": 27,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Additional payments (certificate / explanation)",
+"level3a": null,
+"question": "What are the options for additional payments into insurance?",
+"keywords": ["investment insurance", "investment policy", "certificate", "explanation", "payment", "monthly premium"]
+},
+{
+"id": 28,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Additional payments (certificate / explanation)",
+"level3a": null,
+"question": "What are the options for a one-time payment in mixed life insurance?",
+"keywords": ["mixed life insurance", "one-time payment", "monthly premium", "certificate", "explanation"]
+},
+{
+"id": 29,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Additional payments (confirmation / explanation)",
+"level3a": null,
+"question": "How can I lower the premium with a one-time payment?",
+"keywords": ["mixed life insurance", "one-time payment", "monthly premium", "confirmation", "explanation"]
+},
+{
+"id": 30,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Payment date / premium due date",
+"level3a": null,
+"question": "What is the deadline for paying the premium?",
+"keywords": ["payment deadline", "reminder", "premium"]
+},
+{
+"id": 31,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Payment date / premium due date",
+"level3a": null,
+"question": "What are the consequences of late payment?",
+"keywords": ["payment deadline", "reminder", "debt", "claim", "enforcement"]
+},
+{
+"id": 32,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Discounts",
+"level3a": null,
+"question": "How do I redeem a coupon?",
+"keywords": ["online discount", "coupons"]
+},
+{
+"id": 33,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": "CATEGORIZATION - CANNOT CHANGE",
+"question": "What is the Triglav package?",
+"keywords": ["Triglav package", "discount", "40%"]
+},
+{
+"id": 34,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "What do I gain by subscribing to the Triglav package?",
+"keywords": ["Triglav package", "inclusion", "conditions"]
+},
+{
+"id": 35,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "Which insurances can be included in the Triglav package?",
+"keywords": ["Triglav package", "discount", "insurances"]
+},
+{
+"id": 36,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "How many insurance policies can I use to create my Triglav package? What about my son, who would join later?",
+"keywords": ["Triglav package", "inclusion", "conditions"]
+},
+{
+"id": 37,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "What is the highest discount I can get in the Triglav package?",
+"keywords": null
+},
+{
+"id": 38,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "How can I collect the highest Triglav package discount?",
+"keywords": null
+},
+{
+"id": 39,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "Who can be the holder of the Triglav package?",
+"keywords": ["Triglav package", "holder", "conditions"]
+},
+{
+"id": 40,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "Can I also create a Triglav package if I only have a savings plan opened with Triglav Funds?",
+"keywords": ["Triglav package", "inclusion", "conditions", "funds"]
+},
+{
+"id": 41,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "How can I arrange the Triglav package discount?",
+"keywords": ["Triglav package", "package creation", "meeting", "identification number"]
+},
+{
+"id": 42,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "What is the amount of the Triglav package discount?",
+"keywords": ["Triglav package", "discount amount", "property", "life", "health insurance", "percentage", "discount"]
+},
+{
+"id": 43,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "What does the loyalty discount in the Triglav package mean?",
+"keywords": null
+},
+{
+"id": 44,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "What counts as a digital business category?",
+"keywords": null
+},
+{
+"id": 45,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "Can I count on the Triglav package discount regardless of the premium amount?",
+"keywords": null
+},
+{
+"id": 46,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "I have a car on leasing. I also have insurance arranged through the leasing company. Can I include this insurance in my Triglav package?",
+"keywords": null
+},
+{
+"id": 47,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "We have concluded an annual travel insurance policy online, which only starts in a week. Can I include the insurance in the Triglav package?",
+"keywords": null
+},
+{
+"id": 48,
+"level1": "Information",
+"level2": "Claims / Payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "What is the minimum premium amount on the policy for the insurance to count towards the Triglav package?",
+"keywords": null
+},
+{
+"id": 49,
+"level1": "Information",
+"level2": "Claims / payments",
+"level3": "Triglav package",
+"level3a": null,
+"question": "Who in the family is entitled to the Triglav package discount?",
+"keywords": ["Triglav package", "discount amount", "family members", "beneficiaries"]
+},
+{
+"id": 50,
+"level1": "Information",
+"level2": "Loans",
+"level3": "Encumbrance / Release",
+"level3a": null,
+"question": "Is the encumbrance settled? (yes)",
+"keywords": ["certificate", "expiration", "encumbrance", "release", "loan"]
+},
+{
+"id": 51,
+"level1": "Information",
+"level2": "Loans",
+"level3": "Vinkulation / devinkulation",
+"level3a": null,
+"question": "Is the vinkulation arranged? (no)",
+"keywords": ["certificate", "duration", "vinkulation", "devinkulation", "loan"]
+},
+{
+"id": 52,
+"level1": "Information",
+"level2": "Loans",
+"level3": "Vinkulation / devinkulation",
+"level3a": null,
+"question": "Is the devinculation settled? (yes)",
+"keywords": ["devinkulation", "loan payment"]
+},
+{
+"id": 53,
+"level1": "Information",
+"level2": "Loans",
+"level3": "Vinkulation / Devinkulation",
+"level3a": null,
+"question": "Is the devinkulation arranged? (no)",
+"keywords": ["devinkulation", "loan payment"]
+},
+{
+"id": 54,
+"level1": "Information",
+"level2": "Credits",
+"level3": "Questions / problems of borrowers",
+"level3a": null,
+"question": "What is the role of the insurance company in a loan?",
+"keywords": ["loan", "purchase", "credit insurance", "borrower's insurance"]
+},
+{
+"id": 55,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Information offer",
+"level3a": null,
+"question": "What kind of price/premium can I expect?",
+"keywords": ["information offer", "premium price", "premium amount", "coverage", "competition", "agent", "branch", "online signing"]
+},
+{
+"id": 56,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Informational offer",
+"level3a": null,
+"question": "How can I obtain an informational offer for insurance?",
+"keywords": ["informational offer", "premium price", "agent", "branches"]
+},
+{
+"id": 57,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurances",
+"level3a": "Individual voluntary pension insurance",
+"question": "Where can I get additional information about the insurance?",
+"keywords": ["individual pension insurance", "terms", "premium price", "premium amount", "coverage", "payout", "relief", "comparison", "brochure"]
+},
+{
+"id": 58,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Individual voluntary pension insurance",
+"question": "What are the options for additional payments in insurance?",
+"keywords": ["additional payment", "relief", "income tax refund", "conditions", "premium amount"]
+},
+{
+"id": 59,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Individual voluntary additional pension insurance",
+"question": "Where can I get additional information about the insurance?",
+"keywords": ["individual pension insurance", "conditions", "premium price", "premium amount", "coverage", "payout", "relief", "comparison", "brochure"]
+},
+{
+"id": 60,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Individual voluntary supplementary pension insurance",
+"question": "What are the options for additional payments to insurance?",
+"keywords": ["additional payment", "membership", "relief", "income tax refund", "conditions", "premium amount", "maximum premium"]
+},
+{
+"id": 61,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Individual voluntary additional pension insurance",
+"question": "What is the effect of tax relief?",
+"keywords": ["tax relief", "effect", "informative calculation", "amount of refunded income tax", "pension"]
+},
+{
+"id": 62,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Voluntary additional pension insurance online - I.PDPZ",
+"question": "How can I conclude insurance?",
+"keywords": ["PDPZ", "concluding insurance", "options", "web", "branch", "mail", "accession statement", "form"]
+},
+{
+"id": 63,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Collective voluntary pension insurance - PPZ",
+"question": "What are the options for additional payments into insurance?",
+"keywords": ["collective", "pension insurance", "additional payments", "employer", "employee"]
+},
+{
+"id": 64,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Collective voluntary supplementary pension insurance - PDPZ",
+"question": "Where can I get additional information about insurance?",
+"keywords": ["collective", "pension insurance", "brochure", "general information", "basic information"]
+},
+{
+"id": 65,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Collective voluntary supplementary pension insurance - PDPZ",
+"question": "How can I terminate the policy? (I am employed at ZT).",
+"keywords": ["policy termination", "ZT employee", "pension insurance"]
+},
+{
+"id": 66,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Pension insurance",
+"level3a": "Collective voluntary supplementary pension insurance - PDPZ",
+"question": "What are the options for early payout?",
+"keywords": ["early payout", "employed ZT", "pension insurance"]
+},
+{
+"id": 67,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Investment life insurance",
+"question": "How to determine the insurance period?",
+"keywords": ["investment", "life insurance", "insurance period", "duration", "10 years", "payout", "return", "conclusion"]
+},
+{
+"id": 68,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Investment life insurance",
+"question": "What does open insurance period mean?",
+"keywords": ["open insurance period", "investment insurance", "flex"]
+},
+{
+"id": 69,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Single premium investment insurance",
+"question": "How can I submit an application for payment?",
+"keywords": ["application", "payment", "working day", "conditions"]
+},
+{
+"id": 70,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and investment insurance",
+"level3a": "Abc life insurance",
+"question": "When can I file a request for payment?",
+"keywords": ["payment", "10 years", "application"]
+},
+{
+"id": 71,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurances",
+"level3a": "Ilirika dynamic investment life insurance",
+"question": "How long does the insurance period last?",
+"keywords": ["insurance period", "investment insurance"]
+},
+{
+"id": 72,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Investment insurance flex",
+"question": "What are the options for additional payments into the insurance?",
+"keywords": ["flex insurance", "additional payment", "prior notice"]
+},
+{
+"id": 73,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Investment insurance flex for young people",
+"question": "Who is the policyholder?",
+"keywords": ["policyholder", "young person", "child", "investment insurance"]
+},
+{
+"id": 74,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Flexible investment insurance for young people",
+"question": "How do I arrange authorization for making changes to the policy?",
+"keywords": ["authorized person", "completed authorization", "itriglav", "changes to the policy", "statement of legal representative", "flex for young people"]
+},
+{
+"id": 75,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Investment insurance flex for adults",
+"question": "What to do in case of the insured's death?",
+"keywords": ["insured's death", "notification procedure", "beneficiary", "death registry", "form"]
+},
+{
+"id": 76,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and investment insurance",
+"level3a": "ilirika Dynamic Flex investment insurance",
+"question": "How long is the insurance period?",
+"keywords": ["insurance period", "investment insurance", "ilirika", "Dynamic Flex"]
+},
+{
+"id": 77,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Online investment insurance flex - i.flex",
+"question": "How can I conclude insurance?",
+"keywords": ["flex", "online insurance conclusion", "iflex", "itriglav"]
+},
+{
+"id": 78,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Funds",
+"question": "How do I change funds?",
+"keywords": ["change", "funds", "written request", "triglav funds"]
+},
+{
+"id": 79,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and investment insurance",
+"level3a": "Funds",
+"question": "Where can I check the details of an executed investment?",
+"keywords": ["access", "value", "property", "funds"]
+},
+{
+"id": 80,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Funds",
+"question": "How can I check the value of asset units (VEP) of funds?",
+"keywords": ["VEP", "assets", "investment insurance", "funds"]
+},
+{
+"id": 81,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and investment insurances",
+"level3a": "Funds",
+"question": "How do I check the status of the funds?",
+"keywords": ["NAV", "assets", "investment insurance", "funds", "status"]
+},
+{
+"id": 82,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and investment insurance",
+"level3a": "Funds",
+"question": "Where can I get more information about funds?",
+"keywords": ["triglav funds", "information", "funds"]
+},
+{
+"id": 83,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Savings and investment insurance",
+"level3a": "Funds",
+"question": "What is a savings plan?",
+"keywords": ["savings plan", "funds", "Triglav funds", "information"]
+},
+{
+"id": 84,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Funds",
+"question": "What are the advantages of a savings plan?",
+"keywords": ["savings plan", "funds", "Triglav funds", "advantages"]
+},
+{
+"id": 85,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Investment and savings insurance",
+"level3a": "Funds",
+"question": "What investment combinations can I choose from?",
+"keywords": ["savings plan", "funds", "Triglav funds", "plan selection", "combinations"]
+},
+{
+"id": 86,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Young driver insurance",
+"question": "What is young driver insurance related to?",
+"keywords": ["young driver", "car insurance", "driver", "AO", "vehicle"]
+},
+{
+"id": 87,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Legal protection insurance",
+"question": "What does car legal protection insurance offer me?",
+"keywords": ["legal protection", "perpetrator", "repair", "car insurance"]
+},
+{
+"id": 88,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Casco insurance",
+"question": "What does partial combination offer me in car insurance?",
+"keywords": ["partial casco", "car insurance", "combination"]
+},
+{
+"id": 89,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Casco insurance",
+"question": "What are the benefits of Casco insurance?",
+"keywords": ["casco insurance", "benefits", "car insurance"]
+},
+{
+"id": 90,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Casco insurance",
+"question": "How do I insure an older vehicle?",
+"keywords": ["casco insurance", "age", "car insurance", "partial casco", "older vehicles"]
+},
+{
+"id": 91,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Automobile liability insurance (mandatory car insurance)",
+"question": "How do I transfer a bonus from another insurance company?",
+"keywords": ["bonus", "comprehensive insurance", "ownership", "car insurance", "transfer"]
+},
+{
+"id": 92,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car insurance (mandatory car insurance)",
+"question": "What does mandatory car insurance cover?",
+"keywords": ["AO", "car insurance liability", "mandatory insurance", "damage", "comprehensive insurance"]
+},
+{
+"id": 93,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Is the young driver only for personal vehicles or also up to 3.5t, which can be driven with a B category?",
+"keywords": ["AO", "policy", "young driver", "personal car", "cargo vehicle"]
+},
+{
+"id": 94,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor TPL insurance (compulsory car insurance)",
+"question": "Is it a problem if the driver is not the policyholder? What if the policyholder is a passenger and the driver is someone else? Is the policyholder covered for bodily injury under the TPL insurance? The terms and conditions talk about the policyholder, not the driver.",
+"keywords": ["TPL", "policy", "young driver", "bodily injury", "coverage"]
+},
+{
+"id": 95,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Automobile liability insurance (compulsory car insurance)",
+"question": "Young driver policy for legal entities - is an individual policy sufficient, or will the company have to conclude an additional policy for the young driver?",
+"keywords": ["AO", "policy", "young driver"]
+},
+{
+"id": 96,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "I hope you didn't overly generalize the coverage exclusions for \"races\" in AOD. Rally races, for example, take place in normal traffic between speed trials, so the race car needs insurance like a regular personal vehicle (?).",
+"keywords": ["AO", "policy", "young driver", "vehicle usage"]
+},
+{
+"id": 97,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Are close family members living at the same address (partner, children, parents) also covered by AO insurance?",
+"keywords": null
+},
+{
+"id": 98,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Is the use of a seat belt a condition for compensation payment for bodily injuries in passengers?",
+"keywords": null
+},
+{
+"id": 99,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "In case a car trailer up to 750 kg, which is detached from the vehicle, starts moving on its own on a sloping terrain and causes damage - how is the coverage?",
+"keywords": null
+},
+{
+"id": 100,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurances",
+"level3a": "Motor vehicle liability insurance (mandatory car insurance)",
+"question": "For the policy I am concluding in 2022, is the difference considered between 2021 and 2020? But in this case, when I conclude this policy, the vehicle has not yet undergone a technical inspection, and as a result, there is no current year's status in the eMRLV?",
+"keywords": null
+},
+{
+"id": 101,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor vehicle liability insurance (mandatory car insurance)",
+"question": "How is the mileage discount calculated if the customer first arranges insurance and then goes for a technical inspection?",
+"keywords": null
+},
+{
+"id": 102,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Is it necessary to charge a surcharge for young drivers at driving schools?",
+"keywords": null
+},
+{
+"id": 103,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "What about discounts on hybrids and electric vehicles (fuel type discount)?",
+"keywords": []
+},
+{
+"id": 104,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Is it possible to insure harvesters only for the seasonal period?",
+"keywords": null
+},
+{
+"id": 105,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor liability insurance (mandatory car insurance)",
+"question": "What about the surcharge for a replacement vehicle, does it still continue as it was not mentioned among the surcharges?",
+"keywords": null
+},
+{
+"id": 106,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Is the diagnosis of a 'head injury' justification for not wearing a seatbelt and a basis for a 25% reduction?",
+"keywords": null
+},
+{
+"id": 107,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor vehicle liability insurance (mandatory car insurance)",
+"question": "Discount based on fuel type - gasoline -5%. This seems absurd or discriminatory to diesel vehicle owners, as fuel types certainly do not affect safety or damage amount.",
+"keywords": null
+},
+{
+"id": 108,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Automobile liability insurance (mandatory car insurance)",
+"question": "So drivers who have been driving diesel vehicles for more than 20 years without an accident are not eligible for this discount? Are drivers who drive petrol vehicles with very high kW and many km eligible?",
+"keywords": null
+},
+{
+"id": 109,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurances",
+"level3a": "Motor liability insurance (mandatory car insurance)",
+"question": "Competitive insurance company Sava has a price for young drivers AO, AO+, AKA 104 EUR, with our Triglav package discount, e.g., 11%, it comes out to 142 EUR. Will the price remain the same or will we be competitive in the future?",
+"keywords": null
+},
+{
+"id": 110,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor liability insurance (mandatory car insurance)",
+"question": "What about the case of semi-trailers that cover few kilometers?",
+"keywords": null
+},
+{
+"id": 111,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor liability insurance (mandatory car insurance)",
+"question": "Hybrid and electric vehicles - issues when kW values differ on homologation and traffic permit?",
+"keywords": "hybrid, electric, vehicle, kW, homologation, traffic permit"
+},
+{
+"id": 112,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Car liability insurance (mandatory car insurance)",
+"question": "Is there a surcharge for replacement vehicles - in the case of a tow truck, whether or not it performs the towing service?",
+"keywords": null
+},
+{
+"id": 113,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor vehicle liability insurance (mandatory car insurance)",
+"question": "Young driver - for example, mother has a vehicle registered in her name as an individual, father as a company. If the child drives the mother's vehicle, they need a young driver policy; if they drive the father's vehicle, they don't need this policy because the additional payment is already made with one policy?",
+"keywords": null
+},
+{
+"id": 114,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor vehicle liability insurance (mandatory car insurance)",
+"question": "Have you arranged for four-wheelers that are homologated as a tractor and are insured under PS 04? They are not included in the catalog for tractors, and we have difficulty determining the price. However, you can find them in the catalog for motorcycles.",
+"keywords": null
+},
+{
+"id": 115,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Motor third-party liability insurance (mandatory car insurance)",
+"question": "Considering the cancellation of the 20% surcharge for legal entities, will ZT refund the premium on existing policies?",
+"keywords": null
+},
+{
+"id": 116,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Vehicle insurance",
+"level3a": "Insurance of micro-transportation",
+"question": "What is the price of electric bike insurance?",
+"keywords": ["electric bike", "premium price", "micro transportation", "insurance", "AvtoMobilno"]
+},
+{
+"id": 117,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Small animal insurance",
+"level3a": "Pet insurance",
+"question": "What are the coverage options for dog insurance?",
+"keywords": ["dog insurance", "standard", "standard+", "extraordinary", "coverage"]
+},
+{
+"id": 118,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of crops and fruits",
+"question": "What does the insurance cover?",
+"keywords": ["agricultural insurance", "general", "coverage", "farm insurance", "fruits", "crops"]
+},
+{
+"id": 119,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of crops and fruits",
+"question": "What additional coverages can I insure?",
+"keywords": ["scope", "agricultural insurance", "coverage", "additional coverage", "farm insurance", "fruits", "crops"]
+},
+{
+"id": 120,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of crops and fruits",
+"question": "What does the insurance not cover?",
+"keywords": ["coverage", "agricultural insurance", "diseases", "excludes", "farm", "fruits", "crops"]
+},
+{
+"id": 121,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Crops and fruits insurance",
+"question": "What are the coverage limitations?",
+"keywords": ["coverage", "limited", "product value", "sum insured", "agricultural insurance", "rural", "fruits", "crops", "participation", "deductible"]
+},
+{
+"id": 122,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of crops and fruits",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["agricultural insurance", "payment", "premium", "method of payment", "fruits", "crops"]
+},
+{
+"id": 123,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Crop and fruit insurance",
+"question": "When does the insurance start and when does it cease to apply?",
+"keywords": ["agricultural insurance", "duration", "validity", "terminates", "end", "insurance period", "fruits", "crops"]
+},
+{
+"id": 124,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of crops and fruits",
+"question": "Where is the insurance valid?",
+"keywords": ["agricultural insurance", "area", "validity", "fruits", "crops"]
+},
+{
+"id": 125,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Crop and fruit insurance",
+"question": "How can I terminate the contract?",
+"keywords": ["agricultural insurance", "termination", "notice period", "end of contract", "withdrawal from contract", "fruits", "crops", "3 months", "30 days"]
+},
+{
+"id": 126,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Index-based crop insurance against drought risk",
+"question": "General information",
+"keywords": ["index-based crop insurance", "drought", "rainfall shortage", "general information", "index", "crops"]
+},
+{
+"id": 127,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Crop index insurance against drought risk",
+"question": "What does the insurance cover?",
+"keywords": ["crop index insurance", "drought", "risk", "coverage", "index", "crops"]
+},
+{
+"id": 128,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurances",
+"level3a": "Index-based crop insurance against drought risk",
+"question": "When does the insurance start and when does it expire?",
+"keywords": ["index-based crop insurance", "drought", "risk", "validity", "index", "crops"]
+},
+{
+"id": 129,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Crop insurance against drought risk",
+"question": "What are the conditions for taking out a policy?",
+"keywords": ["crop insurance", "drought", "risk", "conditions", "conclusion", "index", "crops"]
+},
+{
+"id": 130,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Winter crops insurance",
+"question": "What does the insurance cover?",
+"keywords": ["agricultural insurance", "general", "coverage", "farm insurance", "winter crops"]
+},
+{
+"id": 131,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of winter crops",
+"question": "What additional coverage can I get?",
+"keywords": ["scope", "agricultural insurance", "coverage", "additional insurance", "farm insurance", "winter crops"]
+},
+{
+"id": 132,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Winter crops insurance",
+"question": "What does the insurance not cover?",
+"keywords": ["coverage", "agricultural insurance", "diseases", "excludes", "farm", "winter crops", "limitations"]
+},
+{
+"id": 133,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Winter crop insurance",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["agricultural insurance", "payment", "premium", "payment method", "winter crops"]
+},
+{
+"id": 134,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Winter crop insurance",
+"question": "When does the insurance start and when does it expire?",
+"keywords": ["agricultural insurance", "duration", "validity", "expiration", "end", "insurance period", "winter crops", "guarantee"]
+},
+{
+"id": 135,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurances",
+"level3a": "Insurance of winter crops",
+"question": "What are my obligations?",
+"keywords": ["obligations", "agricultural insurance", "duties", "winter crops"]
+},
+{
+"id": 136,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Winter crops insurance",
+"question": "Where is the insurance valid?",
+"keywords": ["validity", "area", "region", "winter crops"]
+},
+{
+"id": 137,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Winter crop insurance",
+"question": "How can I cancel the contract?",
+"keywords": ["agricultural insurance", "cancellation", "cancellation period", "end of contract", "contract termination", "winter crops"]
+},
+{
+"id": 138,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of livestock and horses",
+"question": "What does the insurance cover?",
+"keywords": ["agricultural insurance", "animals", "disease", "slaughter", "coverage"]
+},
+{
+"id": 139,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance for farm animals and horses",
+"question": "What additional coverage can I get?",
+"keywords": ["extent", "agricultural insurance", "covering", "additional insurance", "animals", "rural", "treatment"]
+},
+{
+"id": 140,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of farm animals and horses",
+"question": "What does the insurance not cover?",
+"keywords": ["agricultural insurance", "general", "coverage", "farm insurance", "animals"]
+},
+{
+"id": 141,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of livestock and horses",
+"question": "What are the coverage limitations?",
+"keywords": ["limited", "coverage", "treatment", "agricultural insurance", "animals"]
+},
+{
+"id": 142,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of farm animals and horses",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["agricultural insurance", "payment", "premium", "payment method", "animals"]
+},
+{
+"id": 143,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurances",
+"level3a": "Insurance of farm animals and horses",
+"question": "When does the insurance start and when does it cease to be valid?",
+"keywords": ["agricultural insurance", "duration", "validity", "cease", "end", "insurance period", "animals"]
+},
+{
+"id": 144,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurances",
+"level3a": "Insurance of farm animals and horses",
+"question": "Where is the insurance valid?",
+"keywords": ["validity", "area", "region", "animals"]
+},
+{
+"id": 145,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance for livestock and horses",
+"question": "What are my obligations?",
+"keywords": ["obligations", "agricultural insurance", "duties", "animals"]
+},
+{
+"id": 146,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Insurance of farm animals and horses",
+"question": "How can I withdraw from the contract?",
+"keywords": ["agricultural insurance", "cancellation", "cancellation period", "end of contract", "withdrawal from contract", "animals"]
+},
+{
+"id": 147,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Accident insurance for pedigree cows",
+"question": "What does the insurance cover?",
+"keywords": ["agricultural insurance", "accident insurance", "pedigree cows", "information"]
+},
+{
+"id": 148,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Agricultural insurance",
+"level3a": "Livestock package",
+"question": "What does the insurance cover?",
+"keywords": ["breeding pedigree cows", "insurance for pedigree cows", "livestock package"]
+},
+{
+"id": 149,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "General information",
+"keywords": ["Individual accident insurance", "general", "covers", "not covered", "validity", "duration", "abroad"]
+},
+{
+"id": 150,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Personal accident insurance",
+"level3a": "Individual personal accident insurance",
+"question": "Where is the insurance valid?",
+"keywords": ["Individual personal accident insurance", "validity", "abroad"]
+},
+{
+"id": 151,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "What does the insurance payment amount depend on?",
+"keywords": ["Individual accident insurance", "amount", "insurance payment"]
+},
+{
+"id": 152,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "What is the difference between individual and collective accident insurance?",
+"keywords": ["individual accident insurance", "collective accident insurance", "difference"]
+},
+{
+"id": 153,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "How do I make an informative calculation?",
+"keywords": ["informative calculation", "accident insurance", "offer", "agent", "online closure"]
+},
+{
+"id": 154,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What does the insurance cover?",
+"keywords": ["accident insurance", "children", "youth", "coverage"]
+},
+{
+"id": 155,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What can I insure additionally?",
+"keywords": ["accident insurance", "children", "youth", "coverage", "additional coverage", "surcharge"]
+},
+{
+"id": 156,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What does the insurance not cover?",
+"keywords": ["accident insurance", "children", "youth", "coverage", "not included", "excludes"]
+},
+{
+"id": 157,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What are the coverage limitations?",
+"keywords": ["accident insurance", "children", "youth", "coverage", "not included", "excludes"]
+},
+{
+"id": 158,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["premium payment", "accident insurance", "youth", "children", "payment method", "payment options"]
+},
+{
+"id": 159,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "When does the insurance start and when does it end?",
+"keywords": ["insurance coverage", "start of coverage", "validity", "start of insurance", "termination", "insurance year", "completed age", "end of insurance", "premium payment", "accident insurance", "children", "youth"]
+},
+{
+"id": 160,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurances",
+"level3a": "Accident insurance for children and youth",
+"question": "Where is the insurance valid?",
+"keywords": ["validity", "countries", "accident insurance", "children", "youth", "insurance area"]
+},
+{
+"id": 161,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What are my obligations?",
+"keywords": ["obligations", "accident insurance", "children", "youth", "accident report"]
+},
+{
+"id": 162,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "How can I cancel the contract?",
+"keywords": ["withdrawal from contract", "termination of insurance", "accident insurance", "children", "youth"]
+},
+{
+"id": 163,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance \"Pazi name\"",
+"question": "What does accident insurance cover in case of damage?",
+"keywords": ["injury", "coverage", "accident insurance for young people"]
+},
+{
+"id": 164,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "What is the procedure in case of injury to a child or adolescent?",
+"keywords": ["injury", "damage handling", "damage report", "documentation", "form"]
+},
+{
+"id": 165,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "How to report an accident?",
+"keywords": ["claim report", "accident report", "form", "documentation", "evidence"]
+},
+{
+"id": 166,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Can I submit a damage claim without an insurance certificate or policy number?",
+"keywords": ["damage claim", "insurance certificate", "policy number", "form"]
+},
+{
+"id": 167,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurances",
+"level3a": "Accident insurance Pazi name",
+"question": "What does it mean that accident insurance has no expiration?",
+"keywords": ["no expiration", "permanent", "automatic renewal", "conclusion", "youth accident insurance"]
+},
+{
+"id": 168,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurances",
+"level3a": "Accident insurance Take care of me",
+"question": "How to conclude insurance?",
+"keywords": ["conclusion", "accident insurance for children", "Take care of me"]
+},
+{
+"id": 169,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pay attention to me",
+"question": "Can I conclude accident insurance for young people during the year?",
+"keywords": ["conclusion", "accident insurance for children", "Pay attention to me"]
+},
+{
+"id": 170,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Take care of me",
+"question": "Is accident insurance valid abroad and during holidays?",
+"keywords": ["abroad", "holidays", "insurance validity", "accident insurance for children", "take care of me"]
+},
+{
+"id": 171,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Beware of my name accident insurance",
+"question": "What is the accident coverage for persons with athlete status?",
+"keywords": ["athlete status", "accident", "sports package", "youth accident insurance", "66%"]
+},
+{
+"id": 172,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Be careful with my accident insurance",
+"question": "What are the conditions of the promotional offer for accident insurance?",
+"keywords": ["promotional offer for accident insurance", "conditions"]
+},
+{
+"id": 173,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["form", "online insurance conclusion", "youth accident insurance", "premium payment"]
+},
+{
+"id": 174,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accidental insurance",
+"level3a": "Accidental insurance Pazi name",
+"question": "Is it possible to pay at the sales point when concluding online?",
+"keywords": ["online insurance conclusion", "youth accidental insurance", "premium", "UPN form", "payment"]
+},
+{
+"id": 175,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "What is the status of an accident claim?",
+"keywords": ["accident claim", "claim status", "youth accident insurance"]
+},
+{
+"id": 176,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Where do I get a certificate of insurance?",
+"keywords": ["conclusion", "policy number", "certificate", "youth accident insurance"]
+},
+{
+"id": 177,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Take care of me",
+"question": "What does the accident package include?",
+"keywords": ["accident package", "conclusion", "branch", "Triglav package", "discount"]
+},
+{
+"id": 178,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "How can I conclude the Accident package?",
+"keywords": ["accident package", "conclusion", "branch", "agent", "youth accident insurance"]
+},
+{
+"id": 179,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "What is the discount amount for a large family in accident insurance for young people?",
+"keywords": ["large family", "children", "discount", "20 %", "accident insurance for young people", "invoice", "promotional insurance"]
+},
+{
+"id": 180,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "What is the daily allowance?",
+"keywords": ["daily allowance", "payment", "documents", "proof", "diagnosis", "medical examination", "progression", "accident insurance"]
+},
+{
+"id": 181,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Where are the amounts of payments in case of injury listed?",
+"keywords": ["payment", "100%", "severe injury", "table", "clause", "policy", "general terms", "youth accident insurance"]
+},
+{
+"id": 182,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Take care of me accident insurance",
+"question": "What is the coverage in case of disability?",
+"keywords": ["disability", "serious injuries", "table", "percentages", "accident insurance for young people"]
+},
+{
+"id": 183,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Take care of me",
+"question": "Why did I receive documents for insurance renewal?",
+"keywords": ["documents", "insurance renewal", "calculation", "invoice", "UPN", "youth accident insurance", "permanent"]
+},
+{
+"id": 184,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "How is the child's insurance arranged when they turn 26?",
+"keywords": ["termination", "26 years", "accident insurance for young people"]
+},
+{
+"id": 185,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Pazi name Accident Insurance",
+"question": "How do I terminate accident insurance for young people?",
+"keywords": ["termination", "withdrawal from contract", "policy", "accident insurance for young people"]
+},
+{
+"id": 186,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "How do I change the package or add new coverage?",
+"keywords": ["termination", "new coverage", "policy", "youth accident insurance"]
+},
+{
+"id": 187,
+"level1": "Information",
+"level2": "Insurance Policies",
+"level3": "Accident Insurance",
+"level3a": "Accident Insurance Watch Out for Me",
+"question": "How do I add sports risk coverage to an existing policy?",
+"keywords": ["add coverage", "extension", "sports risk", "existing policy", "policy change"]
+},
+{
+"id": 188,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurances",
+"level3a": "Accident insurance Pazi name",
+"question": "Can I include accident insurance in the Triglav package?",
+"keywords": ["Triglav package", "discount", "promotional insurances", "package A, B, C, D, SPORT", "accident insurances for young people", "regular offer"]
+},
+{
+"id": 189,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Why did I receive a notification about a premium change because the child turned 14 years old?",
+"keywords": ["premium change", "accident death", "youth accident insurance", "coverage"]
+},
+{
+"id": 190,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Why can't I conclude accident insurance for young people online?",
+"keywords": ["online conclusion", "online", "permanent insurance", "automatic renewal", "accident insurance for young people"]
+},
+{
+"id": 191,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident Insurance",
+"level3a": "Take Care Accident Insurance",
+"question": "What are the insurance options after the termination of young people's accident insurance?",
+"keywords": ["termination", "young people's accident insurance", "26 years old"]
+},
+{
+"id": 192,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "What is the amount of the discount when renewing insurance?",
+"keywords": ["conclusion", "renewal", "discount", "Triglav package", "accident insurance for young people"]
+},
+{
+"id": 193,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Where can I find the code for a 20% discount on the online conclusion of promotional insurance?",
+"keywords": ["promotional codes", "discount", "20%", "promotional insurance", "accident insurance for young people"]
+},
+{
+"id": 194,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Be careful with me accident insurance",
+"question": "Where can I find accident insurance offers for young people?",
+"keywords": ["insurance offer", "accident insurance for young people"]
+},
+{
+"id": 195,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance Pazi name",
+"question": "Who is the accident insurance for young people intended for?",
+"keywords": ["students", "age", "accident insurance for young people", "26 years old"]
+},
+{
+"id": 196,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for athletes",
+"question": "How can we insure people who are involved in risky sports?",
+"keywords": ["risky sports", "athletes", "accident insurance", "extreme sports"]
+},
+{
+"id": 197,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Athletes' accident insurance",
+"question": "What does the insurance cover?",
+"keywords": ["accident insurance for amateur athletes", "professional athletes"]
+},
+{
+"id": 198,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for athletes",
+"question": "How to insure people when using rented recreational equipment?",
+"keywords": ["recreational equipment", "accident insurance"]
+},
+{
+"id": 199,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for athletes",
+"question": "What is the amount of insurance coverage?",
+"keywords": ["insurance coverage", "accident insurance", "documentation"]
+},
+{
+"id": 200,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurances",
+"level3a": "Accident insurance for bank customers and financial companies, as well as holders of personal accounts",
+"question": "General information",
+"keywords": ["accident insurance for bank customers", "financial companies", "holders of personal accounts", "conclusion", "information"]
+},
+{
+"id": 201,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for bank clients, financial companies, and personal account holders",
+"question": "What does the insurance cover?",
+"keywords": ["accident insurance for bank clients", "financial companies", "personal account holders", "coverage", "risks"]
+},
+{
+"id": 202,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for clients of banks and financial companies and holders of personal accounts",
+"question": "When does the insurance begin and end?",
+"keywords": ["accident insurance for clients of banks", "financial companies", "holders of personal accounts", "guarantee", "validity"]
+},
+{
+"id": 203,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for clients of banks and financial companies and personal account holders",
+"question": "What is the amount of insurance compensation?",
+"keywords": ["accident insurance for clients of banks", "financial companies", "personal account holders", "documentation", "insurance compensation"]
+},
+{
+"id": 204,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for bank clients and financial companies as well as personal account holders",
+"question": "How do I find out if I am also insured through my payment - bank card?",
+"keywords": ["coverage", "accident insurance for bank clients", "financial companies", "bank card"]
+},
+{
+"id": 205,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for bank customers and financial companies, and personal account holders",
+"question": "Where is the insurance valid?",
+"keywords": ["coverage", "accident insurance for bank customers", "financial companies", "validity"]
+},
+{
+"id": 206,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Personal Protection Insurance",
+"question": "General information",
+"keywords": ["insurance", "personal protection", "coverage", "packages"]
+},
+{
+"id": 207,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Personal protection insurance",
+"question": "What does the insurance cover?",
+"keywords": ["insurance", "personal protection", "coverage", "packages"]
+},
+{
+"id": 208,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Personal protection insurance",
+"question": "Where is the insurance valid?",
+"keywords": ["insurance", "personal protection", "validity"]
+},
+{
+"id": 209,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Insurance for travel",
+"level3a": "Insurance abroad with health assistance - Travel insurance",
+"question": "What does the insurance cover?",
+"keywords": ["travel insurance", "what does it cover", "coverage", "concluding insurance", "health assistance"]
+},
+{
+"id": 210,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Foreign insurance with health assistance - Tourist insurance",
+"question": "I did not receive the card for Tourist insurance or I lost it, can I get a new card?",
+"keywords": ["tourist insurance", "health assistance", "card", "loss of card"]
+},
+{
+"id": 211,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurances",
+"level3a": "Abroad health insurance with health assistance - Travel insurance",
+"question": "Does the insurance cover the costs of treatment for Covid-19?",
+"keywords": ["travel insurance", "health assistance", "corona", "covid 19", "covid", "coverage", "quarantine", "costs", "treatment"]
+},
+{
+"id": 212,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with health assistance - Tourist insurance",
+"question": "Does insurance cover quarantine costs?",
+"keywords": ["tourist insurance", "health assistance", "corona", "covid 19", "covid", "coverage", "quarantine", "costs"]
+},
+{
+"id": 213,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with medical assistance",
+"question": "What does the insurance cover?",
+"keywords": ["insurance abroad", "medical assistance", "coverage", "medical care", "costs", "foreign country"]
+},
+{
+"id": 214,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with health assistance",
+"question": "What can I additionally insure?",
+"keywords": ["additional coverage", "insurance abroad", "health assistance", "sport", "competition", "sports preparation", "abroad"]
+},
+{
+"id": 215,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with health assistance",
+"question": "What does the insurance not cover?",
+"keywords": ["not covered", "not insured", "insurance abroad", "excludes"]
+},
+{
+"id": 216,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Abroad insurance with health assistance",
+"question": "What are the coverage limitations?",
+"keywords": ["limited coverage", "abroad insurance", "insurance amount"]
+},
+{
+"id": 217,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with health assistance",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["insurance abroad", "payment", "payment method"]
+},
+{
+"id": 218,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with medical assistance",
+"question": "When does the insurance start and when does it cease to be valid?",
+"keywords": ["period", "insurance abroad", "start of insurance", "end of insurance", "cease to be valid", "begin to be valid"]
+},
+{
+"id": 219,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Abroad insurance with health assistance",
+"question": "Where is the insurance valid?",
+"keywords": ["where valid", "area", "region", "countries", "abroad insurance"]
+},
+{
+"id": 220,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Foreign travel insurance with health assistance - Tourist insurance",
+"question": "How can I cancel the contract?",
+"keywords": ["contract cancellation", "policy termination", "tourist insurance", "required information"]
+},
+{
+"id": 221,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Foreign insurance with health assistance",
+"question": "How do I make an informative calculation?",
+"keywords": ["foreign insurance", "informative calculation", "representative", "branch", "online conclusion"]
+},
+{
+"id": 222,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with health assistance",
+"question": "What are my obligations?",
+"keywords": ["Insurance abroad", "health assistance", "obligations", "payment", "registration", "documentation"]
+},
+{
+"id": 223,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Insurance abroad with health assistance",
+"question": "How can I withdraw from the contract?",
+"keywords": ["Insurance abroad", "health assistance", "withdrawal from the contract", "contract termination", "insurance termination"]
+},
+{
+"id": 224,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Cancellation of tourist trips insurance",
+"question": "Does the insurance cover cancellation costs in case we get sick with Covid-19?",
+"keywords": ["cancellation of tourist trips insurance", "Covid-19", "illness", "corona", "coverage", "cancellation", "costs"]
+},
+{
+"id": 225,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Trip cancellation insurance",
+"question": "Does the insurance cover costs in case the country we are traveling to closes its borders due to an epidemic?",
+"keywords": ["trip cancellation insurance", "covid 19", "epidemic", "closed borders", "closed country", "coverage", "costs"]
+},
+{
+"id": 226,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Cancellation insurance for tourist travel",
+"question": "What does the insurance cover?",
+"keywords": ["Cancellation insurance for tourist travel", "package", "coverage", "types of packages", "combinations", "package A", "package B"]
+},
+{
+"id": 227,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Tourist trip cancellation insurance",
+"question": "What does the insurance cover?",
+"keywords": ["Tourist trip cancellation insurance", "scope", "tourist services", "coverage"]
+},
+{
+"id": 228,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Trip cancellation insurance",
+"question": "What is the price/premium of the insurance?",
+"keywords": ["Trip cancellation insurance", "price", "premium", "calculation", "amount of insurance premium"]
+},
+{
+"id": 229,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Trip cancellation insurance",
+"question": "How is the premium calculated?",
+"keywords": ["trip cancellation insurance", "price", "premium", "calculation", "amount of insurance premium"]
+},
+{
+"id": 230,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Cancellation of tourist travel insurance",
+"question": "Until when can I conclude the cancellation of tourist travel insurance?",
+"keywords": ["Cancellation of tourist travel insurance", "conclusion", "insurance", "deadline"]
+},
+{
+"id": 231,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Travel insurance",
+"level3a": "Cancellation travel insurance",
+"question": "How can I conclude insurance?",
+"keywords": ["Cancellation travel insurance", "conclusion", "website", "branch", "representatives"]
+},
+{
+"id": 232,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Revaluation of life insurance",
+"question": "How can I reject the revaluation?",
+"keywords": null
+},
+{
+"id": 233,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance for the event of death",
+"question": "What additional coverage can I get?",
+"keywords": ["additional insurance", "life insurance", "death", "in case of death"]
+},
+{
+"id": 234,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance for death cases",
+"question": "What are the benefits of life insurance for death cases?",
+"keywords": ["life insurance for death cases", "insurance amount", "purpose", "payout"]
+},
+{
+"id": 235,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance for death case",
+"question": "What does insurance without savings mean?",
+"keywords": ["without savings", "life insurance for death case"]
+},
+{
+"id": 236,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Mixed life insurance",
+"question": "General information",
+"keywords": ["mixed life insurance", "investment life insurance", "flex"]
+},
+{
+"id": 237,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Term life insurance",
+"question": "How much payout will I receive after the expiration?",
+"keywords": ["term life insurance", "insurance in case of death", "life insurance", "payout", "no payout upon expiration", "end of insurance", "expiration"]
+},
+{
+"id": 238,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "risky life insurance (insurance in case of death)",
+"question": "General information",
+"keywords": ["risky", "Risk life insurance", "payout", "without payout upon expiration of insurance", "end of insurance", "expiration", "digital certificate", "web", "life insurance"]
+},
+{
+"id": 239,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance 50 plus",
+"question": "General information",
+"keywords": ["life insurance 50 plus", "life insurance", "general information", "Autumn of life"]
+},
+{
+"id": 240,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance 50 plus",
+"question": "What is the amount on the policy?",
+"keywords": ["life insurance 50 plus", "amount", "policy", "life insurance"]
+},
+{
+"id": 241,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance 50 plus",
+"question": "Why do we still receive bills if the policyholder has died?",
+"keywords": ["life insurance 50 plus", "payout", "bills", "life insurance", "policyholder's death"]
+},
+{
+"id": 242,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Life insurance for borrowers",
+"question": "General information",
+"keywords": ["life insurance for borrowers", "life insurance", "credit"]
+},
+{
+"id": 243,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurances",
+"level3a": "Annuity insurance",
+"question": "General information",
+"keywords": ["annuity insurance", "conclusion", "terms", "monthly annuity", "insurance premium", "lump sum", "life insurance"]
+},
+{
+"id": 244,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Life insurance",
+"level3a": "Scholarship insurance",
+"question": "General information",
+"keywords": ["life insurance", "scholarship", "basic", "annuity", "general information", "flex", "flex investment life insurance for children"]
+},
+{
+"id": 245,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Revaluation",
+"question": "What does revaluation (revalorization) mean?",
+"keywords": null
+},
+{
+"id": 246,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Package insurance for house/apartment",
+"question": "What are the benefits of concluding insurance in a package?",
+"keywords": ["package insurance", "house", "apartment", "home", "property", "benefits"]
+},
+{
+"id": 247,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Individual home insurances",
+"question": "How can I cancel the policy?",
+"keywords": ["policy validity", "termination", "home insurance", "cancellation"]
+},
+{
+"id": 248,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Individual home insurance policies",
+"question": "Is the bill settled/paid?",
+"keywords": ["payment", "premium", "reminder", "settled", "home insurance"]
+},
+{
+"id": 249,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Individual home insurances",
+"question": "How can I report a claim to the policy?",
+"keywords": ["claim report", "accident report", "home insurance"]
+},
+{
+"id": 250,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Individual home insurances",
+"question": "What additional coverage can I get?",
+"keywords": ["home assistance", "home insurance", "coverage", "additional insurance", "liabilities", "new home"]
+},
+{
+"id": 251,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Individual home insurance",
+"question": "What is not covered by the insurance?",
+"keywords": ["home insurance", "coverage", "not included", "not insured", "policy"]
+},
+{
+"id": 252,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance DO 2021",
+"question": "What does the insurance cover?",
+"keywords": ["home insurance", "home insurance until 2021", "package", "insured", "property insurance", "coverage", "policy"]
+},
+{
+"id": 253,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance DO 2021",
+"question": "What can I additionally insure?",
+"keywords": ["Home", "additional insurance", "additional coverage", "earthquake", "machine breakdown", "package", "mechanical breakage", "lightning"]
+},
+{
+"id": 254,
+"level1": "Information",
+"level2": "Insurance Policies",
+"level3": "Home Insurance",
+"level3a": "Home Insurance DO 2021",
+"question": "What is not covered by the insurance?",
+"keywords": ["home insurance do 2021", "coverage", "not included", "not insured", "home"]
+},
+{
+"id": 255,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance up to 2021",
+"question": "What are the coverage limitations?",
+"keywords": ["home insurance up to 2021", "limited coverage", "insurance sum", "damage coverage", "insurance contract"]
+},
+{
+"id": 256,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance DO 2021",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["home insurance do 2021", "payment method", "payment", "UPN", "one-time premium"]
+},
+{
+"id": 257,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance DO 2021",
+"question": "When does the insurance start and when does it cease to be valid?",
+"keywords": ["Home insurance DO 2021", "validity", "duration", "start", "end of validity", "contract"]
+},
+{
+"id": 258,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance DO 2021",
+"question": "Where is the insurance valid?",
+"keywords": ["home insurance DO 2021", "area", "region", "validity", "Europe", "Slovenia"]
+},
+{
+"id": 259,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance DO 2021",
+"question": "How can I terminate the contract?",
+"keywords": ["home insurance do 2021", "withdrawal from the contract", "termination", "before expiry", "notice period"]
+},
+{
+"id": 260,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance from 2021",
+"question": "What does the insurance cover?",
+"keywords": ["home insurance from 2021", "insured", "contains", "scope", "coverage"]
+},
+{
+"id": 261,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance FROM 2021",
+"question": "What additional coverage can I have?",
+"keywords": ["additional", "home insurance from 2021", "extra coverage", "additional cover", "package"]
+},
+{
+"id": 262,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance FROM 2021",
+"question": "What does the insurance not cover?",
+"keywords": ["not insured", "home insurance from 2021", "coverage", "limitation"]
+},
+{
+"id": 263,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance from 2021",
+"question": "What are the coverage limitations?",
+"keywords": ["limited", "home insurance from 2021", "sum insured", "insurance contract", "coverage", "limitation"]
+},
+{
+"id": 264,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance FROM 2021",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["payment method", "home insurance from 2021", "premium", "first installment"]
+},
+{
+"id": 265,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance from 2021",
+"question": "When does the insurance start and when does it expire?",
+"keywords": ["end", "home insurance from 2021", "validity", "duration"]
+},
+{
+"id": 266,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance FROM 2021",
+"question": "Where is the insurance valid?",
+"keywords": ["area", "home insurance from 2021", "zone", "country", "validity"]
+},
+{
+"id": 267,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance FROM 2021",
+"question": "What are my obligations?",
+"keywords": ["home insurance from 2021", "obligations", "duties", "registration", "conditions"]
+},
+{
+"id": 268,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Home insurance",
+"level3a": "Home insurance FROM 2021",
+"question": "How can I withdraw from the contract?",
+"keywords": ["home insurance from 2021", "withdrawal from contract", "termination", "termination conditions", "withdrawal statement"]
+},
+{
+"id": 269,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "General information",
+"keywords": ["Individual accident insurance", "general information", "insurance benefit", "coverage", "abroad", "validity"]
+},
+{
+"id": 270,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "How is the amount of insurance compensation determined?",
+"keywords": ["insurance compensation", "payout", "individual accident insurance"]
+},
+{
+"id": 271,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "What is the difference between individual and collective insurance?",
+"keywords": ["individual accident insurance", "single insurance", "collective insurance", "difference"]
+},
+{
+"id": 272,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Individual accident insurance",
+"question": "Is accident insurance also valid abroad?",
+"keywords": ["coverage", "individual accident insurance", "abroad"]
+},
+{
+"id": 273,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accidental insurance",
+"level3a": "Individual accident insurance",
+"question": "How do I make an informative calculation?",
+"keywords": ["Individual accident insurance", "general", "informative calculation", "agent", "branch", "online conclusion"]
+},
+{
+"id": 274,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "General information",
+"keywords": ["Individual accident insurance for youth", "accident insurance for youth", "general", "basic information", "coverage", "when to conclude"]
+},
+{
+"id": 275,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "Can I also conclude insurance at any time during the year?",
+"keywords": ["conclusion", "accident insurance for children and youth", "special offer"]
+},
+{
+"id": 276,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What do I need to do if I want to change the amount of insurance sums or add new coverage?",
+"keywords": ["coverage", "sum", "accident insurance for children and youth", "change", "policy"]
+},
+{
+"id": 277,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and adolescents",
+"question": "How to insure children or adolescents who are active athletes?",
+"keywords": ["accident insurance for children and adolescents", "athlete status", "accident", "coverage", "active athletes", "risky activity", "injury"]
+},
+{
+"id": 278,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "When does accident insurance for children and young people take effect?",
+"keywords": ["accident insurance for children and youth", "start", "duration", "validity"]
+},
+{
+"id": 279,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "Does accident insurance also apply abroad and during holidays?",
+"keywords": ["abroad", "holidays", "insurance validity", "accident insurance for children and youth"]
+},
+{
+"id": 280,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and adolescents",
+"question": "What is the coverage in case of an accident for people with athlete status?",
+"keywords": ["accident insurance for children and adolescents", "athlete status", "coverage", "accident", "risky activities"]
+},
+{
+"id": 281,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "How do I add sports risk coverage to an existing policy?",
+"keywords": ["add coverage", "extension", "sports risk", "existing policy", "policy change"]
+},
+{
+"id": 282,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "Until what age can students be insured?",
+"keywords": ["students", "age", "young people's accident insurance", "26 years"]
+},
+{
+"id": 283,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "What does it mean that accident insurance for children and youth is without expiration?",
+"keywords": ["without expiration", "permanent", "automatic renewal", "conclusion", "accident insurance for children and youth"]
+},
+{
+"id": 284,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Accident insurance",
+"level3a": "Accident insurance for children and youth",
+"question": "Why is the premium higher after the age of 14?",
+"keywords": ["Individual accident insurance for young people", "accident insurance for young people", "general", "basic information", "premium amount"]
+},
+{
+"id": 285,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Additional insurance in case of accidental death",
+"question": "General information",
+"keywords": ["accident", "health", "death", "additional insurance in case of death"]
+},
+{
+"id": 286,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Rehabilitation insurance after a traffic accident",
+"question": "General information",
+"keywords": ["health", "accident", "spa", "rehabilitation", "traffic", "additional insurance"]
+},
+{
+"id": 287,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Insurance for rehabilitation after a traffic accident",
+"question": "Which vehicles are covered?",
+"keywords": ["health", "accident", "traffic accident", "rehabilitation", "coverage", "vehicle", "skateboard", "scooter", "car", "rollerblades", "wheelchair"]
+},
+{
+"id": 288,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Compensation insurance",
+"question": "General information",
+"keywords": ["health", "compensation", "compensation insurance", "Triglav Health"]
+},
+{
+"id": 289,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "What does the insurance cover?",
+"keywords": ["health", "advice", "health issues"]
+},
+{
+"id": 290,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "What additional coverage can I take?",
+"keywords": ["specialists", "specialists +", "health", "advice", "coverage"]
+},
+{
+"id": 291,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "What does the insurance not cover?",
+"keywords": ["health", "advice", "not insured", "coverage", "excludes"]
+},
+{
+"id": 292,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "What are the coverage limitations?",
+"keywords": ["health", "limited coverage", "limitations", "advice"]
+},
+{
+"id": 293,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["health", "advice", "payment", "payment deadline", "payment method"]
+},
+{
+"id": 294,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "When does the insurance start and when does it end?",
+"keywords": ["health", "end", "beginning", "validity", "termination", "advice", "duration", "automatic renewal"]
+},
+{
+"id": 295,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "Where is the insurance valid?",
+"keywords": ["area", "scope of validity", "countries", "European Union"]
+},
+{
+"id": 296,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "What are my obligations?",
+"keywords": ["health", "obligations", "duties", "advice", "health point", "0802664"]
+},
+{
+"id": 297,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Health advice",
+"question": "How can I cancel the contract?",
+"keywords": ["health", "contract termination", "withdrawal from contract", "advice"]
+},
+{
+"id": 298,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident Specialists",
+"question": "What does the insurance cover?",
+"keywords": ["health", "specialists", "accident", "coverage"]
+},
+{
+"id": 299,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident Specialists",
+"question": "What does the insurance not cover?",
+"keywords": ["health", "specialists", "accident", "coverage", "scope", "excludes"]
+},
+{
+"id": 300,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident Specialists",
+"question": "What are the coverage limits?",
+"keywords": ["health", "specialists", "accident", "covered", "limited coverage", "covers", "amount of insurance sum"]
+},
+{
+"id": 301,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident Specialists",
+"question": "When and how can I pay the first premium amount?",
+"keywords": ["health", "specialists", "accident", "payment deadline", "payment method"]
+},
+{
+"id": 302,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident Specialists",
+"question": "When does the insurance start and when does it end?",
+"keywords": ["health", "specialists", "accident", "start", "end", "duration", "validity"]
+},
+{
+"id": 303,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists Accident",
+"question": "Where is the insurance valid?",
+"keywords": ["health", "specialists", "accident", "where valid", "countries", "area", "region"]
+},
+{
+"id": 304,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists Accident",
+"question": "What are my obligations?",
+"keywords": ["health", "specialists", "accident", "obligations", "duties"]
+},
+{
+"id": 305,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident Specialists",
+"question": "How can I terminate the contract?",
+"keywords": ["health", "specialists", "accident", "contract termination", "withdrawal from contract"]
+},
+{
+"id": 306,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Surgery Insurance",
+"question": "Which surgeries are covered?",
+"keywords": ["health", "surgeries", "amount", "coverage"]
+},
+{
+"id": 307,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Supplementary health insurance",
+"question": "What does the insurance cover?",
+"keywords": ["costs", "coverage", "supplementary", "health insurance", "additional"]
+},
+{
+"id": 308,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Supplementary health insurance",
+"question": "Do recipients of social assistance have to pay the premium?",
+"keywords": ["socially vulnerable", "exempt", "supplementary health insurance"]
+},
+{
+"id": 309,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "What does the insurance cover?",
+"keywords": ["teeth", "coverage", "health insurance", "compensation", "additional"]
+},
+{
+"id": 310,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "What does the insurance not cover?",
+"keywords": ["teeth", "coverage", "health insurance", "limitations", "exclusions"]
+},
+{
+"id": 311,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "What are the coverage limitations?",
+"keywords": ["teeth", "coverage", "health insurance", "limited", "compensation", "insurance sum", "coverage amount"]
+},
+{
+"id": 312,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "When and how do I pay?",
+"keywords": ["teeth", "health insurance", "payment method", "payment deadline", "how to pay", "when to pay"]
+},
+{
+"id": 313,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "When does the insurance start and when does it end?",
+"keywords": ["teeth", "health insurance", "validity", "starts", "ends", "end", "beginning", "duration"]
+},
+{
+"id": 314,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "Where is the insurance valid?",
+"keywords": ["teeth", "coverage", "health insurance", "validity", "where is it valid", "country", "area", "region"]
+},
+{
+"id": 315,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "What are my obligations?",
+"keywords": ["teeth", "health insurance", "obligation", "duty"]
+},
+{
+"id": 316,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "How can I withdraw from the contract?",
+"keywords": ["teeth", "health insurance", "termination of insurance", "withdrawal from the contract"]
+},
+{
+"id": 317,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "What does the insurance cover?",
+"keywords": ["teeth +", "coverage", "health insurance", "obligation", "duty", "above standard"]
+},
+{
+"id": 318,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "What does the insurance not cover?",
+"keywords": ["teeth +", "health insurance", "limitation", "coverage"]
+},
+{
+"id": 319,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "What are the coverage limitations?",
+"keywords": ["Teeth+", "health insurance", "limitation", "coverage", "restriction", "14 years"]
+},
+{
+"id": 320,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "When and how do I pay?",
+"keywords": ["teeth +", "health insurance", "payment", "payment method"]
+},
+{
+"id": 321,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "When does the insurance start and when does it expire?",
+"keywords": ["teeth +", "health insurance", "takes effect", "start", "validity", "duration", "expiry", "termination"]
+},
+{
+"id": 322,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "Where is the insurance valid?",
+"keywords": ["teeth +", "health insurance", "country", "area", "validity", "zone"]
+},
+{
+"id": 323,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "What are my obligations?",
+"keywords": ["teeth+", "health insurance", "obligation", "duty"]
+},
+{
+"id": 324,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth+",
+"question": "How can I terminate the contract?",
+"keywords": ["teeth +", "health insurance", "termination", "withdrawal", "contract"]
+},
+{
+"id": 325,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Teeth",
+"question": "How can I conclude Teeth, Teeth+ insurance?",
+"keywords": ["teeth", "conclusion", "health insurance", "teeth +"]
+},
+{
+"id": 326,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "What does the insurance cover?",
+"keywords": ["specialists", "coverage", "health insurance"]
+},
+{
+"id": 327,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "What does the insurance not cover?",
+"keywords": ["specialists", "cover", "health insurance", "limitation"]
+},
+{
+"id": 328,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "What are the coverage limitations?",
+"keywords": ["specialists", "limited coverage", "health insurance", "costs"]
+},
+{
+"id": 329,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "When and how do I pay?",
+"keywords": ["specialists", "health insurance", "payment"]
+},
+{
+"id": 330,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "When does the insurance begin and when does it cease to be valid?",
+"keywords": ["specialists", "coverage", "health insurance", "start", "termination", "validity"]
+},
+{
+"id": 331,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "Where is the insurance valid?",
+"keywords": ["specialists", "coverage", "health insurance", "area", "region", "country", "where valid"]
+},
+{
+"id": 332,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "What are my obligations?",
+"keywords": ["specialists", "obligations", "health insurance", "duties"]
+},
+{
+"id": 333,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists",
+"question": "How can I cancel the contract?",
+"keywords": ["specialists", "health insurance", "cancellation of the contract", "termination of insurance", "termination"]
+},
+{
+"id": 334,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "What does the insurance cover?",
+"keywords": ["specialists+", "coverage", "health insurance", "cover"]
+},
+{
+"id": 335,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "What is not covered by the insurance?",
+"keywords": ["specialists+", "coverage", "health insurance", "coverage"]
+},
+{
+"id": 336,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "What are the coverage limits?",
+"keywords": ["specialists+", "limited coverage", "health insurance", "covers", "coverage amount", "insurance sum"]
+},
+{
+"id": 337,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "When and how do I pay?",
+"keywords": ["specialists+", "health insurance", "payment method", "payment deadline", "maturity"]
+},
+{
+"id": 338,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "When does the insurance start and when does it cease to be valid?",
+"keywords": ["specialists+", "health insurance", "validity", "commencement", "expiration", "termination"]
+},
+{
+"id": 339,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "Where is the insurance valid?",
+"keywords": ["specialists+", "health insurance", "validity", "country", "area", "territory"]
+},
+{
+"id": 340,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "What are my obligations?",
+"keywords": ["specialists+", "health insurance", "obligations", "duties"]
+},
+{
+"id": 341,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Specialists+",
+"question": "How can I cancel the contract?",
+"keywords": ["specialists+", "health insurance", "cancellation of contract", "termination of insurance"]
+},
+{
+"id": 342,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Surgeries",
+"question": "What does the insurance cover?",
+"keywords": ["surgeries", "health insurance", "coverage", "payout"]
+},
+{
+"id": 343,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Operations",
+"question": "What does the insurance not cover?",
+"keywords": ["operations", "health insurance", "covers", "scope"]
+},
+{
+"id": 344,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Surgeries",
+"question": "What are the coverage limitations?",
+"keywords": ["surgeries", "health insurance", "limited", "insurance amount", "payout amount", "payout"]
+},
+{
+"id": 345,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Operations",
+"question": "When and how do I pay?",
+"keywords": ["operations", "health insurance", "payment deadline", "payment method"]
+},
+{
+"id": 346,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Operations",
+"question": "When does the insurance start and when does it expire?",
+"keywords": ["operations", "health insurance", "validity", "start duration", "interruption"]
+},
+{
+"id": 347,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Surgery",
+"question": "Where is the insurance valid?",
+"keywords": ["surgery", "health insurance", "country", "area", "validity"]
+},
+{
+"id": 348,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Operations",
+"question": "What are my obligations?",
+"keywords": ["operations", "health insurance", "obligations", "duties"]
+},
+{
+"id": 349,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Operations",
+"question": "How can I cancel the contract?",
+"keywords": ["operations", "health insurance", "contract termination", "contract cancellation", "withdrawal"]
+},
+{
+"id": 350,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Sports activities insurance",
+"question": "General information",
+"keywords": ["health", "sports", "coverage", "validity", "conditions", "duration", "general information"]
+},
+{
+"id": 351,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Health",
+"level3a": "Accident insurance for athletes",
+"question": "How can I conclude insurance?",
+"keywords": ["health", "sport", "conclusion", "conditions"]
+},
+{
+"id": 352,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Overview of concluded insurances",
+"level3a": null,
+"question": "What does the insurance cover?",
+"keywords": ["overview of policies", "concluded insurances"]
+},
+{
+"id": 353,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Amount/scope of coverage",
+"level3a": null,
+"question": "What is the scope of coverage? How much would the payout be?",
+"keywords": ["amount of coverage", "scope of coverage"]
+},
+{
+"id": 354,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Claiming coverages",
+"level3a": null,
+"question": "How can I withdraw money from the policy?",
+"keywords": ["claiming coverages", "withdrawal of funds", "payment"]
+},
+{
+"id": 355,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Compensation amount",
+"level3a": null,
+"question": "Am I entitled to compensation?",
+"keywords": ["compensation amount", "daily compensation", "accident insurance"]
+},
+{
+"id": 356,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Policy status",
+"level3a": null,
+"question": "What is the policy status?",
+"keywords": ["policy status", "value", "amount"]
+},
+{
+"id": 357,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Renewal of insurance",
+"level3a": null,
+"question": "How can I renew my insurance?",
+"keywords": ["renewal", "debt", "payment", "life insurance"]
+},
+{
+"id": 358,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Termination of insurance",
+"level3a": null,
+"question": "How do I terminate the insurance?",
+"keywords": ["termination of insurance", "payout", "dormancy", "deadline", "termination request"]
+},
+{
+"id": 359,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Termination of insurance",
+"level3a": null,
+"question": "When do the guarantees under the policy cease?",
+"keywords": ["guarantee", "termination", "cessation", "premium payment"]
+},
+{
+"id": 360,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Withdrawal, termination of insurance",
+"level3a": null,
+"question": "What happens if I withdraw from the contract?",
+"keywords": ["withdrawal", "insurance contract", "withdrawal application"]
+},
+{
+"id": 361,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Cancellation, termination of insurance",
+"level3a": null,
+"question": "How do I terminate supplementary health insurance?",
+"keywords": ["cancellation", "health insurance", "notice period"]
+},
+{
+"id": 362,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Withdrawal, cancellation of insurance",
+"level3a": null,
+"question": "When is it possible to cancel the insurance?",
+"keywords": ["cancellation", "notice period", "quarterly"]
+},
+{
+"id": 363,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Insurance suspension",
+"level3a": null,
+"question": "How do I arrange insurance suspension?",
+"keywords": ["suspension", "request", "payment"]
+},
+{
+"id": 364,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Advance insurance payment",
+"level3a": null,
+"question": "How do I request an advance payment or payout of the surrender value?",
+"keywords": ["advance", "payout", "forms", "documents"]
+},
+{
+"id": 365,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Advance payment of insurance",
+"level3a": null,
+"question": "When is the advance calculated?",
+"keywords": ["advance", "payment", "calculation"]
+},
+{
+"id": 366,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Advance insurance",
+"level3a": null,
+"question": "What does the settlement day mean?",
+"keywords": ["calculation", "settlement day", "advance", "redemption"]
+},
+{
+"id": 367,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Automatic renewal of insurance",
+"level3a": null,
+"question": "Why did I receive an invoice if I didn't extend my insurance?",
+"keywords": ["automatic renewal", "home insurance", "pet insurance", "dog insurance", "travel insurance", "permanent insurance"]
+},
+{
+"id": 368,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Insurance without expiration",
+"level3a": null,
+"question": "What does insurance without expiration mean?",
+"keywords": ["insurance without expiration", "automatic renewal", "permanent", "conclusion"]
+},
+{
+"id": 369,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Changes in policy",
+"level3a": null,
+"question": "Who can be the premium payer?",
+"keywords": ["beneficiary", "payer", "insurance amount"]
+},
+{
+"id": 370,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Changes in the policy",
+"level3a": null,
+"question": "How can I change the beneficiary on the policy?",
+"keywords": ["beneficiary", "payer", "insured", "insurer", "change beneficiary"]
+},
+{
+"id": 371,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Changes to the policy",
+"level3a": null,
+"question": "How can I expand my coverage?",
+"keywords": ["coverage expansion", "policy", "additional coverage"]
+},
+{
+"id": 372,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Changes to policy",
+"level3a": null,
+"question": "How can I change the insurer on the policy?",
+"keywords": ["change", "insurer", "form", "insurance policy"]
+},
+{
+"id": 373,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Bonus",
+"level3a": null,
+"question": "What is the value of the bonus?",
+"keywords": ["amount", "claiming", "transfer", "certificate", "bonus", "bonus certificate", "car insurance"]
+},
+{
+"id": 374,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Bonus",
+"level3a": null,
+"question": "Where can I obtain a bonus certificate?",
+"keywords": ["amount", "claim", "transfer", "certificate", "bonus", "bonus certificate", "car insurance"]
+},
+{
+"id": 375,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Deductible franchise",
+"level3a": null,
+"question": "What is a deductible franchise?",
+"keywords": ["deductible franchise", "amount of franchise", "participation"]
+},
+{
+"id": 376,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Deductible franchise",
+"level3a": null,
+"question": "How much is the deductible franchise on the new value?",
+"keywords": ["deductible franchise", "franchise amount", "new acquisition value"]
+},
+{
+"id": 377,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Deductible franchise",
+"level3a": null,
+"question": "What is the co-participation in case of damage?",
+"keywords": ["deductible franchise", "franchise amount", "participation in damage"]
+},
+{
+"id": 378,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Providing documentation to the client",
+"level3a": null,
+"question": "How do I receive insurance documentation?",
+"keywords": ["insurance documentation", "certificate", "provision"]
+},
+{
+"id": 379,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Providing documentation to the client",
+"level3a": null,
+"question": "How do I receive a duplicate policy?",
+"keywords": ["duplicate policy", "insurance", "documentation", "certificate", "provision"]
+},
+{
+"id": 380,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Providing documentation to the client",
+"level3a": null,
+"question": "How do I obtain proof of premium class?",
+"keywords": ["premium class", "insurance documentation", "certificate", "proof"]
+},
+{
+"id": 381,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Providing documentation to the client",
+"level3a": null,
+"question": "How do I obtain a bonus certificate?",
+"keywords": ["bonus", "insurance documentation", "certificate"]
+},
+{
+"id": 382,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Maturity - premium payment",
+"level3a": null,
+"question": "What is the procedure for premium payment?",
+"keywords": ["information", "forms", "amount", "transfer of funds", "payment", "procedure"]
+},
+{
+"id": 383,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Maturity - premium payment",
+"level3a": null,
+"question": "What is the procedure for paying out the insurance sum in case of the insured person's death?",
+"keywords": ["payout", "life insurance", "death", "insurance sum"]
+},
+{
+"id": 384,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Maturity - premium payment",
+"level3a": null,
+"question": "What is the difference between the surrender value and the value on the investment account?",
+"keywords": ["surrender", "payment", "surrender value", "investment account", "asset value"]
+},
+{
+"id": 385,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Maturity - premium payment",
+"level3a": null,
+"question": "How is the buyback calculated?",
+"keywords": ["buyback", "amount", "payment", "receipt of documentation", "calculation", "settlement day"]
+},
+{
+"id": 386,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Maturity - policy expiration, policy experience",
+"level3a": null,
+"question": "What is the procedure at the expiration of the policy or policy experience?",
+"keywords": ["forms", "new policy", "policy experience", "automatic renewal", "policy experience notification", "political exposure", "tax residency"]
+},
+{
+"id": 387,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Expiration - policy expiration, occurrence",
+"level3a": null,
+"question": "Is it allowed to drive a vehicle after the insurance has expired?",
+"keywords": ["insurance expiration", "AO", "car insurance"]
+},
+{
+"id": 388,
+"level1": "Information",
+"level2": "Insurance policies",
+"level3": "Maturity - policy expiry, realization",
+"level3a": null,
+"question": "What to do when student status is terminated and health insurance expires?",
+"keywords": ["expiry of insurance", "status expiry", "students", "health insurance"]
+},
+{
+"id": 389,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Damage report - form",
+"level3a": null,
+"question": "How do I report damage?",
+"keywords": ["damage report", "form", "accident"]
+},
+{
+"id": 390,
+"level1": "Information",
+"level2": "Damage",
+"level3": "Damage report - form",
+"level3a": null,
+"question": "Where can I find the form for reporting damage?",
+"keywords": ["additional documents", "pictures", "certificates", "proofs", "statements"]
+},
+{
+"id": 391,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Procedure for dealing with damage",
+"level3a": null,
+"question": "In which cases do I need to inform the police?",
+"keywords": ["damage assessment", "assessment procedure", "comprehensive insurance", "police notification", "appraiser", "evidence"]
+},
+{
+"id": 392,
+"level1": "Information",
+"level2": "Claims",
+"level3": "Procedure for dealing with a claim",
+"level3a": null,
+"question": "How to act in the event of a claim?",
+"keywords": ["damage event", "claim registration", "evidence", "valuation", "act"]
+},
+{
+"id": 393,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Damage assessment",
+"level3a": null,
+"question": "What is the damage assessment procedure?",
+"keywords": ["estimate", "appointment", "location", "remote damage assessment", "Skplus service", "SK+", "repair", "assessor", "evidence"]
+},
+{
+"id": 394,
+"level1": "Information",
+"level2": "Claims",
+"level3": "Claim status and payout",
+"level3a": null,
+"question": "What is the procedure for handling claims?",
+"keywords": ["Skplus service", "SK+", "repair", "claim handling"]
+},
+{
+"id": 395,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Damage status and payment",
+"level3a": null,
+"question": "When will the damage be paid?",
+"keywords": ["status of appraisal", "payment date", "payment", "appraisal", "damage"]
+},
+{
+"id": 396,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Damage status and payout",
+"level3a": null,
+"question": "What is the status of my damage?",
+"keywords": ["status of assessment", "payout date", "payout", "assessment", "damage"]
+},
+{
+"id": 397,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Time for damage/accident reporting",
+"level3a": null,
+"question": "What is the deadline for reporting damages?",
+"keywords": ["damage reporting", "damage event", "deadline for damage reporting"]
+},
+{
+"id": 398,
+"level1": "Information",
+"level2": "Damages",
+"level3": "Time for reporting a damage / accident",
+"level3a": null,
+"question": "What to do in case of a missed deadline for reporting damages?",
+"keywords": ["deadline for reporting damages", "3-day deadline", "damage event"]
+},
+{
+"id": 399,
+"level1": "Information",
+"level2": "Claims",
+"level3": "International claims",
+"level3a": null,
+"question": "What is the status of my international claim?",
+"keywords": ["international claim"]
+},
+{
+"id": 400,
+"level1": "Information",
+"level2": "Damage",
+"level3": "Online damage report",
+"level3a": null,
+"question": "How to report damage online?",
+"keywords": ["online damage report", "type of damage", "itriglav", "damage report", "form"]
+},
+{
+"id": 401,
+"level1": "Information",
+"level2": "General information",
+"level3": "Opening hours, contacts",
+"level3a": null,
+"question": "Where can I find the contact of a representative?",
+"keywords": ["representative", "contact", "order representative"]
+},
+{
+"id": 402,
+"level1": "Information",
+"level2": "General information",
+"level3": "Opening hours, contacts",
+"level3a": null,
+"question": "Where can I check the working hours of the branch?",
+"keywords": ["branch", "working hours", "opening hours"]
+},
+{
+"id": 403,
+"level1": "Information",
+"level2": "General information",
+"level3": "Donations, sponsorships",
+"level3a": null,
+"question": "What are the sponsorship or donation options?",
+"keywords": ["association", "sponsorship", "donation"]
+},
+{
+"id": 404,
+"level1": "Information",
+"level2": "General information",
+"level3": "Benefits",
+"level3a": null,
+"question": "What are the benefits for young drivers?",
+"keywords": ["benefits", "young drivers", "promotion"]
+},
+{
+"id": 405,
+"level1": "Information",
+"level2": "General information",
+"level3": "Employment, CVs",
+"level3a": null,
+"question": "What are the employment opportunities at ZT?",
+"keywords": ["employment", "human resources", "CV", "resume"]
+},
+{
+"id": 406,
+"level1": "Information",
+"level2": "General information",
+"level3": "B2B offer",
+"level3a": null,
+"question": "Where can I submit a B2B service offer?",
+"keywords": ["mailing", "gifts", "seminars", "greetings"]
+},
+{
+"id": 407,
+"level1": "Information",
+"level2": "General information",
+"level3": "Information regarding the visit of an agent/representative",
+"level3a": null,
+"question": "Has your representative contacted me?",
+"keywords": ["visit of agent", "representative", "visit of consultant", "triglav advice", "tris"]
+},
+{
+"id": 408,
+"level1": "Information",
+"level2": "General information",
+"level3": "Information regarding visits from agent/representative",
+"level3a": null,
+"question": "How can I cancel an agreed appointment with a consultant/representative?",
+"keywords": ["agent visit", "representative visit", "consultant visit", "triglav consulting"]
+},
+{
+"id": 409,
+"level1": "Information",
+"level2": "General information",
+"level3": "Order a representative",
+"level3a": null,
+"question": "Where can I find contact information for insurance conclusion?",
+"keywords": ["order a representative", "website", "online conclusion"]
+},
+{
+"id": 410,
+"level1": "Information",
+"level2": "GDPR",
+"level3": "Revocation and consent",
+"level3a": null,
+"question": "How do I cancel the confirmation for direct marketing?",
+"keywords": ["GDPR", "revocation", "marketing"]
+},
+{
+"id": 411,
+"level1": "Information",
+"level2": "GDPR",
+"level3": "Revocation and consent",
+"level3a": null,
+"question": "What to do in case of receiving foreign documentation?",
+"keywords": ["wrong data", "correction on policy", "foreign documentation", "wrong person", "recipient"]
+},
+{
+"id": 412,
+"level1": "Information",
+"level2": "GDPR",
+"level3": "Revocation and consent",
+"level3a": null,
+"question": "How do I withdraw consent for the collection of personal data?",
+"keywords": ["GDPR", "data protection", "violations", "personal data", "sensitive data", "withdrawal of data collection"]
+},
+{
+"id": 413,
+"level1": "Information",
+"level2": "GDPR",
+"level3": "Revocation and consent",
+"level3a": null,
+"question": "How do I submit a request for deleting collected data?",
+"keywords": ["GDPR", "data protection", "violations", "personal data", "sensitive data", "data deletion"]
+},
+{
+"id": 414,
+"level1": "Information",
+"level2": "GDPR",
+"level3": "Revocation and consent",
+"level3a": null,
+"question": "How do I submit a request for the deletion of collected personal data?",
+"keywords": ["GDPR", "data protection", "violations", "personal data", "sensitive data", "data output"]
+},
+{
+"id": 415,
+"level1": "Information",
+"level2": "GDPR",
+"level3": "Revocation and Consent",
+"level3a": null,
+"question": "How do I arrange the transfer of personal data to another insurance company?",
+"keywords": ["GDPR", "data protection", "violations", "personal data", "sensitive data", "data transfer"]
+},
+{
+"id": 416,
+"level1": "Information",
+"level2": "Help desk - internal public",
+"level3": "Content support",
+"level3a": null,
+"question": "Content support for employees",
+"keywords": ["circular", "drajv code", "help desk"]
+},
+{
+"id": 417,
+"level1": "Information",
+"level2": "Help desk - internal public",
+"level3": "Technical support",
+"level3a": null,
+"question": "Technical support for employees",
+"keywords": ["circular", "drajv code", "help desk"]
+},
+{
+"id": 418,
+"level1": "Information",
+"level2": "Help desk - internal public",
+"level3": "Other",
+"level3a": null,
+"question": "Employee support",
+"keywords": ["interested", "claim status", "request", "help desk", "password", "e-court"]
+},
+{
+"id": 419,
+"level1": "Information",
+"level2": "Banks",
+"level3": "Content support",
+"level3a": null,
+"question": "What is the coverage scope?",
+"keywords": ["bank", "coverage", "investment", "card"]
+},
+{
+"id": 420,
+"level1": "Information",
+"level2": "Banks",
+"level3": "Technical Support",
+"level3a": null,
+"question": "What can I do if the application reports an error?",
+"keywords": ["error in application", "technical support", "technical issue"]
+},
+{
+"id": 421,
+"level1": "Information",
+"level2": "Marketing campaigns",
+"level3": "Motorcyclists",
+"level3a": null,
+"question": "What is the amount of the discount when not returning the premium?",
+"keywords": ["discount", "bonus", "motorcyclists", "early termination of insurance", "agreement on non-refund of unused premium part"]
+},
+{
+"id": 422,
+"level1": "Information",
+"level2": "Marketing campaigns",
+"level3": "Scarf for first-graders",
+"level3a": null,
+"question": "How do I get a scarf for a first-grader?",
+"keywords": ["scarves for first-graders", "Kuža pazi", "scarf"]
+},
+{
+"id": 423,
+"level1": "Information",
+"level2": "Marketing campaigns",
+"level3": "Planica",
+"level3a": null,
+"question": "How can I follow the ski jumping in Planica remotely?",
+"keywords": ["remote viewing", "Planica"]
+},
+{
+"id": 424,
+"level1": "Information",
+"level2": "Marketing campaigns",
+"level3": "Planica",
+"level3a": null,
+"question": "When will the Planica winners be announced?",
+"keywords": ["prize game", "Planica", "winners"]
+},
+{
+"id": 425,
+"level1": "Information",
+"level2": "Marketing actions",
+"level3": "Planica",
+"level3a": null,
+"question": "How do I secure a ticket to watch Planica remotely?",
+"keywords": ["ticket", "transferability of ticket", "winners", "remote viewing code"]
+},
+{
+"id": 426,
+"level1": "Information",
+"level2": "Praise",
+"level3": "Praise - general, content-related",
+"level3a": null,
+"question": "Forwarding praise",
+"keywords": ["praise", "forwarding"]
+},
+{
+"id": 427,
+"level1": "Information",
+"level2": "Complaint",
+"level3": "Complaint - general, substantive",
+"level3a": null,
+"question": "Complaint about the execution of the service",
+"keywords": ["complaint", "complaint procedure", "service"]
+},
+{
+"id": 428,
+"level1": "Information",
+"level2": "Complaint",
+"level3": "Complaint - general, substantive",
+"level3a": null,
+"question": "Complaint about the attitude of an employee",
+"keywords": ["complaint", "complaint procedure", "attitude of appraiser", "attitude of employee"]
+},
+{
+"id": 429,
+"level1": "Information",
+"level2": "Complaint",
+"level3": "Complaint - general, content-related",
+"level3a": null,
+"question": "Complaint about valuation",
+"keywords": ["complaint", "complaint procedure", "valuation", "damage"]
+},
+{
+"id": 430,
+"level1": "Information",
+"level2": "Complaint",
+"level3": "Complaint - general, content-related",
+"level3a": null,
+"question": "Complaint about the notice period",
+"keywords": ["complaint", "complaint procedure", "notice period", "insurance terms"]
+},
+{
+"id": 431,
+"level1": "Information",
+"level2": "Website",
+"level3": "Informative calculation",
+"level3a": null,
+"question": "How do I make an informative calculation online?",
+"keywords": ["informative calculation", "online conclusion", "agent", "conclusion"]
+},
+{
+"id": 432,
+"level1": "Information",
+"level2": "Website",
+"level3": "Conclusion of insurance",
+"level3a": null,
+"question": "What does activation threshold mean?",
+"keywords": ["activation threshold", "insurance terms"]
+},
+{
+"id": 433,
+"level1": "Information",
+"level2": "Website",
+"level3": "Conclusion of insurance",
+"level3a": null,
+"question": "What is the meaning of the annual aggregate?",
+"keywords": ["annual aggregate", "website", "documentation"]
+},
+{
+"id": 434,
+"level1": "Information",
+"level2": "Website",
+"level3": "Conclusion of insurance",
+"level3a": null,
+"question": "How do I calculate the amount of co-participation?",
+"keywords": ["co-participation", "deductible franchise", "conditions", "contract"]
+},
+{
+"id": 435,
+"level1": "Information",
+"level2": "Website",
+"level3": "Information",
+"level3a": null,
+"question": "Where can I access forms and documents?",
+"keywords": ["general", "forms", "conditions", "contacts", "website", "documents"]
+},
+{
+"id": 436,
+"level1": "Information",
+"level2": "Website",
+"level3": "Information",
+"level3a": null,
+"question": "What are the options for online insurance contracting?",
+"keywords": ["web", "contracting", "remote", "online"]
+},
+{
+"id": 437,
+"level1": "Information",
+"level2": "Website",
+"level3": "Operating issues",
+"level3a": null,
+"question": "The contract conclusion page is not working, what can I do?",
+"keywords": ["website not working", "informative calculation not working", "interactive forms"]
+},
+{
+"id": 438,
+"level1": "Information",
+"level2": "Website",
+"level3": "Operating problems",
+"level3a": null,
+"question": "What can I do in case of an error when concluding online?",
+"keywords": ["input error", "online insurance conclusion"]
+},
+{
+"id": 439,
+"level1": "Information",
+"level2": "Website",
+"level3": "Operating problems",
+"level3a": null,
+"question": "What can I do if interactive forms are not working?",
+"keywords": ["interactive forms", "online insurance conclusion"]
+},
+{
+"id": 440,
+"level1": "Information",
+"level2": "Website",
+"level3": "Functionality issues",
+"level3a": null,
+"question": "Why am I getting a warning about entering incorrect data?",
+"keywords": ["warning", "incorrect data entry", "online insurance conclusion"]
+},
+{
+"id": 441,
+"level1": "Information",
+"level2": "Website",
+"level3": "Video identification",
+"level3a": null,
+"question": "How do I resolve issues with video identification?",
+"keywords": ["video identification", "identification problems", "browser", "webcam"]
+},
+{
+"id": 442,
+"level1": "Information",
+"level2": "Remote conclusion",
+"level3": "e-pen errors/incorrect data on the policy",
+"level3a": null,
+"question": "How can I fix errors on the policy?",
+"keywords": ["errors on the policy", "online conclusion", "e-pen", "data change"]
+},
+{
+"id": 443,
+"level1": "Information",
+"level2": "Remote conclusion",
+"level3": "Documentation",
+"level3a": null,
+"question": "How can I send you the signed documents?",
+"keywords": ["submission of documents", "e-pen", "signature"]
+},
+{
+"id": 444,
+"level1": "Information",
+"level2": "Remote conclusion",
+"level3": "Documentation",
+"level3a": null,
+"question": "How do I open the received documentation?",
+"keywords": ["documentation", "password", "locked documentation", "code", "signature"]
+},
+{
+"id": 445,
+"level1": "Information",
+"level2": "Remote conclusion",
+"level3": "Documentation",
+"level3a": null,
+"question": "What is the password for opening the received documentation?",
+"keywords": ["opening documentation", "data entry", "24-hour validity", "24-hour fuse"]
+},
+{
+"id": 446,
+"level1": "Information",
+"level2": "Remote Conclusion",
+"level3": "Documentation",
+"level3a": null,
+"question": "Why didn't I receive the policy on my email address?",
+"keywords": ["receiving policy", "itriglav", "policy", "documentation"]
+},
+{
+"id": 447,
+"level1": "Information",
+"level2": "Remote conclusion",
+"level3": "payment of premium",
+"level3a": null,
+"question": "What are the remote payment options?",
+"keywords": ["payment of premium", "UPN", "permanent", "e-invoice", "NLB Klik", "Mastercard", "Visa", "Activa Maestro", "VALÚ"]
+},
+{
+"id": 448,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Review of policies",
+"level3a": null,
+"question": "Where can I check the status of my policy?",
+"keywords": ["review of policies in itriglav", "status of the policy", "graph", "resources"]
+},
+{
+"id": 449,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Review of policies",
+"level3a": null,
+"question": "Why can't I see my insurance policy in the digital branch?",
+"keywords": ["profile", "policy", "view", "itriglav"]
+},
+{
+"id": 450,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Damage status",
+"level3a": null,
+"question": "Where can I track the status of damage/claims?",
+"keywords": ["claim status", "damage", "damage file", "status", "itriglav"]
+},
+{
+"id": 451,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Claim report",
+"level3a": null,
+"question": "What is the procedure for submitting a claim in the application?",
+"keywords": ["claim report in itriglav", "submission in itriglav"]
+},
+{
+"id": 452,
+"level1": "Information",
+"level2": "i.triglav ",
+"level3": "i.triglav branch",
+"level3a": null,
+"question": "What is the digital branch i.triglav?",
+"keywords": ["itriglav", "policy overview", "registration", "portfolio", "investments", "investment"]
+},
+{
+"id": 453,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "i.triglav Branch",
+"level3a": null,
+"question": "What does the i.triglav branch provide?",
+"keywords": ["services", "digital branch", "itriglav", "operation"]
+},
+{
+"id": 454,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Registration",
+"level3a": null,
+"question": "How can I register?",
+"keywords": ["registration", "itriglav", "sign up", "itriglav", "online branch"]
+},
+{
+"id": 455,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Registration",
+"level3a": null,
+"question": "How do I activate my i.triglav user account?",
+"keywords": ["user account", "itriglav", "authentication", "activation"]
+},
+{
+"id": 456,
+"level1": "Information",
+"level2": "i.triglav ",
+"level3": "Registration",
+"level3a": null,
+"question": "Which digital certificate can I use for identification in the i.triglav application?",
+"keywords": ["digital certificate", "identification", "activation", "itriglav", "AC NLB", "Halcom", "SIGEN"]
+},
+{
+"id": 457,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Registration",
+"level3a": null,
+"question": "What is the meaning of a one-time registration code?",
+"keywords": ["one-time", "registration code", "itriglav"]
+},
+{
+"id": 458,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Registration",
+"level3a": null,
+"question": "How do I obtain a one-time registration code?",
+"keywords": ["one-time", "registration code", "itriglav"]
+},
+{
+"id": 459,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Access",
+"level3a": null,
+"question": "How can I access i.triglav?",
+"keywords": ["username", "access", "digital certificate", "personal number", "one-time registration code", "itriglav"]
+},
+{
+"id": 460,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Change of data",
+"level3a": null,
+"question": "How can I change the data in i.triglav?",
+"keywords": ["general change", "change of data in itriglav"]
+},
+{
+"id": 461,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Technical difficulties",
+"level3a": null,
+"question": "What should I do if a user with this tax number is already registered?",
+"keywords": ["invisible policy", "incorrect policy", "policy status", "application not working", "confirmation email", "display of funds", "technical difficulties"]
+},
+{
+"id": 462,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Technical issues",
+"level3a": null,
+"question": "Errors in the registration process",
+"keywords": ["error", "registration", "itriglav"]
+},
+{
+"id": 463,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Technical issues",
+"level3a": null,
+"question": "Why am I not receiving a confirmation email for i.triglav?",
+"keywords": ["confirmation email", "itriglav"]
+},
+{
+"id": 464,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Technical issues",
+"level3a": null,
+"question": "Why can't I see my insurance policies in i.triglav?",
+"keywords": ["profile", "policy", "itriglav", "view"]
+},
+{
+"id": 465,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Technical issues",
+"level3a": null,
+"question": "I need help with i.triglav",
+"keywords": ["help", "itriglav", "application"]
+},
+{
+"id": 466,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Password",
+"level3a": null,
+"question": "How to choose a suitable password?",
+"keywords": ["itriglav", "password", "general"]
+},
+{
+"id": 467,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Forgotten password",
+"level3a": null,
+"question": "What should I do if I forget my password?",
+"keywords": ["password change", "new password", "forgotten"]
+},
+{
+"id": 468,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Discount for consent",
+"level3a": null,
+"question": "How do I submit individual consent?",
+"keywords": ["discount", "consent", "itriglav", "activation"]
+},
+{
+"id": 469,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Discount for digital business",
+"level3a": null,
+"question": "Is there a discount for digital business in the Triglav package?",
+"keywords": ["itriglav", "discount", "combined discount", "triglav package"]
+},
+{
+"id": 470,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Discount for digital business",
+"level3a": null,
+"question": "How do I activate the discount for digital business?",
+"keywords": ["discount", "itriglav", "activation", "registration", "consent"]
+},
+{
+"id": 471,
+"level1": "Information",
+"level2": "i.triglav",
+"level3": "Forgotten password",
+"level3a": null,
+"question": "What do I do if I forget my password?",
+"keywords": ["username", "password", "itriglav", "wrong password"]
+},
+{
+"id": 472,
+"level1": "Information",
+"level2": "Triglav Health Application",
+"level3": "claim submission",
+"level3a": null,
+"question": "How do I file a claim for reimbursement of expenses?",
+"keywords": ["Triglav", "Health Insurance", "expense reimbursement", "claim"]
+},
+{
+"id": 473,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "technical issues",
+"level3a": null,
+"question": "How do I resolve synchronization issues with driving?",
+"keywords": ["Drajv", "synchronization", "driving"]
+},
+{
+"id": 474,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "technical issues",
+"level3a": null,
+"question": "What should I do if the start button does not work?",
+"keywords": ["start", "Drajv", "button", "start recording"]
+},
+{
+"id": 475,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "technical issues",
+"level3a": null,
+"question": "Why does the application turn off during the drive?",
+"keywords": ["drive", "application turns off", "Drajv"]
+},
+{
+"id": 476,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Technical issues",
+"level3a": null,
+"question": "Why is the Drajv application not working properly?",
+"keywords": ["GPS", "mobile data", "not working", "update", "application"]
+},
+{
+"id": 477,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General features of the application",
+"question": "What is the meaning of the Drajv application?",
+"keywords": ["drajv", "application", "telematics", "driving", "discount", "25 %"]
+},
+{
+"id": 478,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General features of the application",
+"question": "How does the Drajv application work?",
+"keywords": ["application", "recording", "driving", "speed limit", "forces", "tolerance"]
+},
+{
+"id": 479,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General features of the application",
+"question": "What does telematics mean?",
+"keywords": ["drajv", "telematics", "technology", "premium"]
+},
+{
+"id": 480,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Usage and operation of the application",
+"level3a": "General characteristics of the application",
+"question": "What are the functionalities of the renovated Drajv application?",
+"keywords": ["application", "drajv", "renovated", "functionalities"]
+},
+{
+"id": 481,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Use and operation of the application",
+"level3a": "General characteristics of the application",
+"question": "How much space on the phone's memory does the application occupy?",
+"keywords": ["memory", "space", "application", "drajv"]
+},
+{
+"id": 482,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Usage and functionality of the application",
+"level3a": "General characteristics of the application",
+"question": "How much battery does the application consume?",
+"keywords": ["consumption", "battery", "application", "drajv"]
+},
+{
+"id": 483,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General features of the application",
+"question": "Who can use Drajv?",
+"keywords": ["drajv", "usage", "smartphone", "users"]
+},
+{
+"id": 484,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Using and operating the application",
+"level3a": "General features of the application",
+"question": "How are rides graded?",
+"keywords": ["rating", "ride", "drajv"]
+},
+{
+"id": 485,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General features of the application",
+"question": "Why is it necessary to enable GPS or allow access to location services?",
+"keywords": ["GPS", "access to location services", "location", "recording", "application", "drajv"]
+},
+{
+"id": 486,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General features of the application",
+"question": "What does Dashcam - car camera mean?",
+"keywords": ["dashcam", "car camera", "recording", "driving", "drajv"]
+},
+{
+"id": 487,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "General characteristics of the application",
+"question": "How much does the Drajv application cost?",
+"keywords": ["chargeable", "price", "drajv", "application", "free"]
+},
+{
+"id": 488,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application use and operation",
+"level3a": "General features of the application",
+"question": "How much data transfer does the application use?",
+"keywords": ["data transfer", "data", "application", "drajv"]
+},
+{
+"id": 489,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Usage and operation of the application",
+"level3a": "General characteristics of the application",
+"question": "Which devices support the Drajv application?",
+"keywords": ["mobile device", "drajv", "ios", "iphone", "android", "google play", "huawei"]
+},
+{
+"id": 490,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "Recording the driving process and phone installation",
+"question": "How should I install the phone for proper operation?",
+"keywords": ["installation", "phone", "application", "drajv"]
+},
+{
+"id": 491,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "Recording the drive and phone placement",
+"question": "Is it allowed to move the phone during the drive?",
+"keywords": ["movement", "phone", "rating", "drive", "drajv"]
+},
+{
+"id": 492,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "Recording procedure and phone setup",
+"question": "Why can't I start recording the drive during an option?",
+"keywords": ["application activation", "recording drive", "drajv"]
+},
+{
+"id": 493,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operations",
+"level3a": "Recording procedure and phone installation",
+"question": "What is the procedure for recording the drive?",
+"keywords": ["drive recording", "completion", "drive", "stop", "drajv"]
+},
+{
+"id": 494,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "Recording process and phone installation",
+"question": "Is the use of the phone allowed during recording of the drive?",
+"keywords": ["phone usage", "driving", "recording", "drajv"]
+},
+{
+"id": 495,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Application usage and operation",
+"level3a": "Recording process and phone installation",
+"question": "What are the advantages of automatic driving recording?",
+"keywords": ["recording", "automatic", "drajv"]
+},
+{
+"id": 496,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Use and operation of the application",
+"level3a": "Update",
+"question": "How do I update the Drajv application?",
+"keywords": ["update", "application", "synchronization"]
+},
+{
+"id": 497,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Use and operation of the application",
+"level3a": "Update",
+"question": "Why does the app require an update to the Android WebView application even though it is already updated?",
+"keywords": ["update", "Android Web", "issue", "drajv"]
+},
+{
+"id": 498,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "reporting an error in the application",
+"level3a": null,
+"question": "Why does the Drajv app display the wrong driving score?",
+"keywords": ["speed limit", "traffic signs"]
+},
+{
+"id": 499,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "reporting an error in the application",
+"level3a": null,
+"question": "Why doesn't the Drajv application record the correct number of kilometers traveled?",
+"keywords": ["kilometers", "km", "number of kilometers traveled", "update"]
+},
+{
+"id": 500,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "reporting an application error",
+"level3a": null,
+"question": "Why can't I report an error?",
+"keywords": ["report", "error", "Drajv"]
+},
+{
+"id": 501,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "reporting an error in the application",
+"level3a": null,
+"question": "How do I report incorrect force measurements or phone movement?",
+"keywords": ["force", "driving", "application", "Drajv"]
+},
+{
+"id": 502,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Registration",
+"level3a": "installation",
+"question": "How do I install the Drajv application?",
+"keywords": ["login", "Drajv", "store", "installation"]
+},
+{
+"id": 503,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Registration",
+"level3a": "installation",
+"question": "Why can't I find the Drajv application in the store?",
+"keywords": ["Google", "Play", "store", "application", "drajv"]
+},
+{
+"id": 504,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Discount",
+"level3a": "access to account",
+"question": "Can I transfer my Drajv account to another person?",
+"keywords": ["transfer", "account", "other person"]
+},
+{
+"id": 505,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Access",
+"level3a": "account access",
+"question": "How do I transfer my Drajv application data to another phone?",
+"keywords": ["login", "Drajv", "new mobile device"]
+},
+{
+"id": 506,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Registration",
+"level3a": "registration",
+"question": "How do I complete the registration/login process in Drajv?",
+"keywords": ["registration", "login", "details", "drajv"]
+},
+{
+"id": 507,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Password",
+"level3a": null,
+"question": "How do I set the password for the Drajv app?",
+"keywords": ["password", "registration", "login", "drajv"]
+},
+{
+"id": 508,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Forgotten password",
+"level3a": "Forgotten password Drajv",
+"question": "What to do in case of a forgotten password?",
+"keywords": ["forgotten password", "Drajv", "password reset"]
+},
+{
+"id": 509,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Language change",
+"level3a": "change of data in the application",
+"question": "How do I change the language in the Drajv app?",
+"keywords": ["language", "application", "settings", "drajv"]
+},
+{
+"id": 510,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Changing data in the application",
+"level3a": "changing data in the application",
+"question": "How do I change data in the Drajv application?",
+"keywords": ["e-mail", "contact", "incorrect data", "data change", "contact details", "e-mail", "tax identification number", "application"]
+},
+{
+"id": 511,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv rewards/discounts",
+"level3a": null,
+"question": "What are the benefits of the Drajv app?",
+"keywords": ["benefits", "discount", "25 %", "drajv"]
+},
+{
+"id": 512,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "What are the conditions for receiving a Drajv discount?",
+"keywords": ["km", "kilometers", "rating", "drajv", "discount", "300 km"]
+},
+{
+"id": 513,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "How do I obtain a discount code?",
+"keywords": ["code", "discount", "collecting discount", "25 %", "request code", "drajv"]
+},
+{
+"id": 514,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Awards/Discounts",
+"level3a": null,
+"question": "Why can't I request a discount code?",
+"keywords": ["code", "Drajv", "discount", "issue"]
+},
+{
+"id": 515,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "Can I lose the already acquired Drajv discount?",
+"keywords": ["discount", "drajv", "acquired"]
+},
+{
+"id": 516,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "How can I check my current Drajv discount?",
+"keywords": ["code", "discount", "monthly progress", "drajv"]
+},
+{
+"id": 517,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "What are the limitations of the Drajv discount?",
+"keywords": ["code", "discount", "Drajv", "limitations"]
+},
+{
+"id": 518,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv rewards/discounts",
+"level3a": null,
+"question": "What is the highest possible Drajv discount?",
+"keywords": ["discount", "drajv", "maximum", "highest", "25 %"]
+},
+{
+"id": 519,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "Why can't I use the discount code?",
+"keywords": ["code", "Drajv", "discount"]
+},
+{
+"id": 520,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "Where can I find details about Drajv rewards?",
+"keywords": ["benefits", "drajv", "rewards"]
+},
+{
+"id": 521,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Awards/Discounts",
+"level3a": null,
+"question": "Where can I find the list of winners?",
+"keywords": ["drajv", "winners", "participation in prize game", "drawing", "challenges"]
+},
+{
+"id": 522,
+"level1": "Information",
+"level2": "Drajv",
+"level3": "Drajv Rewards/Discounts",
+"level3a": null,
+"question": "What is the procedure for participating in the prize game?",
+"keywords": ["prize game", "drajv", "participation"]
+},
+{
+"id": 523,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Towing or transportation of a vehicle",
+"level3a": null,
+"question": "Car shut off, car towing",
+"keywords": ["shut off during drive", "assistance", "towing"]
+},
+{
+"id": 524,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Towing or transportation of a vehicle",
+"level3a": null,
+"question": "Car without power, car towing",
+"keywords": ["without power", "vehicle", "assistance", "towing"]
+},
+{
+"id": 525,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Towing or transportation of vehicles",
+"level3a": null,
+"question": "Broken spring",
+"keywords": ["spring", "break", "assistance", "towing"]
+},
+{
+"id": 526,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Towing or transport of vehicle",
+"level3a": null,
+"question": "Transmission failure",
+"keywords": ["transmission", "assistance", "towing"]
+},
+{
+"id": 527,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Towing or transportation of the vehicle",
+"level3a": null,
+"question": "Clutch malfunction",
+"keywords": ["clutch", "assistance", "towing"]
+},
+{
+"id": 528,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Towing or transport of the vehicle",
+"level3a": null,
+"question": "Engine malfunction (warning lights, smoke from the engine)",
+"keywords": ["smoke from the engine", "engine lights", "assistance", "towing"]
+},
+{
+"id": 529,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "Traffic accident",
+"keywords": ["traffic accident", "collision", "automotive liability", "assistance", "towing", "service", "police"]
+},
+{
+"id": 530,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "Wildlife collision",
+"keywords": ["wildlife", "traffic accident", "assistance", "service", "police"]
+},
+{
+"id": 531,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "Collision with a vehicle",
+"keywords": ["collision", "traffic accident", "assistance"]
+},
+{
+"id": 532,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "Road slip",
+"keywords": ["slip", "traffic accident", "assistance", "service"]
+},
+{
+"id": 533,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "In which cases do I need to notify the police?",
+"keywords": ["traffic accident", "police"]
+},
+{
+"id": 534,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "How to handle a traffic accident?",
+"keywords": ["traffic accident", "damage", "police", "policy", "3 days"]
+},
+{
+"id": 535,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Traffic accident",
+"level3a": null,
+"question": "Why is it necessary to fill out a European accident report?",
+"keywords": ["European report", "traffic accident", "material damage", "claim notification", "police"]
+},
+{
+"id": 536,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "On-site assistance (SPI)",
+"level3a": null,
+"question": "The vehicle does not start",
+"keywords": ["vehicle does not start", "battery", "assistance", "roadside assistance", "SPI"]
+},
+{
+"id": 537,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "On-site assistance (SPI)",
+"level3a": null,
+"question": "Empty battery",
+"keywords": ["battery", "empty", "assistance", "roadside help", "SPI"]
+},
+{
+"id": 538,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Help at the scene (SPI)",
+"level3a": null,
+"question": "Flat tire",
+"keywords": ["tire", "rubber", "deflated", "assistance", "roadside help", "SPI"]
+},
+{
+"id": 539,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "On-site assistance (SPI)",
+"level3a": null,
+"question": "Changing lights",
+"keywords": ["changing lights", "assistance", "roadside help", "SPI"]
+},
+{
+"id": 540,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Replacement vehicle",
+"level3a": null,
+"question": "Arranging a replacement vehicle",
+"keywords": ["replacement vehicle", "assistance", "plus", "comfort", "service", "traffic accident", "RAC"]
+},
+{
+"id": 541,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Replacement vehicle",
+"level3a": null,
+"question": "I want to extend the rental of the replacement vehicle",
+"keywords": ["extension of rental", "replacement vehicle", "assistance", "plus", "comfort", "rental conditions", "reminder"]
+},
+{
+"id": 542,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Replacement vehicle",
+"level3a": null,
+"question": "Returning a replacement vehicle",
+"keywords": ["replacement vehicle", "assistance", "plus", "comfort", "rental conditions", "reminder"]
+},
+{
+"id": 543,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Vehicle rescue during excursion / skidding off the road",
+"level3a": null,
+"question": "Stuck vehicle in mud, snow, ditch",
+"keywords": ["mud", "snow", "ditch", "stuck", "assistance", "vehicle rescue"]
+},
+{
+"id": 544,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Removal of the consequences of refueling with the wrong fuel",
+"level3a": null,
+"question": "Refueling with the wrong fuel",
+"keywords": ["wrong fuel", "emptying and cleaning the tank", "fuel cleaner", "costs"]
+},
+{
+"id": 545,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Help with vehicle key problems",
+"level3a": null,
+"question": "Locked keys in the vehicle",
+"keywords": ["keys locked", "spare keys", "assistance"]
+},
+{
+"id": 546,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Vehicle key issues assistance",
+"level3a": null,
+"question": "Locked person in the vehicle",
+"keywords": ["spare keys", "assistance"]
+},
+{
+"id": 547,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Help with vehicle key issues",
+"level3a": null,
+"question": "Lost, stolen keys",
+"keywords": ["lost keys", "stolen keys", "assistance", "police"]
+},
+{
+"id": 548,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Help with vehicle key issues",
+"level3a": null,
+"question": "Damaged keys, unlocking card",
+"keywords": ["damaged keys", "spare keys", "unlocking card", "spare keys", "battery", "assistance"]
+},
+{
+"id": 549,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Theft (of parts) of the vehicle",
+"level3a": null,
+"question": "Stolen vehicle, part of the vehicle",
+"keywords": ["theft", "vehicle", "assistance"]
+},
+{
+"id": 550,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Fuel delivery for the vehicle",
+"level3a": null,
+"question": "Running out of fuel",
+"keywords": ["out of fuel", "gasoline", "diesel", "fuel costs", "assistance", "fuel delivery", "vehicle"]
+},
+{
+"id": 551,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Delivery of spare parts abroad",
+"level3a": null,
+"question": "Delivery of a spare part abroad",
+"keywords": ["spare parts", "abroad", "repair", "payment", "assistance"]
+},
+{
+"id": 552,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Customs clearance and transport to scrap/dismantling or transfer of damaged vehicle in a foreign country",
+"level3a": null,
+"question": "Customs clearance of a vehicle",
+"keywords": ["transport to scrap", "dismantling", "vehicle transfer"]
+},
+{
+"id": 553,
+"level1": "Assistance",
+"level2": "Automobile",
+"level3": "Customs clearance and transport to the scrap yard/dismantling or abandonment of damaged vehicles in a foreign country",
+"level3a": null,
+"question": "Transport of damaged vehicles to a scrap yard abroad",
+"keywords": ["customs clearance", "scrap yard", "abandonment", "assistance"]
+},
+{
+"id": 554,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Transportation of persons/all insureds",
+"level3a": null,
+"question": "Transport to service/home/hotel",
+"keywords": ["transport", "taxi", "public transport", "towing contractor"]
+},
+{
+"id": 555,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Provision of funds",
+"level3a": null,
+"question": "Missing funds, provisioning of funds",
+"keywords": ["theft", "funds", "wallet", "money", "inability to pay", "provision of funds", "assistance"]
+},
+{
+"id": 556,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Substitute driver abroad",
+"level3a": null,
+"question": "Substitute driver",
+"keywords": ["substitute driver", "injury", "inability to drive", "doctor's opinion"]
+},
+{
+"id": 557,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Help in case of death abroad",
+"level3a": null,
+"question": "Organization of transportation of the deceased from abroad",
+"keywords": ["assistance to relatives", "traffic accident", "transportation of deceased person"]
+},
+{
+"id": 558,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Visiting relatives of injured policyholder abroad",
+"level3a": null,
+"question": "Visiting a family member who is being treated abroad",
+"keywords": ["visit", "relatives", "injury", "abroad", "hospital", "return ticket", "public transport"]
+},
+{
+"id": 559,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "Accompaniment of minor insured persons",
+"level3a": null,
+"question": "Organization of transportation home for minors",
+"keywords": ["traffic accident", "hospital", "death", "transportation costs", "public transport"]
+},
+{
+"id": 560,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "General Information AA",
+"level3a": null,
+"question": "What are the conditions for using automotive assistance?",
+"keywords": ["automotive assistance", "assistance center", "assistance case", "comfort", "plus", "remediation"]
+},
+{
+"id": 561,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "General Information AA",
+"level3a": null,
+"question": "Why are the lines busy?",
+"keywords": ["automotive assistance", "assistance center", "assistance case", "advertisements", "operator"]
+},
+{
+"id": 562,
+"level1": "Assistance",
+"level2": "Automotive",
+"level3": "General Information AA",
+"level3a": null,
+"question": "Can I call for assistance if I am not your policyholder?",
+"keywords": ["call", "080 28 64", "customer", "assistance service", "assistance"]
+},
+{
+"id": 563,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Craft service - Failure of water supply or sewage system",
+"level3a": null,
+"question": "Leaking from the pipe",
+"keywords": ["water", "plumbing", "installer", "home assistance"]
+},
+{
+"id": 564,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Craft service - Plumbing or sewage failure",
+"level3a": null,
+"question": "Flood, water leakage",
+"keywords": ["flood", "plumbing", "installer", "home assistance"]
+},
+{
+"id": 565,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Craftsmanship service - Plumbing or sewage malfunction",
+"level3a": null,
+"question": "Blocked drain",
+"keywords": ["drain", "plumbing", "installer", "home assistance"]
+},
+{
+"id": 566,
+"level1": "Assistance",
+"level2": "Domestic",
+"level3": "Craft service - Electrical wiring malfunction",
+"level3a": null,
+"question": "Electricity malfunction",
+"keywords": ["electricity", "electrical wiring", "electrician", "domestic assistance"]
+},
+{
+"id": 567,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Craftsman service - Heating system malfunction",
+"level3a": null,
+"question": "Problems with the burner, radiators",
+"keywords": ["radiator", "installers in case of heating system malfunctions,"]
+},
+{
+"id": 568,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Craft service - Roof or attic damage",
+"level3a": null,
+"question": "Roof damage",
+"keywords": ["roof", "roofer", "home assistance"]
+},
+{
+"id": 569,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Home protection",
+"level3a": null,
+"question": "Home protection",
+"keywords": ["home protection", "absence", "burglary", "home assistance"]
+},
+{
+"id": 570,
+"level1": "Assistance",
+"level2": "Domestic",
+"level3": "Transportation and temporary accommodation in a hotel",
+"level3a": null,
+"question": "Temporary accommodation in a hotel",
+"keywords": ["transport", "domestic assistance"]
+},
+{
+"id": 571,
+"level1": "Assistance",
+"level2": "Domestic",
+"level3": "Transport and temporary accommodation in a hotel",
+"level3a": null,
+"question": "Transport",
+"keywords": ["accommodation in a hotel", "conditions", "costs", "domestic assistance"]
+},
+{
+"id": 572,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "Opening entrance doors",
+"level3a": null,
+"question": "Trouble with opening entrance doors",
+"keywords": ["entrance door", "door opening", "lock", "locksmith", "home assistance"]
+},
+{
+"id": 573,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "General information DA",
+"level3a": null,
+"question": "Information about veterinary services",
+"keywords": ["information", "veterinary", "domestic animals", "home assistance"]
+},
+{
+"id": 574,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "General Information DA",
+"level3a": null,
+"question": "Contractor for refrigerator repair",
+"keywords": ["information", "contractor", "repair", "refrigerator", "home assistance"]
+},
+{
+"id": 575,
+"level1": "Assistance",
+"level2": "Domestic",
+"level3": "General information DA",
+"level3a": null,
+"question": "Contractor for washing/dishwashing/drying machine repair",
+"keywords": ["information", "contractor", "repair", "washing machine", "dishwasher", "drying machine", "domestic assistance"]
+},
+{
+"id": 576,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "General information DA",
+"level3a": null,
+"question": "Contractor for freezer repair",
+"keywords": ["information", "contractor", "repair", "freezer", "home assistance"]
+},
+{
+"id": 577,
+"level1": "Assistance",
+"level2": "Home",
+"level3": "General information DA",
+"level3a": null,
+"question": "Contractor for TV repair",
+"keywords": ["information", "contractor", "repair", "television", "home assistance"]
+},
+{
+"id": 578,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Help in case of computer/profile intrusion",
+"level3a": null,
+"question": "Intrusion into computer/profile",
+"keywords": ["intrusion", "profile", "social network", "Facebook", "Instagram", "Gmail", "Snapchat", "Twitter", "computer assistance"]
+},
+{
+"id": 579,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Help with restoring a computer/profile",
+"level3a": null,
+"question": "Trouble logging into a computer profile",
+"keywords": ["login", "Gmail", "Outlook", "profile", "computer assistance"]
+},
+{
+"id": 580,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Help with restoring computer/profile",
+"level3a": null,
+"question": "Issues with computer audio",
+"keywords": ["sound", "settings", "computer assistance"]
+},
+{
+"id": 581,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Help with computer/profile restoration",
+"level3a": null,
+"question": "Problems with the image on the computer",
+"keywords": ["image", "settings", "screen", "computer assistance"]
+},
+{
+"id": 582,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Help with restoring computer/profile",
+"level3a": null,
+"question": "Printer issues",
+"keywords": ["printer", "settings", "computer assistance"]
+},
+{
+"id": 583,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Diagnostics and computer cleaning",
+"level3a": null,
+"question": "Cleaning the computer due to a virus",
+"keywords": ["diagnostics", "cleaning", "virus", "computer assistance"]
+},
+{
+"id": 584,
+"level1": "Assistance",
+"level2": "Computer",
+"level3": "Installation of antivirus software",
+"level3a": null,
+"question": "Installation of antivirus software",
+"keywords": ["antivirus software", "firewall", "protection", "virus", "computer assistance"]
+},
+{
+"id": 585,
+"level1": "Assistance",
+"level2": "Micro transport vehicles ",
+"level3": "On-site assistance (SPI)",
+"level3a": null,
+"question": "Battery depletion on an electric scooter",
+"keywords": ["battery", "electric scooter", "assistance", "roadside help"]
+},
+{
+"id": 586,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "On-the-spot assistance (SPI)",
+"level3a": null,
+"question": "Punctured tire",
+"keywords": ["punctured tire", "wheel", "assistance", "roadside assistance"]
+},
+{
+"id": 587,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "On-site assistance (SPI)",
+"level3a": null,
+"question": "Punctured tire",
+"keywords": ["punctured tire", "bicycle", "assistance", "roadside assistance"]
+},
+{
+"id": 588,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "Assistance at the scene (SPI)",
+"level3a": null,
+"question": "Broken gearshift",
+"keywords": ["gearshift", "bike", "assistance", "roadside assistance"]
+},
+{
+"id": 589,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "On-site assistance (SPI)",
+"level3a": null,
+"question": "Broken chain on a bicycle",
+"keywords": ["chain", "spare parts", "bicycle", "assistance", "roadside help"]
+},
+{
+"id": 590,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "Transport of micro transport vehicle",
+"level3a": null,
+"question": "Transportation of the bike to the service",
+"keywords": ["transport", "service", "authorized service", "assistance"]
+},
+{
+"id": 591,
+"level1": "Assistance",
+"level2": "Micro transportation vehicles",
+"level3": "Transportation of persons/insured persons",
+"level3a": null,
+"question": "Transport to service/hotel/home",
+"keywords": ["transport", "residence", "hotel", "provider", "public transport", "taxi", "assistance"]
+},
+{
+"id": 592,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "Hotel accommodation",
+"level3a": null,
+"question": "Hotel accommodation",
+"keywords": ["hotel", "accommodation", "conditions", "overnight stay", "150 km", "assistance"]
+},
+{
+"id": 593,
+"level1": "Assistance",
+"level2": "Micro transport vehicles",
+"level3": "General information AMPS",
+"level3a": null,
+"question": "Information about assistance for micro transport vehicles",
+"keywords": ["assistance", "micro transport vehicle", "assistance case"]
+},
+{
+"id": 594,
+"level1": "Assistance",
+"level2": "After injury",
+"level3": "Specialist examination/treatment",
+"level3a": null,
+"question": "Specialist examination/treatment",
+"keywords": ["health point", "TZZ", "specialist examination", "assistance", "after injury", "080 26 64"]
+},
+{
+"id": 595,
+"level1": "Assistance",
+"level2": "After injury",
+"level3": "Diagnostic examination",
+"level3a": null,
+"question": "Diagnostic examination",
+"keywords": ["health point", "TZZ", "diagnostic examination", "assistance", "after injury", "080 26 64"]
+},
+{
+"id": 596,
+"level1": "Assistance",
+"level2": "After injury",
+"level3": "Outpatient rehabilitation, therapies",
+"level3a": null,
+"question": "Outpatient rehabilitation, therapies",
+"keywords": ["outpatient rehabilitation", "therapies", "health point", "TZZ", "assistance", "after injury", "080 26 64"]
+},
+{
+"id": 597,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Towing of watercraft",
+"level3a": null,
+"question": "Towing of watercraft",
+"keywords": ["watercraft", "assistance", "towing"]
+},
+{
+"id": 598,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Delivery of spare parts for the watercraft",
+"level3a": null,
+"question": "Delivery of spare parts for the watercraft",
+"keywords": ["spare parts", "watercraft", "assistance", "delivery"]
+},
+{
+"id": 599,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Fuel delivery for watercraft",
+"level3a": null,
+"question": "Fuel delivery for watercraft",
+"keywords": ["watercraft", "fuel delivery", "assistance"]
+},
+{
+"id": 600,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Help with engine start",
+"level3a": null,
+"question": "Help with engine start",
+"keywords": ["assistance", "engine start", "help"]
+},
+{
+"id": 601,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Assistance in rescuing a lightly grounded vessel",
+"level3a": null,
+"question": "Assistance in rescuing a lightly grounded vessel",
+"keywords": ["grounded vessel", "rescue", "assistance"]
+},
+{
+"id": 602,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Assistance in case of tangled rope in propeller",
+"level3a": null,
+"question": "Assistance in case of tangled rope in propeller",
+"keywords": ["rope", "propeller", "assistance", "help"]
+},
+{
+"id": 603,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Transport of policyholders by sea",
+"level3a": null,
+"question": "Transport of policyholders by sea",
+"keywords": ["transport", "assistance", "policyholders", "Sea Help"]
+},
+{
+"id": 604,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "Information about weather conditions in the navigation area",
+"level3a": null,
+"question": "Information about weather conditions in the navigation area",
+"keywords": ["assistance", "watercraft", "general information", "Sea Help", "+385 919 112 112"]
+},
+{
+"id": 605,
+"level1": "Assistance",
+"level2": "Watercraft",
+"level3": "General information on assistance for watercraft",
+"level3a": null,
+"question": "Information on assistance for watercraft",
+"keywords": ["assistance", "watercraft", "general information", "Sea Help", "+385 919 112 112"]
+}
+]

@@ -14,7 +14,7 @@ openai.api_version = "2022-12-01"
 openai.api_base = os.getenv('OPENAI_API_BASE')
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-COMPLETION_MODEL = 'text-davinci-003'
+COMPLETION_MODEL = 'TextDavinci003'
 
 @retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(10))
 def run_prompt(prompt, max_tokens=1000):

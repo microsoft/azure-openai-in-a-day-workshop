@@ -1,0 +1,607 @@
+id;level1;level2;level3;level3a;question;keywords
+0;Information;Change of contact details;Change of contact details;;How do I arrange a name/surname change?;name, surname, personal data, contact, request, change
+1;Information;Change of contact details;Change of contact details;;How do I arrange a change of contact details?;personal data, contact, request, change
+2;Information;Change of contact details;Change of contact details;;How do I arrange a phone number change?;phone number, phone, personal data, contact, request, change
+3;Information;Change of contact details;Change of contact details;;How do I arrange a change of e-mail/email address?;e-mail, email, e-address, contact, request, change, application, itriglav
+4;Information;Change of contact details;Change of contact details;;How do I arrange a change of personal data?;address, mail, change, personal data, request, invoice, application, itriglav
+5;Information;Change of contact details;Change of contact details;;How do I arrange a change of address for receiving mail?;change of data, change, payment, request, address
+6;Information;Change of contact details;Change of payment method;;How do I arrange a change of payment method?;UPN form, standing order, direct debit, invoice payment, payment, e-invoice, change
+7;Information;Legal procedures;Bankruptcy - individuals;;Checking customer's insurance;insurance, bankruptcy, court
+8;Information;Legal procedures;Bankruptcy - individuals;;Checking debts for the client;debt, assets, bankruptcy, court
+9;Information;Legal procedures;Bankruptcy - individuals;;Checking the financial situation of the client;property, policy status, bankruptcy, court
+10;Information;Legal proceedings;Bankruptcy / liquidation / forced settlement of a company;;Checking the financial status for a company;assets, liquidation, settlement, bankruptcy, court
+11;Information;Legal procedures;Bankruptcy / liquidation / compulsory settlement of a company;;Checking debts for a company;debt, liquidation, settlement, bankruptcy, court
+12;Information;Legal procedures;Hearing, court fee, password;;Interest in the hearing;cancellation, change of hearing date, payment of court fee, password
+13;Information;Legal Procedures;Data for KPK;;Request for review of contracts concluded with Triglav Insurance;review of contracts, corruption, Official Gazette, data for KPK
+14;Information;Claims / payments;Execution;;Receiving an execution;execution, decree status, seizure, execution, reminder, credit, premium
+15;Information;Claims / payments;Enforcement;;Checking debts;debt, status, claim, default interest, reminder, credit
+16;Information;Claims / Payments;Regress Claims / Regress Debt;;Blocked account, handling of claims;blocked account, reminder, credit, claim
+17;Information;Claims / payments;Overpayment of services;;Overpaid premium;overpayment, refund, amount, reference, IBAN, premium
+18;Information;Claims / payments;Double premium deduction;;Double premium deduction;double deduction, overpayment, premium
+19;Information;Claims / payments;Refund of services;;How can I cancel my policy?;cancellation, documentation, e-mail, costs
+20;Information;Claims / payments;Refund of services;;Is the policy terminated? (No);termination, documentation, proof, policy
+21;Information;Claims / payments;Refund of services;;Is the policy terminated? (Yes);termination, payment date, termination date, policy
+22;Information;Claims / payments;Reminders;;Information about the reminder;reminder, policy, premium, personal insurance, policy crossing, payment
+23;Information;Claims / payments;Debt status;;What is the debt status?;debt, status, payment
+24;Information;Claims / payments;Debt write-off / installment payment;;What are the options for repaying the debt?;debt, payment, installments, delay, premium
+25;Information;Claims / payments;Account card/IOP;;What is the status of installments/payments?;instalment status, payment status, account card
+26;Information;Claims / Payments;Invoice / Payments / Refunds;;Is the invoice settled/ paid?;information, account records, reason for receipt, settled invoice
+27;Information;Claims / payments;Additional payments (certificate / explanation);;What are the options for additional payments into insurance?;investment insurance, investment policy, certificate, explanation, payment, monthly premium
+28;Information;Claims / Payments;Additional payments (certificate / explanation);;What are the options for a one-time payment in mixed life insurance?;mixed life insurance, one-time payment, monthly premium, certificate, explanation
+29;Information;Claims / payments;Additional payments (confirmation / explanation);;How can I lower the premium with a one-time payment?;mixed life insurance, one-time payment, monthly premium, confirmation, explanation
+30;Information;Claims / payments;Payment date / premium due date;;What is the deadline for paying the premium?;payment deadline, reminder, premium
+31;Information;Claims / payments;Payment date / premium due date;;What are the consequences of late payment?;payment deadline, reminder, debt, claim, enforcement
+32;Information;Claims / payments;Discounts;;How do I redeem a coupon?;online discount, coupons
+33;Information;Claims / Payments;Triglav package;CATEGORIZATION - CANNOT CHANGE;What is the Triglav package?;Triglav package, discount, 40%
+34;Information;Claims / Payments;Triglav package;;What do I gain by subscribing to the Triglav package?;Triglav package, inclusion, conditions
+35;Information;Claims / Payments;Triglav package;;Which insurances can be included in the Triglav package?;Triglav package, discount, insurances
+36;Information;Claims / payments;Triglav package;;How many insurance policies can I use to create my Triglav package? What about my son, who would join later?;Triglav package, inclusion, conditions
+37;Information;Claims / Payments;Triglav package;;What is the highest discount I can get in the Triglav package?;
+38;Information;Claims / Payments;Triglav package;;How can I collect the highest Triglav package discount?;
+39;Information;Claims / payments;Triglav package;;Who can be the holder of the Triglav package?;Triglav package, holder, conditions
+40;Information;Claims / Payments;Triglav package;;Can I also create a Triglav package if I only have a savings plan opened with Triglav Funds?;Triglav package, inclusion, conditions, funds
+41;Information;Claims / payments;Triglav package;;How can I arrange the Triglav package discount?;Triglav package, package creation, meeting, identification number
+42;Information;Claims / payments;Triglav package;;What is the amount of the Triglav package discount?;Triglav package, discount amount, property, life, health insurance, percentage, discount
+43;Information;Claims / payments;Triglav package;;What does the loyalty discount in the Triglav package mean?;
+44;Information;Claims / Payments;Triglav package;;What counts as a digital business category?;
+45;Information;Claims / payments;Triglav package;;Can I count on the Triglav package discount regardless of the premium amount?;
+46;Information;Claims / payments;Triglav package;;I have a car on leasing. I also have insurance arranged through the leasing company. Can I include this insurance in my Triglav package?;
+47;Information;Claims / payments;Triglav package;;We have concluded an annual travel insurance policy online, which only starts in a week. Can I include the insurance in the Triglav package?;
+48;Information;Claims / Payments;Triglav package;;What is the minimum premium amount on the policy for the insurance to count towards the Triglav package?;
+49;Information;Claims / payments;Triglav package;;Who in the family is entitled to the Triglav package discount?;Triglav package, discount amount, family members, beneficiaries
+50;Information;Loans;Encumbrance / Release;;Is the encumbrance settled? (yes);certificate, expiration, encumbrance, release, loan
+51;Information;Loans;Vinkulation / devinkulation;;Is the vinkulation arranged? (no);certificate, duration, vinkulation, devinkulation, loan
+52;Information;Loans;Vinkulation / devinkulation;;Is the devinculation settled? (yes);devinkulation, loan payment
+53;Information;Loans;Vinkulation / Devinkulation;;Is the devinkulation arranged? (no);devinkulation, loan payment
+54;Information;Credits;Questions / problems of borrowers;;What is the role of the insurance company in a loan?;loan, purchase, credit insurance, borrower's insurance
+55;Information;Insurance policies;Information offer;;What kind of price/premium can I expect?;information offer, premium price, premium amount, coverage, competition, agent, branch, online signing
+56;Information;Insurance policies;Informational offer;;How can I obtain an informational offer for insurance?;informational offer, premium price, agent, branches
+57;Information;Insurance policies;Pension insurances;Individual voluntary pension insurance;Where can I get additional information about the insurance?;individual pension insurance, terms, premium price, premium amount, coverage, payout, relief, comparison, brochure
+58;Information;Insurance policies;Pension insurance;Individual voluntary pension insurance;What are the options for additional payments in insurance?;additional payment, relief, income tax refund, conditions, premium amount
+59;Information;Insurance policies;Pension insurance;Individual voluntary additional pension insurance;Where can I get additional information about the insurance?;individual pension insurance, conditions, premium price, premium amount, coverage, payout, relief, comparison, brochure
+60;Information;Insurance policies;Pension insurance;Individual voluntary supplementary pension insurance;What are the options for additional payments to insurance?;additional payment, membership, relief, income tax refund, conditions, premium amount, maximum premium
+61;Information;Insurance policies;Pension insurance;Individual voluntary additional pension insurance;What is the effect of tax relief?;tax relief, effect, informative calculation, amount of refunded income tax, pension
+62;Information;Insurance policies;Pension insurance;Voluntary additional pension insurance online - I.PDPZ;How can I conclude insurance?;PDPZ, concluding insurance, options, web, branch, mail, accession statement, form
+63;Information;Insurance policies;Pension insurance;Collective voluntary pension insurance - PPZ;What are the options for additional payments into insurance?;collective, pension insurance, additional payments, employer, employee
+64;Information;Insurance policies;Pension insurance;Collective voluntary supplementary pension insurance - PDPZ;Where can I get additional information about insurance?;collective, pension insurance, brochure, general information, basic information
+65;Information;Insurance policies;Pension insurance;Collective voluntary supplementary pension insurance - PDPZ;How can I terminate the policy? (I am employed at ZT).;policy termination, ZT employee, pension insurance
+66;Information;Insurance policies;Pension insurance;Collective voluntary supplementary pension insurance - PDPZ;What are the options for early payout?;early payout, employed ZT, pension insurance
+67;Information;Insurance policies;Investment and savings insurance;Investment life insurance;How to determine the insurance period?;investment, life insurance, insurance period, duration, 10 years, payout, return, conclusion
+68;Information;Insurance policies;Investment and savings insurance;Investment life insurance;What does open insurance period mean?;open insurance period, investment insurance, flex
+69;Information;Insurance policies;Investment and savings insurance;Single premium investment insurance;How can I submit an application for payment?;application, payment, working day, conditions
+70;Information;Insurance policies;Investment and investment insurance;Abc life insurance;When can I file a request for payment?;payment, 10 years, application
+71;Information;Insurance policies;Investment and savings insurances;Ilirika dynamic investment life insurance;How long does the insurance period last?;insurance period, investment insurance
+72;Information;Insurance policies;Investment and savings insurance;Investment insurance flex;What are the options for additional payments into the insurance?;flex insurance, additional payment, prior notice
+73;Information;Insurance policies;Investment and savings insurance;Investment insurance flex for young people;Who is the policyholder?;policyholder, young person, child, investment insurance
+74;Information;Insurance policies;Investment and savings insurance;Flexible investment insurance for young people;How do I arrange authorization for making changes to the policy?;authorized person, completed authorization, itriglav, changes to the policy, statement of legal representative, flex for young people
+75;Information;Insurance policies;Investment and savings insurance;Investment insurance flex for adults;What to do in case of the insured's death?;insured's death, notification procedure, beneficiary, death registry, form
+76;Information;Insurance policies;Investment and investment insurance;ilirika Dynamic Flex investment insurance;How long is the insurance period?;insurance period, investment insurance, ilirika, Dynamic Flex
+77;Information;Insurance policies;Investment and savings insurance;Online investment insurance flex - i.flex;How can I conclude insurance?;flex, online insurance conclusion, iflex, itriglav
+78;Information;Insurance policies;Investment and savings insurance;Funds;How do I change funds?;change, funds, written request, triglav funds
+79;Information;Insurance policies;Investment and investment insurance;Funds;Where can I check the details of an executed investment?;access, value, property, funds
+80;Information;Insurance policies;Investment and savings insurance;Funds;How can I check the value of asset units (VEP) of funds?;VEP, assets, investment insurance, funds
+81;Information;Insurance policies;Investment and investment insurances;Funds;How do I check the status of the funds?;NAV, assets, investment insurance, funds, status
+82;Information;Insurance policies;Investment and investment insurance;Funds;Where can I get more information about funds?;triglav funds, information, funds
+83;Information;Insurance policies;Savings and investment insurance;Funds;What is a savings plan?;savings plan, funds, Triglav funds, information
+84;Information;Insurance policies;Investment and savings insurance;Funds;What are the advantages of a savings plan?;savings plan, funds, Triglav funds, advantages
+85;Information;Insurance policies;Investment and savings insurance;Funds;What investment combinations can I choose from?;savings plan, funds, Triglav funds, plan selection, combinations
+86;Information;Insurance policies;Vehicle insurance;Young driver insurance;What is young driver insurance related to?;young driver, car insurance, driver, AO, vehicle
+87;Information;Insurance policies;Vehicle insurance;Legal protection insurance;What does car legal protection insurance offer me?;legal protection, perpetrator, repair, car insurance
+88;Information;Insurance policies;Vehicle insurance;Casco insurance;What does partial combination offer me in car insurance?;partial casco, car insurance, combination
+89;Information;Insurance policies;Vehicle insurance;Casco insurance;What are the benefits of Casco insurance?;casco insurance, benefits, car insurance
+90;Information;Insurance policies;Vehicle insurance;Casco insurance;How do I insure an older vehicle?;casco insurance, age, car insurance, partial casco, older vehicles
+91;Information;Insurance policies;Vehicle insurance;Automobile liability insurance (mandatory car insurance);How do I transfer a bonus from another insurance company?;bonus, comprehensive insurance, ownership, car insurance, transfer
+92;Information;Insurance policies;Vehicle insurance;Car insurance (mandatory car insurance);What does mandatory car insurance cover?;AO, car insurance liability, mandatory insurance, damage, comprehensive insurance
+93;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Is the young driver only for personal vehicles or also up to 3.5t, which can be driven with a B category?;AO, policy, young driver, personal car, cargo vehicle
+94;Information;Insurance policies;Vehicle insurance;Motor TPL insurance (compulsory car insurance);Is it a problem if the driver is not the policyholder? What if the policyholder is a passenger and the driver is someone else? Is the policyholder covered for bodily injury under the TPL insurance? The terms and conditions talk about the policyholder, not the driver.;TPL, policy, young driver, bodily injury, coverage
+95;Information;Insurance policies;Vehicle insurance;Automobile liability insurance (compulsory car insurance);Young driver policy for legal entities - is an individual policy sufficient, or will the company have to conclude an additional policy for the young driver?;AO, policy, young driver
+96;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);"I hope you didn't overly generalize the coverage exclusions for ""races"" in AOD. Rally races, for example, take place in normal traffic between speed trials, so the race car needs insurance like a regular personal vehicle (?).";AO, policy, young driver, vehicle usage
+97;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Are close family members living at the same address (partner, children, parents) also covered by AO insurance?;
+98;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Is the use of a seat belt a condition for compensation payment for bodily injuries in passengers?;
+99;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);In case a car trailer up to 750 kg, which is detached from the vehicle, starts moving on its own on a sloping terrain and causes damage - how is the coverage?;
+100;Information;Insurance policies;Vehicle insurances;Motor vehicle liability insurance (mandatory car insurance);For the policy I am concluding in 2022, is the difference considered between 2021 and 2020? But in this case, when I conclude this policy, the vehicle has not yet undergone a technical inspection, and as a result, there is no current year's status in the eMRLV?;
+101;Information;Insurance policies;Vehicle insurance;Motor vehicle liability insurance (mandatory car insurance);How is the mileage discount calculated if the customer first arranges insurance and then goes for a technical inspection?;
+102;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Is it necessary to charge a surcharge for young drivers at driving schools?;
+103;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);What about discounts on hybrids and electric vehicles (fuel type discount)?;
+104;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Is it possible to insure harvesters only for the seasonal period?;
+105;Information;Insurance policies;Vehicle insurance;Motor liability insurance (mandatory car insurance);What about the surcharge for a replacement vehicle, does it still continue as it was not mentioned among the surcharges?;
+106;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Is the diagnosis of a 'head injury' justification for not wearing a seatbelt and a basis for a 25% reduction?;
+107;Information;Insurance policies;Vehicle insurance;Motor vehicle liability insurance (mandatory car insurance);Discount based on fuel type - gasoline -5%. This seems absurd or discriminatory to diesel vehicle owners, as fuel types certainly do not affect safety or damage amount.;
+108;Information;Insurance policies;Vehicle insurance;Automobile liability insurance (mandatory car insurance);So drivers who have been driving diesel vehicles for more than 20 years without an accident are not eligible for this discount? Are drivers who drive petrol vehicles with very high kW and many km eligible?;
+109;Information;Insurance policies;Vehicle insurances;Motor liability insurance (mandatory car insurance);Competitive insurance company Sava has a price for young drivers AO, AO+, AKA 104 EUR, with our Triglav package discount, e.g., 11%, it comes out to 142 EUR. Will the price remain the same or will we be competitive in the future?;
+110;Information;Insurance policies;Vehicle insurance;Motor liability insurance (mandatory car insurance);What about the case of semi-trailers that cover few kilometers?;
+111;Information;Insurance policies;Vehicle insurance;Motor liability insurance (mandatory car insurance);Hybrid and electric vehicles - issues when kW values differ on homologation and traffic permit?;
+112;Information;Insurance policies;Vehicle insurance;Car liability insurance (mandatory car insurance);Is there a surcharge for replacement vehicles - in the case of a tow truck, whether or not it performs the towing service?;
+113;Information;Insurance policies;Vehicle insurance;Motor vehicle liability insurance (mandatory car insurance);"Young driver - for example, mother has a vehicle registered in her name as an individual, father as a company. If the child drives the mother's vehicle, they need a young driver policy; if they drive the father's vehicle, they don't need this policy because the additional payment is already made with one policy?";
+114;Information;Insurance policies;Vehicle insurance;Motor vehicle liability insurance (mandatory car insurance);Have you arranged for four-wheelers that are homologated as a tractor and are insured under PS 04? They are not included in the catalog for tractors, and we have difficulty determining the price. However, you can find them in the catalog for motorcycles.;
+115;Information;Insurance policies;Vehicle insurance;Motor third-party liability insurance (mandatory car insurance);Considering the cancellation of the 20% surcharge for legal entities, will ZT refund the premium on existing policies?;
+116;Information;Insurance policies;Vehicle insurance;Insurance of micro-transportation;What is the price of electric bike insurance?;electric bike, premium price, micro transportation, insurance, AvtoMobilno
+117;Information;Insurance policies;Small animal insurance;Pet insurance;What are the coverage options for dog insurance?;dog insurance, standard, standard+, extraordinary, coverage
+118;Information;Insurance policies;Agricultural insurance;Insurance of crops and fruits;What does the insurance cover?;agricultural insurance, general, coverage, farm insurance, fruits, crops
+119;Information;Insurance policies;Agricultural insurance;Insurance of crops and fruits;What additional coverages can I insure?;scope, agricultural insurance, coverage, additional coverage, farm insurance, fruits, crops
+120;Information;Insurance policies;Agricultural insurance;Insurance of crops and fruits;What does the insurance not cover?;coverage, agricultural insurance, diseases, excludes, farm, fruits, crops
+121;Information;Insurance policies;Agricultural insurance;Crops and fruits insurance;What are the coverage limitations?;coverage, limited, product value, sum insured, agricultural insurance, rural, fruits, crops, participation, deductible
+122;Information;Insurance policies;Agricultural insurance;Insurance of crops and fruits;When and how can I pay the first premium amount?;agricultural insurance, payment, premium, method of payment, fruits, crops
+123;Information;Insurance policies;Agricultural insurance;Crop and fruit insurance;When does the insurance start and when does it cease to apply?;agricultural insurance, duration, validity, terminates, end, insurance period, fruits, crops
+124;Information;Insurance policies;Agricultural insurance;Insurance of crops and fruits;Where is the insurance valid?;agricultural insurance, area, validity, fruits, crops
+125;Information;Insurance policies;Agricultural insurance;Crop and fruit insurance;How can I terminate the contract?;agricultural insurance, termination, notice period, end of contract, withdrawal from contract, fruits, crops, 3 months, 30 days
+126;Information;Insurance policies;Agricultural insurance;Index-based crop insurance against drought risk;General information;index-based crop insurance, drought, rainfall shortage, general information, index, crops
+127;Information;Insurance policies;Agricultural insurance;Crop index insurance against drought risk;What does the insurance cover?;crop index insurance, drought, risk, coverage, index, crops
+128;Information;Insurance policies;Agricultural insurances;Index-based crop insurance against drought risk;When does the insurance start and when does it expire?;index-based crop insurance, drought, risk, validity, index, crops
+129;Information;Insurance policies;Agricultural insurance;Crop insurance against drought risk;What are the conditions for taking out a policy?;crop insurance, drought, risk, conditions, conclusion, index, crops
+130;Information;Insurance policies;Agricultural insurance;Winter crops insurance;What does the insurance cover?;agricultural insurance, general, coverage, farm insurance, winter crops
+131;Information;Insurance policies;Agricultural insurance;Insurance of winter crops;What additional coverage can I get?;scope, agricultural insurance, coverage, additional insurance, farm insurance, winter crops
+132;Information;Insurance policies;Agricultural insurance;Winter crops insurance;What does the insurance not cover?;coverage, agricultural insurance, diseases, excludes, farm, winter crops, limitations
+133;Information;Insurance policies;Agricultural insurance;Winter crop insurance;When and how can I pay the first premium amount?;agricultural insurance, payment, premium, payment method, winter crops
+134;Information;Insurance policies;Agricultural insurance;Winter crop insurance;When does the insurance start and when does it expire?;agricultural insurance, duration, validity, expiration, end, insurance period, winter crops, guarantee
+135;Information;Insurance policies;Agricultural insurances;Insurance of winter crops;What are my obligations?;obligations, agricultural insurance, duties, winter crops
+136;Information;Insurance policies;Agricultural insurance;Winter crops insurance;Where is the insurance valid?;validity, area, region, winter crops
+137;Information;Insurance policies;Agricultural insurance;Winter crop insurance;How can I cancel the contract?;agricultural insurance, cancellation, cancellation period, end of contract, contract termination, winter crops
+138;Information;Insurance policies;Agricultural insurance;Insurance of livestock and horses;What does the insurance cover?;agricultural insurance, animals, disease, slaughter, coverage
+139;Information;Insurance policies;Agricultural insurance;Insurance for farm animals and horses;What additional coverage can I get?;extent, agricultural insurance, covering, additional insurance, animals, rural, treatment
+140;Information;Insurance policies;Agricultural insurance;Insurance of farm animals and horses;What does the insurance not cover?;agricultural insurance, general, coverage, farm insurance, animals
+141;Information;Insurance policies;Agricultural insurance;Insurance of livestock and horses;What are the coverage limitations?;limited, coverage, treatment, agricultural insurance, animals
+142;Information;Insurance policies;Agricultural insurance;Insurance of farm animals and horses;When and how can I pay the first premium amount?;agricultural insurance, payment, premium, payment method, animals
+143;Information;Insurance policies;Agricultural insurances;Insurance of farm animals and horses;When does the insurance start and when does it cease to be valid?;agricultural insurance, duration, validity, cease, end, insurance period, animals
+144;Information;Insurance policies;Agricultural insurances;Insurance of farm animals and horses;Where is the insurance valid?;validity, area, region, animals
+145;Information;Insurance policies;Agricultural insurance;Insurance for livestock and horses;What are my obligations?;obligations, agricultural insurance, duties, animals
+146;Information;Insurance policies;Agricultural insurance;Insurance of farm animals and horses;How can I withdraw from the contract?;agricultural insurance, cancellation, cancellation period, end of contract, withdrawal from contract, animals
+147;Information;Insurance policies;Agricultural insurance;Accident insurance for pedigree cows;What does the insurance cover?;agricultural insurance, accident insurance, pedigree cows, information
+148;Information;Insurance policies;Agricultural insurance;Livestock package;What does the insurance cover?;breeding pedigree cows, insurance for pedigree cows, livestock package
+149;Information;Insurance policies;Accident insurance;Individual accident insurance;General information;Individual accident insurance, general, covers, not covered, validity, duration, abroad
+150;Information;Insurance policies;Personal accident insurance;Individual personal accident insurance;Where is the insurance valid?;Individual personal accident insurance, validity, abroad
+151;Information;Insurance policies;Accident insurance;Individual accident insurance;What does the insurance payment amount depend on?;Individual accident insurance, amount, insurance payment
+152;Information;Insurance policies;Accident insurance;Individual accident insurance;What is the difference between individual and collective accident insurance?;individual accident insurance, collective accident insurance, difference
+153;Information;Insurance policies;Accident insurance;Individual accident insurance;How do I make an informative calculation?;informative calculation, accident insurance, offer, agent, online closure
+154;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What does the insurance cover?;accident insurance, children, youth, coverage
+155;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What can I insure additionally?;accident insurance, children, youth, coverage, additional coverage, surcharge
+156;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What does the insurance not cover?;accident insurance, children, youth, coverage, not included, excludes
+157;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What are the coverage limitations?;accident insurance, children, youth, coverage, not included, excludes
+158;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;When and how can I pay the first premium amount?;premium payment, accident insurance, youth, children, payment method, payment options
+159;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;When does the insurance start and when does it end?;insurance coverage, start of coverage, validity, start of insurance, termination, insurance year, completed age, end of insurance, premium payment, accident insurance, children, youth
+160;Information;Insurance policies;Accident insurances;Accident insurance for children and youth;Where is the insurance valid?;validity, countries, accident insurance, children, youth, insurance area
+161;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What are my obligations?;obligations, accident insurance, children, youth, accident report
+162;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;How can I cancel the contract?;withdrawal from contract, termination of insurance, accident insurance, children, youth
+163;Information;Insurance policies;Accident insurance;"Accident insurance ""Pazi name""";What does accident insurance cover in case of damage?;injury, coverage, accident insurance for young people
+164;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;What is the procedure in case of injury to a child or adolescent?;injury, damage handling, damage report, documentation, form
+165;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;How to report an accident?;claim report, accident report, form, documentation, evidence
+166;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Can I submit a damage claim without an insurance certificate or policy number?;damage claim, insurance certificate, policy number, form
+167;Information;Insurance policies;Accident insurances;Accident insurance Pazi name;What does it mean that accident insurance has no expiration?;no expiration, permanent, automatic renewal, conclusion, youth accident insurance
+168;Information;Insurance policies;Accident insurances;Accident insurance Take care of me;How to conclude insurance?;conclusion, accident insurance for children, Take care of me
+169;Information;Insurance policies;Accident insurance;Accident insurance Pay attention to me;Can I conclude accident insurance for young people during the year?;conclusion, accident insurance for children, Pay attention to me
+170;Information;Insurance policies;Accident insurance;Accident insurance Take care of me;Is accident insurance valid abroad and during holidays?;abroad, holidays, insurance validity, accident insurance for children, take care of me
+171;Information;Insurance policies;Accident insurance;Beware of my name accident insurance;What is the accident coverage for persons with athlete status?;athlete status, accident, sports package, youth accident insurance, 66%
+172;Information;Insurance policies;Accident insurance;Be careful with my accident insurance;What are the conditions of the promotional offer for accident insurance?;promotional offer for accident insurance, conditions
+173;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;When and how can I pay the first premium amount?;form, online insurance conclusion, youth accident insurance, premium payment
+174;Information;Insurance policies;Accidental insurance;Accidental insurance Pazi name;Is it possible to pay at the sales point when concluding online?;online insurance conclusion, youth accidental insurance, premium, UPN form, payment
+175;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;What is the status of an accident claim?;accident claim, claim status, youth accident insurance
+176;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Where do I get a certificate of insurance?;conclusion, policy number, certificate, youth accident insurance
+177;Information;Insurance policies;Accident insurance;Accident insurance Take care of me;What does the accident package include?;accident package, conclusion, branch, Triglav package, discount
+178;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;How can I conclude the Accident package?;accident package, conclusion, branch, agent, youth accident insurance
+179;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;What is the discount amount for a large family in accident insurance for young people?;large family, children, discount, 20 %, accident insurance for young people, invoice, promotional insurance
+180;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;What is the daily allowance?;daily allowance, payment, documents, proof, diagnosis, medical examination, progression, accident insurance
+181;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Where are the amounts of payments in case of injury listed?;payment, 100%, severe injury, table, clause, policy, general terms, youth accident insurance
+182;Information;Insurance policies;Accident insurance;Take care of me accident insurance;What is the coverage in case of disability?;disability, serious injuries, table, percentages, accident insurance for young people
+183;Information;Insurance policies;Accident insurance;Accident insurance Take care of me;Why did I receive documents for insurance renewal?;documents, insurance renewal, calculation, invoice, UPN, youth accident insurance, permanent
+184;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;How is the child's insurance arranged when they turn 26?;termination, 26 years, accident insurance for young people
+185;Information;Insurance policies;Accident insurance;Pazi name Accident Insurance;How do I terminate accident insurance for young people?;termination, withdrawal from contract, policy, accident insurance for young people
+186;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;How do I change the package or add new coverage?;termination, new coverage, policy, youth accident insurance
+187;Information;Insurance Policies;Accident Insurance;Accident Insurance Watch Out for Me;How do I add sports risk coverage to an existing policy?;add coverage, extension, sports risk, existing policy, policy change
+188;Information;Insurance policies;Accident insurances;Accident insurance Pazi name;Can I include accident insurance in the Triglav package?;Triglav package, discount, promotional insurances, package A, B, C, D, SPORT, accident insurances for young people, regular offer
+189;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Why did I receive a notification about a premium change because the child turned 14 years old?;premium change, accident death, youth accident insurance, coverage
+190;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Why can't I conclude accident insurance for young people online?;online conclusion, online, permanent insurance, automatic renewal, accident insurance for young people
+191;Information;Insurance policies;Accident Insurance;Take Care Accident Insurance;What are the insurance options after the termination of young people's accident insurance?;termination, young people's accident insurance, 26 years old
+192;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;What is the amount of the discount when renewing insurance?;conclusion, renewal, discount, Triglav package, accident insurance for young people
+193;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Where can I find the code for a 20% discount on the online conclusion of promotional insurance?;promotional codes, discount, 20%, promotional insurance, accident insurance for young people
+194;Information;Insurance policies;Accident insurance;Be careful with me accident insurance;Where can I find accident insurance offers for young people?;insurance offer, accident insurance for young people
+195;Information;Insurance policies;Accident insurance;Accident insurance Pazi name;Who is the accident insurance for young people intended for?;students, age, accident insurance for young people, 26 years old
+196;Information;Insurance policies;Accident insurance;Accident insurance for athletes;How can we insure people who are involved in risky sports?;risky sports, athletes, accident insurance, extreme sports
+197;Information;Insurance policies;Accident insurance;Athletes' accident insurance;What does the insurance cover?;accident insurance for amateur athletes, professional athletes
+198;Information;Insurance policies;Accident insurance;Accident insurance for athletes;How to insure people when using rented recreational equipment?;recreational equipment, accident insurance
+199;Information;Insurance policies;Accident insurance;Accident insurance for athletes;What is the amount of insurance coverage?;insurance coverage, accident insurance, documentation
+200;Information;Insurance policies;Accident insurances;Accident insurance for bank customers and financial companies, as well as holders of personal accounts;General information;accident insurance for bank customers, financial companies, holders of personal accounts, conclusion, information
+201;Information;Insurance policies;Accident insurance;Accident insurance for bank clients, financial companies, and personal account holders;What does the insurance cover?;accident insurance for bank clients, financial companies, personal account holders, coverage, risks
+202;Information;Insurance policies;Accident insurance;Accident insurance for clients of banks and financial companies and holders of personal accounts;When does the insurance begin and end?;accident insurance for clients of banks, financial companies, holders of personal accounts, guarantee, validity
+203;Information;Insurance policies;Accident insurance;Accident insurance for clients of banks and financial companies and personal account holders;What is the amount of insurance compensation?;accident insurance for clients of banks, financial companies, personal account holders, documentation, insurance compensation
+204;Information;Insurance policies;Accident insurance;Accident insurance for bank clients and financial companies as well as personal account holders;How do I find out if I am also insured through my payment - bank card?;coverage, accident insurance for bank clients, financial companies, bank card
+205;Information;Insurance policies;Accident insurance;Accident insurance for bank customers and financial companies, and personal account holders;Where is the insurance valid?;coverage, accident insurance for bank customers, financial companies, validity
+206;Information;Insurance policies;Accident insurance;Personal Protection Insurance;General information;insurance, personal protection, coverage, packages
+207;Information;Insurance policies;Accident insurance;Personal protection insurance;What does the insurance cover?;insurance, personal protection, coverage, packages
+208;Information;Insurance policies;Accident insurance;Personal protection insurance;Where is the insurance valid?;insurance, personal protection, validity
+209;Information;Insurance policies;Insurance for travel;Insurance abroad with health assistance - Travel insurance;What does the insurance cover?;travel insurance, what does it cover, coverage, concluding insurance, health assistance
+210;Information;Insurance policies;Travel insurance;Foreign insurance with health assistance - Tourist insurance;I did not receive the card for Tourist insurance or I lost it, can I get a new card?;tourist insurance, health assistance, card, loss of card
+211;Information;Insurance policies;Travel insurances;Abroad health insurance with health assistance - Travel insurance;Does the insurance cover the costs of treatment for Covid-19?;travel insurance, health assistance, corona, covid 19, covid, coverage, quarantine, costs, treatment
+212;Information;Insurance policies;Travel insurance;Insurance abroad with health assistance - Tourist insurance;Does insurance cover quarantine costs?;tourist insurance, health assistance, corona, covid 19, covid, coverage, quarantine, costs
+213;Information;Insurance policies;Travel insurance;Insurance abroad with medical assistance;What does the insurance cover?;insurance abroad, medical assistance, coverage, medical care, costs, foreign country
+214;Information;Insurance policies;Travel insurance;Insurance abroad with health assistance;What can I additionally insure?;additional coverage, insurance abroad, health assistance, sport, competition, sports preparation, abroad
+215;Information;Insurance policies;Travel insurance;Insurance abroad with health assistance;What does the insurance not cover?;not covered, not insured, insurance abroad, excludes
+216;Information;Insurance policies;Travel insurance;Abroad insurance with health assistance;What are the coverage limitations?;limited coverage, abroad insurance, insurance amount
+217;Information;Insurance policies;Travel insurance;Insurance abroad with health assistance;When and how can I pay the first premium amount?;insurance abroad, payment, payment method
+218;Information;Insurance policies;Travel insurance;Insurance abroad with medical assistance;When does the insurance start and when does it cease to be valid?;period, insurance abroad, start of insurance, end of insurance, cease to be valid, begin to be valid
+219;Information;Insurance policies;Travel insurance;Abroad insurance with health assistance;Where is the insurance valid?;where valid, area, region, countries, abroad insurance
+220;Information;Insurance policies;Travel insurance;Foreign travel insurance with health assistance - Tourist insurance;How can I cancel the contract?;contract cancellation, policy termination, tourist insurance, required information
+221;Information;Insurance policies;Travel insurance;Foreign insurance with health assistance;How do I make an informative calculation?;foreign insurance, informative calculation, representative, branch, online conclusion
+222;Information;Insurance policies;Travel insurance;Insurance abroad with health assistance;What are my obligations?;Insurance abroad, health assistance, obligations, payment, registration, documentation
+223;Information;Insurance policies;Travel insurance;Insurance abroad with health assistance;How can I withdraw from the contract?;Insurance abroad, health assistance, withdrawal from the contract, contract termination, insurance termination
+224;Information;Insurance policies;Travel insurance;Cancellation of tourist trips insurance;Does the insurance cover cancellation costs in case we get sick with Covid-19?;cancellation of tourist trips insurance, Covid-19, illness, corona, coverage, cancellation, costs
+225;Information;Insurance policies;Travel insurance;Trip cancellation insurance;Does the insurance cover costs in case the country we are traveling to closes its borders due to an epidemic?;trip cancellation insurance, covid 19, epidemic, closed borders, closed country, coverage, costs
+226;Information;Insurance policies;Travel insurance;Cancellation insurance for tourist travel;What does the insurance cover?;Cancellation insurance for tourist travel, package, coverage, types of packages, combinations, package A, package B
+227;Information;Insurance policies;Travel insurance;Tourist trip cancellation insurance;What does the insurance cover?;Tourist trip cancellation insurance, scope, tourist services, coverage
+228;Information;Insurance policies;Travel insurance;Trip cancellation insurance;What is the price/premium of the insurance?;Trip cancellation insurance, price, premium, calculation, amount of insurance premium
+229;Information;Insurance policies;Travel insurance;Trip cancellation insurance;How is the premium calculated?;trip cancellation insurance, price, premium, calculation, amount of insurance premium
+230;Information;Insurance policies;Travel insurance;Cancellation of tourist travel insurance;Until when can I conclude the cancellation of tourist travel insurance?;Cancellation of tourist travel insurance, conclusion, insurance, deadline
+231;Information;Insurance policies;Travel insurance;Cancellation travel insurance;How can I conclude insurance?;Cancellation travel insurance, conclusion, website, branch, representatives
+232;Information;Insurance policies;Life insurance;Revaluation of life insurance;How can I reject the revaluation?;
+233;Information;Insurance policies;Life insurance;Life insurance for the event of death;What additional coverage can I get?;additional insurance, life insurance, death, in case of death
+234;Information;Insurance policies;Life insurance;Life insurance for death cases;What are the benefits of life insurance for death cases?;life insurance for death cases, insurance amount, purpose, payout
+235;Information;Insurance policies;Life insurance;Life insurance for death case;What does insurance without savings mean?;without savings, life insurance for death case
+236;Information;Insurance policies;Life insurance;Mixed life insurance;General information;mixed life insurance, investment life insurance, flex
+237;Information;Insurance policies;Life insurance;Term life insurance;How much payout will I receive after the expiration?;term life insurance, insurance in case of death, life insurance, payout, no payout upon expiration, end of insurance, expiration
+238;Information;Insurance policies;Life insurance;risky life insurance (insurance in case of death);General information;risky, Risk life insurance, payout, without payout upon expiration of insurance, end of insurance, expiration, digital certificate, web, life insurance
+239;Information;Insurance policies;Life insurance;Life insurance 50 plus;General information;life insurance 50 plus, life insurance, general information, Autumn of life
+240;Information;Insurance policies;Life insurance;Life insurance 50 plus;What is the amount on the policy?;life insurance 50 plus, amount, policy, life insurance
+241;Information;Insurance policies;Life insurance;Life insurance 50 plus;Why do we still receive bills if the policyholder has died?;life insurance 50 plus, payout, bills, life insurance, policyholder's death
+242;Information;Insurance policies;Life insurance;Life insurance for borrowers;General information;life insurance for borrowers, life insurance, credit
+243;Information;Insurance policies;Life insurances;Annuity insurance;General information;annuity insurance, conclusion, terms, monthly annuity, insurance premium, lump sum, life insurance
+244;Information;Insurance policies;Life insurance;Scholarship insurance;General information;life insurance, scholarship, basic, annuity, general information, flex, flex investment life insurance for children
+245;Information;Insurance policies;Home insurance;Revaluation;What does revaluation (revalorization) mean?;
+246;Information;Insurance policies;Home insurance;Package insurance for house/apartment;What are the benefits of concluding insurance in a package?;package insurance, house, apartment, home, property, benefits
+247;Information;Insurance policies;Home insurance;Individual home insurances;How can I cancel the policy?;policy validity, termination, home insurance, cancellation
+248;Information;Insurance policies;Home insurance;Individual home insurance policies;Is the bill settled/paid?;payment, premium, reminder, settled, home insurance
+249;Information;Insurance policies;Home insurance;Individual home insurances;How can I report a claim to the policy?;claim report, accident report, home insurance
+250;Information;Insurance policies;Home insurance;Individual home insurances;What additional coverage can I get?;home assistance, home insurance, coverage, additional insurance, liabilities, new home
+251;Information;Insurance policies;Home insurance;Individual home insurance;What is not covered by the insurance?;home insurance, coverage, not included, not insured, policy
+252;Information;Insurance policies;Home insurance;Home insurance DO 2021;What does the insurance cover?;home insurance, home insurance until 2021, package, insured, property insurance, coverage, policy
+253;Information;Insurance policies;Home insurance;Home insurance DO 2021;What can I additionally insure?;Home, additional insurance, additional coverage, earthquake, machine breakdown, package, mechanical breakage, lightning
+254;Information;Insurance Policies;Home Insurance;Home Insurance DO 2021;What is not covered by the insurance?;home insurance do 2021, coverage, not included, not insured, home
+255;Information;Insurance policies;Home insurance;Home insurance up to 2021;What are the coverage limitations?;home insurance up to 2021, limited coverage, insurance sum, damage coverage, insurance contract
+256;Information;Insurance policies;Home insurance;Home insurance DO 2021;When and how can I pay the first premium amount?;home insurance do 2021, payment method, payment, UPN, one-time premium
+257;Information;Insurance policies;Home insurance;Home insurance DO 2021;When does the insurance start and when does it cease to be valid?;Home insurance DO 2021, validity, duration, start, end of validity, contract
+258;Information;Insurance policies;Home insurance;Home insurance DO 2021;Where is the insurance valid?;home insurance DO 2021, area, region, validity, Europe, Slovenia
+259;Information;Insurance policies;Home insurance;Home insurance DO 2021;How can I terminate the contract?;home insurance do 2021, withdrawal from the contract, termination, before expiry, notice period
+260;Information;Insurance policies;Home insurance;Home insurance from 2021;What does the insurance cover?;home insurance from 2021, insured, contains, scope, coverage
+261;Information;Insurance policies;Home insurance;Home insurance FROM 2021;What additional coverage can I have?;additional, home insurance from 2021, extra coverage, additional cover, package
+262;Information;Insurance policies;Home insurance;Home insurance FROM 2021;What does the insurance not cover?;not insured, home insurance from 2021, coverage, limitation
+263;Information;Insurance policies;Home insurance;Home insurance from 2021;What are the coverage limitations?;limited, home insurance from 2021, sum insured, insurance contract, coverage, limitation
+264;Information;Insurance policies;Home insurance;Home insurance FROM 2021;When and how can I pay the first premium amount?;payment method, home insurance from 2021, premium, first installment
+265;Information;Insurance policies;Home insurance;Home insurance from 2021;When does the insurance start and when does it expire?;end, home insurance from 2021, validity, duration
+266;Information;Insurance policies;Home insurance;Home insurance FROM 2021;Where is the insurance valid?;area, home insurance from 2021, zone, country, validity
+267;Information;Insurance policies;Home insurance;Home insurance FROM 2021;What are my obligations?;home insurance from 2021, obligations, duties, registration, conditions
+268;Information;Insurance policies;Home insurance;Home insurance FROM 2021;How can I withdraw from the contract?;home insurance from 2021, withdrawal from contract, termination, termination conditions, withdrawal statement
+269;Information;Insurance policies;Accident insurance;Individual accident insurance;General information;Individual accident insurance, general information, insurance benefit, coverage, abroad, validity
+270;Information;Insurance policies;Accident insurance;Individual accident insurance;How is the amount of insurance compensation determined?;insurance compensation, payout, individual accident insurance
+271;Information;Insurance policies;Accident insurance;Individual accident insurance;What is the difference between individual and collective insurance?;individual accident insurance, single insurance, collective insurance, difference
+272;Information;Insurance policies;Accident insurance;Individual accident insurance;Is accident insurance also valid abroad?;coverage, individual accident insurance, abroad
+273;Information;Insurance policies;Accidental insurance;Individual accident insurance;How do I make an informative calculation?;Individual accident insurance, general, informative calculation, agent, branch, online conclusion
+274;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;General information;Individual accident insurance for youth, accident insurance for youth, general, basic information, coverage, when to conclude
+275;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;Can I also conclude insurance at any time during the year?;conclusion, accident insurance for children and youth, special offer
+276;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What do I need to do if I want to change the amount of insurance sums or add new coverage?;coverage, sum, accident insurance for children and youth, change, policy
+277;Information;Insurance policies;Accident insurance;Accident insurance for children and adolescents;How to insure children or adolescents who are active athletes?;accident insurance for children and adolescents, athlete status, accident, coverage, active athletes, risky activity, injury
+278;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;When does accident insurance for children and young people take effect?;accident insurance for children and youth, start, duration, validity
+279;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;Does accident insurance also apply abroad and during holidays?;abroad, holidays, insurance validity, accident insurance for children and youth
+280;Information;Insurance policies;Accident insurance;Accident insurance for children and adolescents;What is the coverage in case of an accident for people with athlete status?;accident insurance for children and adolescents, athlete status, coverage, accident, risky activities
+281;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;How do I add sports risk coverage to an existing policy?;add coverage, extension, sports risk, existing policy, policy change
+282;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;Until what age can students be insured?;students, age, young people's accident insurance, 26 years
+283;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;What does it mean that accident insurance for children and youth is without expiration?;without expiration, permanent, automatic renewal, conclusion, accident insurance for children and youth
+284;Information;Insurance policies;Accident insurance;Accident insurance for children and youth;Why is the premium higher after the age of 14?;Individual accident insurance for young people, accident insurance for young people, general, basic information, premium amount
+285;Information;Insurance policies;Health;Additional insurance in case of accidental death;General information;accident, health, death, additional insurance in case of death
+286;Information;Insurance policies;Health;Rehabilitation insurance after a traffic accident;General information;health, accident, spa, rehabilitation, traffic, additional insurance
+287;Information;Insurance policies;Health;Insurance for rehabilitation after a traffic accident;Which vehicles are covered?;health, accident, traffic accident, rehabilitation, coverage, vehicle, skateboard, scooter, car, rollerblades, wheelchair
+288;Information;Insurance policies;Health;Compensation insurance;General information;health, compensation, compensation insurance, Triglav Health
+289;Information;Insurance policies;Health;Health advice;What does the insurance cover?;health, advice, health issues
+290;Information;Insurance policies;Health;Specialists;What additional coverage can I take?;specialists, specialists +, health, advice, coverage
+291;Information;Insurance policies;Health;Health advice;What does the insurance not cover?;health, advice, not insured, coverage, excludes
+292;Information;Insurance policies;Health;Health advice;What are the coverage limitations?;health, limited coverage, limitations, advice
+293;Information;Insurance policies;Health;Health advice;When and how can I pay the first premium amount?;health, advice, payment, payment deadline, payment method
+294;Information;Insurance policies;Health;Health advice;When does the insurance start and when does it end?;health, end, beginning, validity, termination, advice, duration, automatic renewal
+295;Information;Insurance policies;Health;Health advice;Where is the insurance valid?;area, scope of validity, countries, European Union
+296;Information;Insurance policies;Health;Health advice;What are my obligations?;health, obligations, duties, advice, health point, 0802664
+297;Information;Insurance policies;Health;Health advice;How can I cancel the contract?;health, contract termination, withdrawal from contract, advice
+298;Information;Insurance policies;Health;Accident Specialists;What does the insurance cover?;health, specialists, accident, coverage
+299;Information;Insurance policies;Health;Accident Specialists;What does the insurance not cover?;health, specialists, accident, coverage, scope, excludes
+300;Information;Insurance policies;Health;Accident Specialists;What are the coverage limits?;health, specialists, accident, covered, limited coverage, covers, amount of insurance sum
+301;Information;Insurance policies;Health;Accident Specialists;When and how can I pay the first premium amount?;health, specialists, accident, payment deadline, payment method
+302;Information;Insurance policies;Health;Accident Specialists;When does the insurance start and when does it end?;health, specialists, accident, start, end, duration, validity
+303;Information;Insurance policies;Health;Specialists Accident;Where is the insurance valid?;health, specialists, accident, where valid, countries, area, region
+304;Information;Insurance policies;Health;Specialists Accident;What are my obligations?;health, specialists, accident, obligations, duties
+305;Information;Insurance policies;Health;Accident Specialists;How can I terminate the contract?;health, specialists, accident, contract termination, withdrawal from contract
+306;Information;Insurance policies;Health;Surgery Insurance;Which surgeries are covered?;health, surgeries, amount, coverage
+307;Information;Insurance policies;Health;Supplementary health insurance;What does the insurance cover?;costs, coverage, supplementary, health insurance, additional
+308;Information;Insurance policies;Health;Supplementary health insurance;Do recipients of social assistance have to pay the premium?;socially vulnerable, exempt, supplementary health insurance
+309;Information;Insurance policies;Health;Teeth;What does the insurance cover?;teeth, coverage, health insurance, compensation, additional
+310;Information;Insurance policies;Health;Teeth;What does the insurance not cover?;teeth, coverage, health insurance, limitations, exclusions
+311;Information;Insurance policies;Health;Teeth;What are the coverage limitations?;teeth, coverage, health insurance, limited, compensation, insurance sum, coverage amount
+312;Information;Insurance policies;Health;Teeth;When and how do I pay?;teeth, health insurance, payment method, payment deadline, how to pay, when to pay
+313;Information;Insurance policies;Health;Teeth;When does the insurance start and when does it end?;teeth, health insurance, validity, starts, ends, end, beginning, duration
+314;Information;Insurance policies;Health;Teeth;Where is the insurance valid?;teeth, coverage, health insurance, validity, where is it valid, country, area, region
+315;Information;Insurance policies;Health;Teeth;What are my obligations?;teeth, health insurance, obligation, duty
+316;Information;Insurance policies;Health;Teeth;How can I withdraw from the contract?;teeth, health insurance, termination of insurance, withdrawal from the contract
+317;Information;Insurance policies;Health;Teeth+;What does the insurance cover?;teeth +, coverage, health insurance, obligation, duty, above standard
+318;Information;Insurance policies;Health;Teeth+;What does the insurance not cover?;teeth +, health insurance, limitation, coverage
+319;Information;Insurance policies;Health;Teeth+;What are the coverage limitations?;Teeth+, health insurance, limitation, coverage, restriction, 14 years
+320;Information;Insurance policies;Health;Teeth+;When and how do I pay?;teeth +, health insurance, payment, payment method
+321;Information;Insurance policies;Health;Teeth+;When does the insurance start and when does it expire?;teeth +, health insurance, takes effect, start, validity, duration, expiry, termination
+322;Information;Insurance policies;Health;Teeth+;Where is the insurance valid?;teeth +, health insurance, country, area, validity, zone
+323;Information;Insurance policies;Health;Teeth+;What are my obligations?;teeth+, health insurance, obligation, duty
+324;Information;Insurance policies;Health;Teeth+;How can I terminate the contract?;teeth +, health insurance, termination, withdrawal, contract
+325;Information;Insurance policies;Health;Teeth;How can I conclude Teeth, Teeth+ insurance?;teeth, conclusion, health insurance, teeth +
+326;Information;Insurance policies;Health;Specialists;What does the insurance cover?;specialists, coverage, health insurance
+327;Information;Insurance policies;Health;Specialists;What does the insurance not cover?;specialists, cover, health insurance, limitation
+328;Information;Insurance policies;Health;Specialists;What are the coverage limitations?;specialists, limited coverage, health insurance, costs
+329;Information;Insurance policies;Health;Specialists;When and how do I pay?;specialists, health insurance, payment
+330;Information;Insurance policies;Health;Specialists;When does the insurance begin and when does it cease to be valid?;specialists, coverage, health insurance, start, termination, validity
+331;Information;Insurance policies;Health;Specialists;Where is the insurance valid?;specialists, coverage, health insurance, area, region, country, where valid
+332;Information;Insurance policies;Health;Specialists;What are my obligations?;specialists, obligations, health insurance, duties
+333;Information;Insurance policies;Health;Specialists;How can I cancel the contract?;specialists, health insurance, cancellation of the contract, termination of insurance, termination
+334;Information;Insurance policies;Health;Specialists+;What does the insurance cover?;specialists+, coverage, health insurance, cover
+335;Information;Insurance policies;Health;Specialists+;What is not covered by the insurance?;specialists+, coverage, health insurance, coverage
+336;Information;Insurance policies;Health;Specialists+;What are the coverage limits?;specialists+, limited coverage, health insurance, covers, coverage amount, insurance sum
+337;Information;Insurance policies;Health;Specialists+;When and how do I pay?;specialists+, health insurance, payment method, payment deadline, maturity
+338;Information;Insurance policies;Health;Specialists+;When does the insurance start and when does it cease to be valid?;specialists+, health insurance, validity, commencement, expiration, termination
+339;Information;Insurance policies;Health;Specialists+;Where is the insurance valid?;specialists+, health insurance, validity, country, area, territory
+340;Information;Insurance policies;Health;Specialists+;What are my obligations?;specialists+, health insurance, obligations, duties
+341;Information;Insurance policies;Health;Specialists+;How can I cancel the contract?;specialists+, health insurance, cancellation of contract, termination of insurance
+342;Information;Insurance policies;Health;Surgeries;What does the insurance cover?;surgeries, health insurance, coverage, payout
+343;Information;Insurance policies;Health;Operations;What does the insurance not cover?;operations, health insurance, covers, scope
+344;Information;Insurance policies;Health;Surgeries;What are the coverage limitations?;surgeries, health insurance, limited, insurance amount, payout amount, payout
+345;Information;Insurance policies;Health;Operations;When and how do I pay?;operations, health insurance, payment deadline, payment method
+346;Information;Insurance policies;Health;Operations;When does the insurance start and when does it expire?;operations, health insurance, validity, start duration, interruption
+347;Information;Insurance policies;Health;Surgery;Where is the insurance valid?;surgery, health insurance, country, area, validity
+348;Information;Insurance policies;Health;Operations;What are my obligations?;operations, health insurance, obligations, duties
+349;Information;Insurance policies;Health;Operations;How can I cancel the contract?;operations, health insurance, contract termination, contract cancellation, withdrawal
+350;Information;Insurance policies;Health;Sports activities insurance;General information;health, sports, coverage, validity, conditions, duration, general information
+351;Information;Insurance policies;Health;Accident insurance for athletes;How can I conclude insurance?;health, sport, conclusion, conditions
+352;Information;Insurance policies;Overview of concluded insurances;;What does the insurance cover?;overview of policies, concluded insurances
+353;Information;Insurance policies;Amount/scope of coverage;;What is the scope of coverage? How much would the payout be?;amount of coverage, scope of coverage
+354;Information;Insurance policies;Claiming coverages;;How can I withdraw money from the policy?;claiming coverages, withdrawal of funds, payment
+355;Information;Insurance policies;Compensation amount;;Am I entitled to compensation?;compensation amount, daily compensation, accident insurance
+356;Information;Insurance policies;Policy status;;What is the policy status?;policy status, value, amount
+357;Information;Insurance policies;Renewal of insurance;;How can I renew my insurance?;renewal, debt, payment, life insurance
+358;Information;Insurance policies;Termination of insurance;;How do I terminate the insurance?;termination of insurance, payout, dormancy, deadline, termination request
+359;Information;Insurance policies;Termination of insurance;;When do the guarantees under the policy cease?;guarantee, termination, cessation, premium payment
+360;Information;Insurance policies;Withdrawal, termination of insurance;;What happens if I withdraw from the contract?;withdrawal, insurance contract, withdrawal application
+361;Information;Insurance policies;Cancellation, termination of insurance;;How do I terminate supplementary health insurance?;cancellation, health insurance, notice period
+362;Information;Insurance policies;Withdrawal, cancellation of insurance;;When is it possible to cancel the insurance?;cancellation, notice period, quarterly
+363;Information;Insurance policies;Insurance suspension;;How do I arrange insurance suspension?;suspension, request, payment
+364;Information;Insurance policies;Advance insurance payment;;How do I request an advance payment or payout of the surrender value?;advance, payout, forms, documents
+365;Information;Insurance policies;Advance payment of insurance;;When is the advance calculated?;advance, payment, calculation
+366;Information;Insurance policies;Advance insurance;;What does the settlement day mean?;calculation, settlement day, advance, redemption
+367;Information;Insurance policies;Automatic renewal of insurance;;Why did I receive an invoice if I didn't extend my insurance?;automatic renewal, home insurance, pet insurance, dog insurance, travel insurance, permanent insurance
+368;Information;Insurance policies;Insurance without expiration;;What does insurance without expiration mean?;insurance without expiration, automatic renewal, permanent, conclusion
+369;Information;Insurance policies;Changes in policy;;Who can be the premium payer?;beneficiary, payer, insurance amount
+370;Information;Insurance policies;Changes in the policy;;How can I change the beneficiary on the policy?;beneficiary, payer, insured, insurer, change beneficiary
+371;Information;Insurance policies;Changes to the policy;;How can I expand my coverage?;coverage expansion, policy, additional coverage
+372;Information;Insurance policies;Changes to policy;;How can I change the insurer on the policy?;change, insurer, form, insurance policy
+373;Information;Insurance policies;Bonus;;What is the value of the bonus?;amount, claiming, transfer, certificate, bonus, bonus certificate, car insurance
+374;Information;Insurance policies;Bonus;;Where can I obtain a bonus certificate?;amount, claim, transfer, certificate, bonus, bonus certificate, car insurance
+375;Information;Insurance policies;Deductible franchise;;What is a deductible franchise?;deductible franchise, amount of franchise, participation
+376;Information;Insurance policies;Deductible franchise;;How much is the deductible franchise on the new value?;deductible franchise, franchise amount, new acquisition value
+377;Information;Insurance policies;Deductible franchise;;What is the co-participation in case of damage?;deductible franchise, franchise amount, participation in damage
+378;Information;Insurance policies;Providing documentation to the client;;How do I receive insurance documentation?;insurance documentation, certificate, provision
+379;Information;Insurance policies;Providing documentation to the client;;How do I receive a duplicate policy?;duplicate policy, insurance, documentation, certificate, provision
+380;Information;Insurance policies;Providing documentation to the client;;How do I obtain proof of premium class?;premium class, insurance documentation, certificate, proof
+381;Information;Insurance policies;Providing documentation to the client;;How do I obtain a bonus certificate?;bonus, insurance documentation, certificate
+382;Information;Insurance policies;Maturity - premium payment;;What is the procedure for premium payment?;information, forms, amount, transfer of funds, payment, procedure
+383;Information;Insurance policies;Maturity - premium payment;;What is the procedure for paying out the insurance sum in case of the insured person's death?;payout, life insurance, death, insurance sum
+384;Information;Insurance policies;Maturity - premium payment;;What is the difference between the surrender value and the value on the investment account?;surrender, payment, surrender value, investment account, asset value
+385;Information;Insurance policies;Maturity - premium payment;;How is the buyback calculated?;buyback, amount, payment, receipt of documentation, calculation, settlement day
+386;Information;Insurance policies;Maturity - policy expiration, policy experience;;What is the procedure at the expiration of the policy or policy experience?;forms, new policy, policy experience, automatic renewal, policy experience notification, political exposure, tax residency
+387;Information;Insurance policies;Expiration - policy expiration, occurrence;;Is it allowed to drive a vehicle after the insurance has expired?;insurance expiration, AO, car insurance
+388;Information;Insurance policies;Maturity - policy expiry, realization;;What to do when student status is terminated and health insurance expires?;expiry of insurance, status expiry, students, health insurance
+389;Information;Damages;Damage report - form;;How do I report damage?;damage report, form, accident
+390;Information;Damage;Damage report - form;;Where can I find the form for reporting damage?;additional documents, pictures, certificates, proofs, statements
+391;Information;Damages;Procedure for dealing with damage;;In which cases do I need to inform the police?;damage assessment, assessment procedure, comprehensive insurance, police notification, appraiser, evidence
+392;Information;Claims;Procedure for dealing with a claim;;How to act in the event of a claim?;damage event, claim registration, evidence, valuation, act
+393;Information;Damages;Damage assessment;;What is the damage assessment procedure?;estimate, appointment, location, remote damage assessment, Skplus service, SK+, repair, assessor, evidence
+394;Information;Claims;Claim status and payout;;What is the procedure for handling claims?;Skplus service, SK+, repair, claim handling
+395;Information;Damages;Damage status and payment;;When will the damage be paid?;status of appraisal, payment date, payment, appraisal, damage
+396;Information;Damages;Damage status and payout;;What is the status of my damage?;status of assessment, payout date, payout, assessment, damage
+397;Information;Damages;Time for damage/accident reporting;;What is the deadline for reporting damages?;damage reporting, damage event, deadline for damage reporting
+398;Information;Damages;Time for reporting a damage / accident;;What to do in case of a missed deadline for reporting damages?;deadline for reporting damages, 3-day deadline, damage event
+399;Information;Claims;International claims;;What is the status of my international claim?;international claim
+400;Information;Damage;Online damage report;;How to report damage online?;online damage report, type of damage, itriglav, damage report, form
+401;Information;General information;Opening hours, contacts;;Where can I find the contact of a representative?;representative, contact, order representative
+402;Information;General information;Opening hours, contacts;;Where can I check the working hours of the branch?;branch, working hours, opening hours
+403;Information;General information;Donations, sponsorships;;What are the sponsorship or donation options?;association, sponsorship, donation
+404;Information;General information;Benefits;;What are the benefits for young drivers?;benefits, young drivers, promotion
+405;Information;General information;Employment, CVs;;What are the employment opportunities at ZT?;employment, human resources, CV, resume
+406;Information;General information;B2B offer;;Where can I submit a B2B service offer?;mailing, gifts, seminars, greetings
+407;Information;General information;Information regarding the visit of an agent/representative;;Has your representative contacted me?;visit of agent, representative, visit of consultant, triglav advice, tris
+408;Information;General information;Information regarding visits from agent/representative;;How can I cancel an agreed appointment with a consultant/representative?;agent visit, representative visit, consultant visit, triglav consulting
+409;Information;General information;Order a representative;;Where can I find contact information for insurance conclusion?;order a representative, website, online conclusion
+410;Information;GDPR;Revocation and consent;;How do I cancel the confirmation for direct marketing?;GDPR, revocation, marketing
+411;Information;GDPR;Revocation and consent;;What to do in case of receiving foreign documentation?;wrong data, correction on policy, foreign documentation, wrong person, recipient
+412;Information;GDPR;Revocation and consent;;How do I withdraw consent for the collection of personal data?;GDPR, data protection, violations, personal data, sensitive data, withdrawal of data collection
+413;Information;GDPR;Revocation and consent;;How do I submit a request for deleting collected data?;GDPR, data protection, violations, personal data, sensitive data, data deletion
+414;Information;GDPR;Revocation and consent;;How do I submit a request for the deletion of collected personal data?;GDPR, data protection, violations, personal data, sensitive data, data output
+415;Information;GDPR;Revocation and Consent;;How do I arrange the transfer of personal data to another insurance company?;GDPR, data protection, violations, personal data, sensitive data, data transfer
+416;Information;Help desk - internal public;Content support;;Content support for employees;circular, drajv code, help desk
+417;Information;Help desk - internal public;Technical support;;Technical support for employees;circular, drajv code, help desk
+418;Information;Help desk - internal public;Other;;Employee support;interested, claim status, request, help desk, password, e-court
+419;Information;Banks;Content support;;What is the coverage scope?;bank, coverage, investment, card
+420;Information;Banks;Technical Support;;What can I do if the application reports an error?;error in application, technical support, technical issue
+421;Information;Marketing campaigns;Motorcyclists;;What is the amount of the discount when not returning the premium?;discount, bonus, motorcyclists, early termination of insurance, agreement on non-refund of unused premium part
+422;Information;Marketing campaigns;Scarf for first-graders;;How do I get a scarf for a first-grader?;scarves for first-graders, Kuža pazi, scarf
+423;Information;Marketing campaigns;Planica;;How can I follow the ski jumping in Planica remotely?;remote viewing, Planica
+424;Information;Marketing campaigns;Planica;;When will the Planica winners be announced?;prize game, Planica, winners
+425;Information;Marketing actions;Planica;;How do I secure a ticket to watch Planica remotely?;ticket, transferability of ticket, winners, remote viewing code
+426;Information;Praise;Praise - general, content-related;;Forwarding praise;praise, forwarding
+427;Information;Complaint;Complaint - general, substantive;;Complaint about the execution of the service;complaint, complaint procedure, service
+428;Information;Complaint;Complaint - general, substantive;;Complaint about the attitude of an employee;complaint, complaint procedure, attitude of appraiser, attitude of employee
+429;Information;Complaint;Complaint - general, content-related;;Complaint about valuation;complaint, complaint procedure, valuation, damage
+430;Information;Complaint;Complaint - general, content-related;;Complaint about the notice period;complaint, complaint procedure, notice period, insurance terms
+431;Information;Website;Informative calculation;;How do I make an informative calculation online?;informative calculation, online conclusion, agent, conclusion
+432;Information;Website;Conclusion of insurance;;What does activation threshold mean?;activation threshold, insurance terms
+433;Information;Website;Conclusion of insurance;;What is the meaning of the annual aggregate?;annual aggregate, website, documentation
+434;Information;Website;Conclusion of insurance;;How do I calculate the amount of co-participation?;co-participation, deductible franchise, conditions, contract
+435;Information;Website;Information;;Where can I access forms and documents?;general, forms, conditions, contacts, website, documents
+436;Information;Website;Information;;What are the options for online insurance contracting?;web, contracting, remote, online
+437;Information;Website;Operating issues;;The contract conclusion page is not working, what can I do?;website not working, informative calculation not working, interactive forms
+438;Information;Website;Operating problems;;What can I do in case of an error when concluding online?;input error, online insurance conclusion
+439;Information;Website;Operating problems;;What can I do if interactive forms are not working?;interactive forms, online insurance conclusion
+440;Information;Website;Functionality issues;;Why am I getting a warning about entering incorrect data?;warning, incorrect data entry, online insurance conclusion
+441;Information;Website;Video identification;;How do I resolve issues with video identification?;video identification, identification problems, browser, webcam
+442;Information;Remote conclusion;e-pen errors/incorrect data on the policy;;How can I fix errors on the policy?;errors on the policy, online conclusion, e-pen, data change
+443;Information;Remote conclusion;Documentation;;How can I send you the signed documents?;submission of documents, e-pen, signature
+444;Information;Remote conclusion;Documentation;;How do I open the received documentation?;documentation, password, locked documentation, code, signature
+445;Information;Remote conclusion;Documentation;;What is the password for opening the received documentation?;opening documentation, data entry, 24-hour validity, 24-hour fuse
+446;Information;Remote Conclusion;Documentation;;Why didn't I receive the policy on my email address?;receiving policy, itriglav, policy, documentation
+447;Information;Remote conclusion;payment of premium;;What are the remote payment options?;payment of premium, UPN, permanent, e-invoice, NLB Klik, Mastercard, Visa, Activa Maestro, VALÚ
+448;Information;i.triglav;Review of policies;;Where can I check the status of my policy?;review of policies in itriglav, status of the policy, graph, resources
+449;Information;i.triglav;Review of policies;;Why can't I see my insurance policy in the digital branch?;profile, policy, view, itriglav
+450;Information;i.triglav;Damage status;;Where can I track the status of damage/claims?;claim status, damage, damage file, status, itriglav
+451;Information;i.triglav;Claim report;;What is the procedure for submitting a claim in the application?;claim report in itriglav, submission in itriglav
+452;Information;i.triglav ;i.triglav branch;;What is the digital branch i.triglav?;itriglav, policy overview, registration, portfolio, investments, investment
+453;Information;i.triglav;i.triglav Branch;;What does the i.triglav branch provide?;services, digital branch, itriglav, operation
+454;Information;i.triglav;Registration;;How can I register?;registration, itriglav, sign up, itriglav, online branch
+455;Information;i.triglav;Registration;;How do I activate my i.triglav user account?;user account, itriglav, authentication, activation
+456;Information;i.triglav ;Registration;;Which digital certificate can I use for identification in the i.triglav application?;digital certificate, identification, activation, itriglav, AC NLB, Halcom, SIGEN
+457;Information;i.triglav;Registration;;What is the meaning of a one-time registration code?;one-time, registration code, itriglav
+458;Information;i.triglav;Registration;;How do I obtain a one-time registration code?;one-time, registration code, itriglav
+459;Information;i.triglav;Access;;How can I access i.triglav?;username, access, digital certificate, personal number, one-time registration code, itriglav
+460;Information;i.triglav;Change of data;;How can I change the data in i.triglav?;general change, change of data in itriglav
+461;Information;i.triglav;Technical difficulties;;What should I do if a user with this tax number is already registered?;invisible policy, incorrect policy, policy status, application not working, confirmation email, display of funds, technical difficulties
+462;Information;i.triglav;Technical issues;;Errors in the registration process;error, registration, itriglav
+463;Information;i.triglav;Technical issues;;Why am I not receiving a confirmation email for i.triglav?;confirmation email, itriglav
+464;Information;i.triglav;Technical issues;;Why can't I see my insurance policies in i.triglav?;profile, policy, itriglav, view
+465;Information;i.triglav;Technical issues;;I need help with i.triglav;help, itriglav, application
+466;Information;i.triglav;Password;;How to choose a suitable password?;itriglav, password, general
+467;Information;i.triglav;Forgotten password;;What should I do if I forget my password?;password change, new password, forgotten
+468;Information;i.triglav;Discount for consent;;How do I submit individual consent?;discount, consent, itriglav, activation
+469;Information;i.triglav;Discount for digital business;;Is there a discount for digital business in the Triglav package?;itriglav, discount, combined discount, triglav package
+470;Information;i.triglav;Discount for digital business;;How do I activate the discount for digital business?;discount, itriglav, activation, registration, consent
+471;Information;i.triglav;Forgotten password;;What do I do if I forget my password?;username, password, itriglav, wrong password
+472;Information;Triglav Health Application;claim submission;;How do I file a claim for reimbursement of expenses?;Triglav, Health Insurance, expense reimbursement, claim
+473;Information;Drajv;technical issues;;How do I resolve synchronization issues with driving?;Drajv, synchronization, driving
+474;Information;Drajv;technical issues;;What should I do if the start button does not work?;start, Drajv, button, start recording
+475;Information;Drajv;technical issues;;Why does the application turn off during the drive?;drive, application turns off, Drajv
+476;Information;Drajv;Technical issues;;Why is the Drajv application not working properly?;GPS, mobile data, not working, update, application
+477;Information;Drajv;Application usage and operation;General features of the application;What is the meaning of the Drajv application?;drajv, application, telematics, driving, discount, 25 %
+478;Information;Drajv;Application usage and operation;General features of the application;How does the Drajv application work?;application, recording, driving, speed limit, forces, tolerance
+479;Information;Drajv;Application usage and operation;General features of the application;What does telematics mean?;drajv, telematics, technology, premium
+480;Information;Drajv;Usage and operation of the application;General characteristics of the application;What are the functionalities of the renovated Drajv application?;application, drajv, renovated, functionalities
+481;Information;Drajv;Use and operation of the application;General characteristics of the application;How much space on the phone's memory does the application occupy?;memory, space, application, drajv
+482;Information;Drajv;Usage and functionality of the application;General characteristics of the application;How much battery does the application consume?;consumption, battery, application, drajv
+483;Information;Drajv;Application usage and operation;General features of the application;Who can use Drajv?;drajv, usage, smartphone, users
+484;Information;Drajv;Using and operating the application;General features of the application;How are rides graded?;rating, ride, drajv
+485;Information;Drajv;Application usage and operation;General features of the application;Why is it necessary to enable GPS or allow access to location services?;GPS, access to location services, location, recording, application, drajv
+486;Information;Drajv;Application usage and operation;General features of the application;What does Dashcam - car camera mean?;dashcam, car camera, recording, driving, drajv
+487;Information;Drajv;Application usage and operation;General characteristics of the application;How much does the Drajv application cost?;chargeable, price, drajv, application, free
+488;Information;Drajv;Application use and operation;General features of the application;How much data transfer does the application use?;data transfer, data, application, drajv
+489;Information;Drajv;Usage and operation of the application;General characteristics of the application;Which devices support the Drajv application?;mobile device, drajv, ios, iphone, android, google play, huawei
+490;Information;Drajv;Application usage and operation;Recording the driving process and phone installation;How should I install the phone for proper operation?;installation, phone, application, drajv
+491;Information;Drajv;Application usage and operation;Recording the drive and phone placement;Is it allowed to move the phone during the drive?;movement, phone, rating, drive, drajv
+492;Information;Drajv;Application usage and operation;Recording procedure and phone setup;Why can't I start recording the drive during an option?;application activation, recording drive, drajv
+493;Information;Drajv;Application usage and operations;Recording procedure and phone installation;What is the procedure for recording the drive?;drive recording, completion, drive, stop, drajv
+494;Information;Drajv;Application usage and operation;Recording process and phone installation;Is the use of the phone allowed during recording of the drive?;phone usage, driving, recording, drajv
+495;Information;Drajv;Application usage and operation;Recording process and phone installation;What are the advantages of automatic driving recording?;recording, automatic, drajv
+496;Information;Drajv;Use and operation of the application;Update;How do I update the Drajv application?;update, application, synchronization
+497;Information;Drajv;Use and operation of the application;Update;Why does the app require an update to the Android WebView application even though it is already updated?;update, Android Web, issue, drajv
+498;Information;Drajv;reporting an error in the application;;Why does the Drajv app display the wrong driving score?;speed limit, traffic signs
+499;Information;Drajv;reporting an error in the application;;Why doesn't the Drajv application record the correct number of kilometers traveled?;kilometers, km, number of kilometers traveled, update
+500;Information;Drajv;reporting an application error;;Why can't I report an error?;report, error, Drajv
+501;Information;Drajv;reporting an error in the application;;How do I report incorrect force measurements or phone movement?;force, driving, application, Drajv
+502;Information;Drajv;Registration;installation;How do I install the Drajv application?;login, Drajv, store, installation
+503;Information;Drajv;Registration;installation;Why can't I find the Drajv application in the store?;Google, Play, store, application, drajv
+504;Information;Drajv;Discount;access to account;Can I transfer my Drajv account to another person?;transfer, account, other person
+505;Information;Drajv;Access;account access;How do I transfer my Drajv application data to another phone?;login, Drajv, new mobile device
+506;Information;Drajv;Registration;registration;How do I complete the registration/login process in Drajv?;registration, login, details, drajv
+507;Information;Drajv;Password;;How do I set the password for the Drajv app?;password, registration, login, drajv
+508;Information;Drajv;Forgotten password;Forgotten password Drajv;What to do in case of a forgotten password?;forgotten password, Drajv, password reset
+509;Information;Drajv;Language change;change of data in the application;How do I change the language in the Drajv app?;language, application, settings, drajv
+510;Information;Drajv;Changing data in the application;changing data in the application;How do I change data in the Drajv application?;e-mail, contact, incorrect data, data change, contact details, e-mail, tax identification number, application
+511;Information;Drajv;Drajv rewards/discounts;;What are the benefits of the Drajv app?;benefits, discount, 25 %, drajv
+512;Information;Drajv;Drajv Rewards/Discounts;;What are the conditions for receiving a Drajv discount?;km, kilometers, rating, drajv, discount, 300 km
+513;Information;Drajv;Drajv Rewards/Discounts;;How do I obtain a discount code?;code, discount, collecting discount, 25 %, request code, drajv
+514;Information;Drajv;Drajv Awards/Discounts;;Why can't I request a discount code?;code, Drajv, discount, issue
+515;Information;Drajv;Drajv Rewards/Discounts;;Can I lose the already acquired Drajv discount?;discount, drajv, acquired
+516;Information;Drajv;Drajv Rewards/Discounts;;How can I check my current Drajv discount?;code, discount, monthly progress, drajv
+517;Information;Drajv;Drajv Rewards/Discounts;;What are the limitations of the Drajv discount?;code, discount, Drajv, limitations
+518;Information;Drajv;Drajv rewards/discounts;;What is the highest possible Drajv discount?;discount, drajv, maximum, highest, 25 %
+519;Information;Drajv;Drajv Rewards/Discounts;;Why can't I use the discount code?;code, Drajv, discount
+520;Information;Drajv;Drajv Rewards/Discounts;;Where can I find details about Drajv rewards?;benefits, drajv, rewards
+521;Information;Drajv;Drajv Awards/Discounts;;Where can I find the list of winners?;drajv, winners, participation in prize game, drawing, challenges
+522;Information;Drajv;Drajv Rewards/Discounts;;What is the procedure for participating in the prize game?;prize game, drajv, participation
+523;Assistance;Automotive;Towing or transportation of a vehicle;;Car shut off, car towing;shut off during drive, assistance, towing
+524;Assistance;Automobile;Towing or transportation of a vehicle;;Car without power, car towing;without power, vehicle, assistance, towing
+525;Assistance;Automotive;Towing or transportation of vehicles;;Broken spring;spring, break, assistance, towing
+526;Assistance;Automotive;Towing or transport of vehicle;;Transmission failure;transmission, assistance, towing
+527;Assistance;Automobile;Towing or transportation of the vehicle;;Clutch malfunction;clutch, assistance, towing
+528;Assistance;Automotive;Towing or transport of the vehicle;;Engine malfunction (warning lights, smoke from the engine);smoke from the engine, engine lights, assistance, towing
+529;Assistance;Automotive;Traffic accident;;Traffic accident;traffic accident, collision, automotive liability, assistance, towing, service, police
+530;Assistance;Automobile;Traffic accident;;Wildlife collision;wildlife, traffic accident, assistance, service, police
+531;Assistance;Automobile;Traffic accident;;Collision with a vehicle;collision, traffic accident, assistance
+532;Assistance;Automotive;Traffic accident;;Road slip;slip, traffic accident, assistance, service
+533;Assistance;Automobile;Traffic accident;;In which cases do I need to notify the police?;traffic accident, police
+534;Assistance;Automotive;Traffic accident;;How to handle a traffic accident?;traffic accident, damage, police, policy, 3 days
+535;Assistance;Automotive;Traffic accident;;Why is it necessary to fill out a European accident report?;European report, traffic accident, material damage, claim notification, police
+536;Assistance;Automotive;On-site assistance (SPI);;The vehicle does not start;vehicle does not start, battery, assistance, roadside assistance, SPI
+537;Assistance;Automotive;On-site assistance (SPI);;Empty battery;battery, empty, assistance, roadside help, SPI
+538;Assistance;Automobile;Help at the scene (SPI);;Flat tire;tire, rubber, deflated, assistance, roadside help, SPI
+539;Assistance;Automotive;On-site assistance (SPI);;Changing lights;changing lights, assistance, roadside help, SPI
+540;Assistance;Automotive;Replacement vehicle;;Arranging a replacement vehicle;replacement vehicle, assistance, plus, comfort, service, traffic accident, RAC
+541;Assistance;Automotive;Replacement vehicle;;I want to extend the rental of the replacement vehicle;extension of rental, replacement vehicle, assistance, plus, comfort, rental conditions, reminder
+542;Assistance;Automotive;Replacement vehicle;;Returning a replacement vehicle;replacement vehicle, assistance, plus, comfort, rental conditions, reminder
+543;Assistance;Automotive;Vehicle rescue during excursion / skidding off the road;;Stuck vehicle in mud, snow, ditch;mud, snow, ditch, stuck, assistance, vehicle rescue
+544;Assistance;Automobile;Removal of the consequences of refueling with the wrong fuel;;Refueling with the wrong fuel;wrong fuel, emptying and cleaning the tank, fuel cleaner, costs
+545;Assistance;Automobile;Help with vehicle key problems;;Locked keys in the vehicle;keys locked, spare keys, assistance
+546;Assistance;Automotive;Vehicle key issues assistance;;Locked person in the vehicle;spare keys, assistance
+547;Assistance;Automotive;Help with vehicle key issues;;Lost, stolen keys;lost keys, stolen keys, assistance, police
+548;Assistance;Automotive;Help with vehicle key issues;;Damaged keys, unlocking card;damaged keys, spare keys, unlocking card, spare keys, battery, assistance
+549;Assistance;Automotive;Theft (of parts) of the vehicle;;Stolen vehicle, part of the vehicle;theft, vehicle, assistance
+550;Assistance;Automobile;Fuel delivery for the vehicle;;Running out of fuel;out of fuel, gasoline, diesel, fuel costs, assistance, fuel delivery, vehicle
+551;Assistance;Automotive;Delivery of spare parts abroad;;Delivery of a spare part abroad;spare parts, abroad, repair, payment, assistance
+552;Assistance;Automotive;Customs clearance and transport to scrap/dismantling or transfer of damaged vehicle in a foreign country;;Customs clearance of a vehicle;transport to scrap, dismantling, vehicle transfer
+553;Assistance;Automobile;Customs clearance and transport to the scrap yard/dismantling or abandonment of damaged vehicles in a foreign country;;Transport of damaged vehicles to a scrap yard abroad;customs clearance, scrap yard, abandonment, assistance
+554;Assistance;Automotive;Transportation of persons/all insureds;;Transport to service/home/hotel;transport, taxi, public transport, towing contractor
+555;Assistance;Automotive;Provision of funds;;Missing funds, provisioning of funds;theft, funds, wallet, money, inability to pay, provision of funds, assistance
+556;Assistance;Automotive;Substitute driver abroad;;Substitute driver;substitute driver, injury, inability to drive, doctor's opinion
+557;Assistance;Automotive;Help in case of death abroad;;Organization of transportation of the deceased from abroad;assistance to relatives, traffic accident, transportation of deceased person
+558;Assistance;Automotive;Visiting relatives of injured policyholder abroad;;Visiting a family member who is being treated abroad;visit, relatives, injury, abroad, hospital, return ticket, public transport
+559;Assistance;Automotive;Accompaniment of minor insured persons;;Organization of transportation home for minors;traffic accident, hospital, death, transportation costs, public transport
+560;Assistance;Automotive;General Information AA;;What are the conditions for using automotive assistance?;automotive assistance, assistance center, assistance case, comfort, plus, remediation
+561;Assistance;Automotive;General Information AA;;Why are the lines busy?;automotive assistance, assistance center, assistance case, advertisements, operator
+562;Assistance;Automotive;General Information AA;;Can I call for assistance if I am not your policyholder?;call, 080 28 64, customer, assistance service, assistance
+563;Assistance;Home;Craft service - Failure of water supply or sewage system;;Leaking from the pipe;water, plumbing, installer, home assistance
+564;Assistance;Home;Craft service - Plumbing or sewage failure;;Flood, water leakage;flood, plumbing, installer, home assistance
+565;Assistance;Home;Craftsmanship service - Plumbing or sewage malfunction;;Blocked drain;drain, plumbing, installer, home assistance
+566;Assistance;Domestic;Craft service - Electrical wiring malfunction;;Electricity malfunction;electricity, electrical wiring, electrician, domestic assistance
+567;Assistance;Home;Craftsman service - Heating system malfunction;;Problems with the burner, radiators;radiator, installers in case of heating system malfunctions,
+568;Assistance;Home;Craft service - Roof or attic damage;;Roof damage;roof, roofer, home assistance
+569;Assistance;Home;Home protection;;Home protection;home protection, absence, burglary, home assistance
+570;Assistance;Domestic;Transportation and temporary accommodation in a hotel;;Temporary accommodation in a hotel;transport, domestic assistance
+571;Assistance;Domestic;Transport and temporary accommodation in a hotel;;Transport;accommodation in a hotel, conditions, costs, domestic assistance
+572;Assistance;Home;Opening entrance doors;;Trouble with opening entrance doors;entrance door, door opening, lock, locksmith, home assistance
+573;Assistance;Home;General information DA;;Information about veterinary services;information, veterinary, domestic animals, home assistance
+574;Assistance;Home;General Information DA;;Contractor for refrigerator repair;information, contractor, repair, refrigerator, home assistance
+575;Assistance;Domestic;General information DA;;Contractor for washing/dishwashing/drying machine repair;information, contractor, repair, washing machine, dishwasher, drying machine, domestic assistance
+576;Assistance;Home;General information DA;;Contractor for freezer repair;information, contractor, repair, freezer, home assistance
+577;Assistance;Home;General information DA;;Contractor for TV repair;information, contractor, repair, television, home assistance
+578;Assistance;Computer;Help in case of computer/profile intrusion;;Intrusion into computer/profile;intrusion, profile, social network, Facebook, Instagram, Gmail, Snapchat, Twitter, computer assistance
+579;Assistance;Computer;Help with restoring a computer/profile;;Trouble logging into a computer profile;login, Gmail, Outlook, profile, computer assistance
+580;Assistance;Computer;Help with restoring computer/profile;;Issues with computer audio;sound, settings, computer assistance
+581;Assistance;Computer;Help with computer/profile restoration;;Problems with the image on the computer;image, settings, screen, computer assistance
+582;Assistance;Computer;Help with restoring computer/profile;;Printer issues;printer, settings, computer assistance
+583;Assistance;Computer;Diagnostics and computer cleaning;;Cleaning the computer due to a virus;diagnostics, cleaning, virus, computer assistance
+584;Assistance;Computer;Installation of antivirus software;;Installation of antivirus software;antivirus software, firewall, protection, virus, computer assistance
+585;Assistance;Micro transport vehicles ;On-site assistance (SPI);;Battery depletion on an electric scooter;battery, electric scooter, assistance, roadside help
+586;Assistance;Micro transport vehicles;On-the-spot assistance (SPI);;Punctured tire;punctured tire, wheel, assistance, roadside assistance
+587;Assistance;Micro transport vehicles;On-site assistance (SPI);;Punctured tire;punctured tire, bicycle, assistance, roadside assistance
+588;Assistance;Micro transport vehicles;Assistance at the scene (SPI);;Broken gearshift;gearshift, bike, assistance, roadside assistance
+589;Assistance;Micro transport vehicles;On-site assistance (SPI);;Broken chain on a bicycle;chain, spare parts, bicycle, assistance, roadside help
+590;Assistance;Micro transport vehicles;Transport of micro transport vehicle;;Transportation of the bike to the service;transport, service, authorized service, assistance
+591;Assistance;Micro transportation vehicles;Transportation of persons/insured persons;;Transport to service/hotel/home;transport, residence, hotel, provider, public transport, taxi, assistance
+592;Assistance;Micro transport vehicles;Hotel accommodation;;Hotel accommodation;hotel, accommodation, conditions, overnight stay, 150 km, assistance
+593;Assistance;Micro transport vehicles;General information AMPS;;Information about assistance for micro transport vehicles;assistance, micro transport vehicle, assistance case
+594;Assistance;After injury;Specialist examination/treatment;;Specialist examination/treatment;health point, TZZ, specialist examination, assistance, after injury, 080 26 64
+595;Assistance;After injury;Diagnostic examination;;Diagnostic examination;health point, TZZ, diagnostic examination, assistance, after injury, 080 26 64
+596;Assistance;After injury;Outpatient rehabilitation, therapies;;Outpatient rehabilitation, therapies;outpatient rehabilitation, therapies, health point, TZZ, assistance, after injury, 080 26 64
+597;Assistance;Watercraft;Towing of watercraft;;Towing of watercraft;watercraft, assistance, towing
+598;Assistance;Watercraft;Delivery of spare parts for the watercraft;;Delivery of spare parts for the watercraft;spare parts, watercraft, assistance, delivery
+599;Assistance;Watercraft;Fuel delivery for watercraft;;Fuel delivery for watercraft;watercraft, fuel delivery, assistance
+600;Assistance;Watercraft;Help with engine start;;Help with engine start;assistance, engine start, help
+601;Assistance;Watercraft;Assistance in rescuing a lightly grounded vessel;;Assistance in rescuing a lightly grounded vessel;grounded vessel, rescue, assistance
+602;Assistance;Watercraft;Assistance in case of tangled rope in propeller;;Assistance in case of tangled rope in propeller;rope, propeller, assistance, help
+603;Assistance;Watercraft;Transport of policyholders by sea;;Transport of policyholders by sea;transport, assistance, policyholders, Sea Help
+604;Assistance;Watercraft;Information about weather conditions in the navigation area;;Information about weather conditions in the navigation area;assistance, watercraft, general information, Sea Help, +385 919 112 112
+605;Assistance;Watercraft;General information on assistance for watercraft;;Information on assistance for watercraft;assistance, watercraft, general information, Sea Help, +385 919 112 112
