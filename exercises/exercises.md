@@ -410,7 +410,7 @@ ___
 
 ___
 
-## :question: Exercise 13 - Safety Inspection
+## :question: Exercise 13 - Safety Inspection with gpt-4-vision 
 
 * Exercise: Write a prompt that tells you the amount of people wearng a helmet.
   ![safety-inspection](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/c70badb3-611c-48af-b0ad-6b552c8659b3)
@@ -443,7 +443,7 @@ ___
 
 ___
 
-## :question: Exercise 15 - Table Understanding and Reasoning
+## :question: Exercise 15 - Table Understanding and Reasoning with gpt-4-vision
 
 * Exercise: Write a prompt that tells you that 113 families are earning more than 13000 and own more than 2 cars.
   ![table_understanding](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/eb84390e-f200-4cab-a2b5-34a6d93170e2)
