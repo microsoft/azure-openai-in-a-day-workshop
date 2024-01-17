@@ -381,7 +381,7 @@ ___
 
 ___
 
-## :question: Exercise 12 - NL to SQL with Codex
+## :question: Exercise 12 - NL to SQL
 
 * Exercise: Write a prompt that generates the expected SQL statement
 * Table information:
@@ -407,3 +407,54 @@ ___
   ```
 
 </details>
+
+___
+
+## :question: Exercise 13 - Safety Inspection
+
+* Exercise: Write a prompt that tells you the amount of people wearng a helmet.
+  ![safety-inspection](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/c70badb3-611c-48af-b0ad-6b552c8659b3)
+
+
+
+<details>
+  <summary>:white_check_mark: See solution!</summary>
+
+  How many people are wearing a helmet?
+  ![safety-inspection](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/dd2c410d-0f2c-4b68-9521-844dea6cbbaf)
+
+ 
+</details>
+
+___
+
+## :question: Exercise 14 - Pythagorean theorem with gpt-4-vision
+
+* Exercise: Write a prompt that solves the task in the picture
+  ![math_task](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/5a52139e-e36e-4196-9a78-25f61b9a20a6)
+
+<details>
+  <summary>:white_check_mark: See solution!</summary>
+
+  Answer the question in the following figure. Provide intermediate steps.
+  ![math_task](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/5a52139e-e36e-4196-9a78-25f61b9a20a6)
+  
+</details>
+
+___
+
+## :question: Exercise 15 - Table Understanding and Reasoning
+
+* Exercise: Write a prompt that tells you that 113 families are earning more than 13000 and own more than 2 cars.
+  ![table_understanding](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/eb84390e-f200-4cab-a2b5-34a6d93170e2)
+
+
+<details>
+  <summary>:white_check_mark: See solution!</summary>
+
+  How many families are earning more than 13000 and own more than 2 cars? Provide intermediate steps.
+  ![table_understanding-2](https://github.com/microsoft/azure-openai-in-a-day-workshop/assets/80219443/d9bb940f-5de0-4f71-9bda-8fa4e4230f4e)
+ 
+</details>
+
+___
